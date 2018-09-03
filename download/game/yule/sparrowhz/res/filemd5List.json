@@ -1,0 +1,1702 @@
+{
+  "listdata": [
+    {
+      "md5": "adb64186523fb9de926f741fe1e47717", 
+      "name": "btn_leave.png", 
+      "path": "sparrowhz/res/"
+    }, 
+    {
+      "md5": "99f8f8538b09985cb6ab1ebaaf5c561c", 
+      "name": "btn_leave_press.png", 
+      "path": "sparrowhz/res/"
+    }, 
+    {
+      "md5": "9e5bef73d83b60bb8ec2c60b8ec8a854", 
+      "name": "gameScene.plist", 
+      "path": "sparrowhz/res/"
+    }, 
+    {
+      "md5": "ecd56ec7f8b155db6718ce5c984d8d61", 
+      "name": "gameScene.png", 
+      "path": "sparrowhz/res/"
+    }, 
+    {
+      "md5": "9c38621a65fe3099141915e6908913d8", 
+      "name": "Plist.plist", 
+      "path": "sparrowhz/res/"
+    }, 
+    {
+      "md5": "433db27d47eaa0c87291e6fbff0271c9", 
+      "name": "Plist.png", 
+      "path": "sparrowhz/res/"
+    }, 
+    {
+      "md5": "e25bf50065f76446018fd74866aa91b0", 
+      "name": "tag_num 2.png", 
+      "path": "sparrowhz/res/"
+    }, 
+    {
+      "md5": "bf8c2c6a113b1f75e4893c3a2eef6cb8", 
+      "name": "sice_1.png", 
+      "path": "sparrowhz/res/Animate_sice_red/"
+    }, 
+    {
+      "md5": "bd2fac90b6f17df7f2dac55c504c80c3", 
+      "name": "sice_2.png", 
+      "path": "sparrowhz/res/Animate_sice_red/"
+    }, 
+    {
+      "md5": "ed1d7cd43907e77d4fd8d15ed0b0d39b", 
+      "name": "sice_3.png", 
+      "path": "sparrowhz/res/Animate_sice_red/"
+    }, 
+    {
+      "md5": "c3c7b4f52b57c4d5970aff223bbc5ad4", 
+      "name": "sice_4.png", 
+      "path": "sparrowhz/res/Animate_sice_red/"
+    }, 
+    {
+      "md5": "a32dc41e74400598e82618490bf4103c", 
+      "name": "sice_5.png", 
+      "path": "sparrowhz/res/Animate_sice_red/"
+    }, 
+    {
+      "md5": "78779144a948015a5de93ee0dfa7b3b7", 
+      "name": "sice_6.png", 
+      "path": "sparrowhz/res/Animate_sice_red/"
+    }, 
+    {
+      "md5": "70f375f98afa2afcc75f192dbe963316", 
+      "name": "sice_1.png", 
+      "path": "sparrowhz/res/Animate_sice_white/"
+    }, 
+    {
+      "md5": "be64ccbc18bf67609cc1062782b66d67", 
+      "name": "sice_2.png", 
+      "path": "sparrowhz/res/Animate_sice_white/"
+    }, 
+    {
+      "md5": "35055e382ab7c885e551d8929bec2710", 
+      "name": "sice_3.png", 
+      "path": "sparrowhz/res/Animate_sice_white/"
+    }, 
+    {
+      "md5": "78bb385522244e6e8ef17acc474fc3fc", 
+      "name": "sice_4.png", 
+      "path": "sparrowhz/res/Animate_sice_white/"
+    }, 
+    {
+      "md5": "2fde4ba571424421a951a2674fbbb3ef", 
+      "name": "sice_5.png", 
+      "path": "sparrowhz/res/Animate_sice_white/"
+    }, 
+    {
+      "md5": "9ac3cee74bf45a6fe84f85b513b0b3b8", 
+      "name": "sice_6.png", 
+      "path": "sparrowhz/res/Animate_sice_white/"
+    }, 
+    {
+      "md5": "7b5c98a23993fb67ff9b05eea70ac37c", 
+      "name": "round_body.ttf", 
+      "path": "sparrowhz/res/fonts/"
+    }, 
+    {
+      "md5": "430af730f2da7367ddb745f3f68e619f", 
+      "name": "389_sp_setLayer_bg.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "4a6258bb14fd5eacc8edda473b673ae3", 
+      "name": "background_sparrowHz.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "4bb89544a82a5d9dbbb826a8654b8ab5", 
+      "name": "bg_02.jpg", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "42afd9542f001d2f3d105d56c8ffa11b", 
+      "name": "bt_bridge_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "0790962bd7a16dbc11033e0ff7b03d2b", 
+      "name": "bt_bridge_2.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "5d7eeaf1c7f3413e0d239802d98286c7", 
+      "name": "bt_bump_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "bd6de07a41de614f24a59e77d2fc9bc5", 
+      "name": "bt_bump_2.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "1dfb50e8ea7ffc6422e372581620a0d9", 
+      "name": "bt_eat_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "84145f4944a64bc4c2b182c561384ffb", 
+      "name": "bt_eat_2.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "4f4d338e3947c6d0199586c9a9c1e14d", 
+      "name": "bt_pass_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "315f23913a8b470167b99d0678525f56", 
+      "name": "bt_pass_2.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "495a2d6dbd10344cb0cfd27a26de451a", 
+      "name": "bt_win_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "0f2580d5e3a0b8a4908ab3946e763808", 
+      "name": "bt_win_2.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "1e93f9bd77a41def1e8a27529a7c1242", 
+      "name": "btn_close.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "f9d7551ff6fd06a4a9f31af993785254", 
+      "name": "btn_open.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "e3580498d1742e82eaf89b8bf15bec71", 
+      "name": "card_back_up.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "77befdac8a7ed9180d94fa3f25fc09d6", 
+      "name": "card_left.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "f551c716f4dd9033656dfabd83298f69", 
+      "name": "card_right.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "afe040ffe6c05140301307be416b53f2", 
+      "name": "GameScene.csb", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "6f7e76dae7bebfbc0079974fc6f8693b", 
+      "name": "num_clock.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "e11d79888e058797635a1c4f03dbbe50", 
+      "name": "num_score.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "ae8e40e166f9bbddfd72378dd59f9d65", 
+      "name": "Player.csb", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "cf78387a822542e1c3613763d6657e30", 
+      "name": "SetLayer.csb", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "877c59c0ded7d944531abd858fd58608", 
+      "name": "sp_gameBtn_bg.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "09e8d1e8f3b3e0ddd39d3abe8724d72c", 
+      "name": "sp_listenBg_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "72cfff6a0534610b58315bf1762a0b5f", 
+      "name": "sp_sparrowPlate.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "84b131e8184a17fa1c8c0dee69b57558", 
+      "name": "sp_trusteeCover.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "b2b4d8bf24842487cd34536609bc51ed", 
+      "name": "sp_trusteeMan.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "31bb57899c6ba0a42534e1c0c51aa769", 
+      "name": "tag_circle_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "b18f164cda34e744681ffe76413074b5", 
+      "name": "tag_circle_2.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "8137c8017853c897fb3f130fb9ebdd97", 
+      "name": "tag_circle_3.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "5398fbb65b49e6968c5c472a4222fd7c", 
+      "name": "tag_circle_4.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "b46e0167571fbb8eecd273d2abd3b046", 
+      "name": "tag_dialog.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "c4d2f4c0379f39d18a0ca37a606fd69e", 
+      "name": "tag_ting_repeat.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "02fa20fd78d49a93480d91fc665d8f8d", 
+      "name": "TrusteeCoverLayer.csb", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "fe6ca03d0b6c9ebdd86525adce68cdd9", 
+      "name": "card_back.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "d04bad31854d2c2e6d9bb828a4c46f2b", 
+      "name": "card_down.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "8896e31a90ee57bf076d7bbb10f6c830", 
+      "name": "card_up.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "516e04da13ec22f008faa1d57b6eb972", 
+      "name": "font_0_1.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "5bffb4009cbdf07841140ae7141ef310", 
+      "name": "font_0_2.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "f95e1147ac59fa8312fe16efb1b7a657", 
+      "name": "font_0_3.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "5823bc91872b942055a21dfa64ea4303", 
+      "name": "font_0_4.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "2b7e2be44c6929a5b901f14dd5830e08", 
+      "name": "font_0_5.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "7162b62c52d11ec7b8779757c682727f", 
+      "name": "font_0_6.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "32aa85aac6e5a1cda011f657e0605417", 
+      "name": "font_0_7.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "9782502f18e0c19a970c8047b46bda97", 
+      "name": "font_0_8.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "bd02f53deeef0516eadef9adce767d8e", 
+      "name": "font_0_9.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "ddc88f3760cb5d0e54e3dd7d2682a1f2", 
+      "name": "font_1_1.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "e0b2708302d49111fa4efab99f255242", 
+      "name": "font_1_2.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "121cbde32ad71825cba9cefc9ed3953d", 
+      "name": "font_1_3.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "52d8080de97c79f148b5466f04af8d04", 
+      "name": "font_1_4.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "4e12dbaad58dedc22497a30cd46c25ee", 
+      "name": "font_1_5.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "0acbc57d9df502f22cc67fc65d954b14", 
+      "name": "font_1_6.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "1027f57834b75c51f15951e8e3fe7991", 
+      "name": "font_1_7.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "222342bfb455ed412a24b8d628cdfd50", 
+      "name": "font_1_8.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "d8f1e2344e7c5c9939265af5e2056c69", 
+      "name": "font_1_9.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "38bfb2ce4c733271d6eb356970d8fd82", 
+      "name": "font_2_1.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "52ca8ad1666a2e1445acdc3aa8404413", 
+      "name": "font_2_2.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "35c08145f531f0ded777e9e81d9268c0", 
+      "name": "font_2_3.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "313e619ee20d7cbecfa4f431a816e56b", 
+      "name": "font_2_4.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "c7385ffabce22550645b93c033c55b19", 
+      "name": "font_2_5.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "b79f68bc8d842f6784656e66a65a097e", 
+      "name": "font_2_6.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "145e43f59cdf977857821bbe20915e3c", 
+      "name": "font_2_7.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "4f0a0b24d3a5b0c925d1baa33c9830b6", 
+      "name": "font_2_8.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "f9f429240c1a17d249463ecb9700fd08", 
+      "name": "font_2_9.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "43b6caae93d7afcb7ca44d3355bc863b", 
+      "name": "font_3_1.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "ef4f49e87d177a5403e49b1b90ae5495", 
+      "name": "font_3_2.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "0320e0c24305f74107a40f6018e62d5f", 
+      "name": "font_3_3.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "a0037ed7721e6566f56910d5ed3a0507", 
+      "name": "font_3_4.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "44f59bb3cd35e35b9feb38422532c7aa", 
+      "name": "font_3_5.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "9c3a20f6a801dc27673de75fc0778bd8", 
+      "name": "font_3_6.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "39df09343af61e70238c4ea779551fcd", 
+      "name": "font_3_7.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "8dfd3cb9c1182f55aad07bea41b86620", 
+      "name": "shade_down.png", 
+      "path": "sparrowhz/res/game/font_big/"
+    }, 
+    {
+      "md5": "b09b96fb54037456abf239691828570e", 
+      "name": "card_back.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "34b6f84e79473ec11af887448e7c7128", 
+      "name": "card_down.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "d70d9f1ee9e0db76a36f4514690cf63d", 
+      "name": "card_up.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "80261716ce327503d528482e70d78f25", 
+      "name": "font_0_1.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "d0cf8cb9f481a20363c65a517c825c67", 
+      "name": "font_0_2.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "a4cc12e09f105e34cac9e4a99966a725", 
+      "name": "font_0_3.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "9d7cd9b9fb6a173f0e76d470bf9d8ffe", 
+      "name": "font_0_4.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "1706b8136fbd6577a9760f603f6f3367", 
+      "name": "font_0_5.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "8b753b61366d4a91e8d8f79263e0992e", 
+      "name": "font_0_6.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "f431626f01e0533744b99435ada68df2", 
+      "name": "font_0_7.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "46cad8e0890acca5c7f49b9dfc088759", 
+      "name": "font_0_8.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "2bb5ba5cf4b0f41aa438aef8176f5bfc", 
+      "name": "font_0_9.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "24376e8527aaea55ff8a16eb18f11d9d", 
+      "name": "font_1_1.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "a8747ded28c0eb1253c0c9995f806547", 
+      "name": "font_1_2.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "2a56f704909fd238a86fe3d75387131d", 
+      "name": "font_1_3.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "48cf460f81cd2919ea370e17307ba29c", 
+      "name": "font_1_4.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "c9e050f7ed4bbbe75f0d2de022eafc11", 
+      "name": "font_1_5.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "b900d3b9a87dc20ffe6f6481652891b8", 
+      "name": "font_1_6.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "1cfa98c14b210eb586b8d7d1c342c383", 
+      "name": "font_1_7.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "1905f8ba0df23f0ad36994b3d19faf9b", 
+      "name": "font_1_8.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "68bbd154409e5cb51c6fd643180b0e16", 
+      "name": "font_1_9.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "2211c0dbfe3efeda2a8bf969cd17dfb7", 
+      "name": "font_2_1.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "9d22b0ca10a53244b389b6d68148e189", 
+      "name": "font_2_2.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "873024c20c405b4e6231e1f4aca2cc16", 
+      "name": "font_2_3.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "a3d1af74408f9b7cea95202b319c7547", 
+      "name": "font_2_4.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "ce106c5245f38a97691b5ddedc0488f7", 
+      "name": "font_2_5.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "7599ac71d72c24b01285e72630d74f8c", 
+      "name": "font_2_6.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "12c4f3b957b2aaa5a00792d2638ff16e", 
+      "name": "font_2_7.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "5e36de1575b1973ee4be7d3b23907c60", 
+      "name": "font_2_8.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "7594b2ef359203e4f21ba0d7ccbe840d", 
+      "name": "font_2_9.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "122448202b9974ee815b3e2a7ffb7a7a", 
+      "name": "font_3_1.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "a1c56bf39f21f534848526146a0fa0e1", 
+      "name": "font_3_2.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "cb403cf00a39ca68134412793d460801", 
+      "name": "font_3_3.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "a3a53195a37df626b9ee0833f4fd432a", 
+      "name": "font_3_4.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "a0bd56c1a134b73851b14bb7d7cdc672", 
+      "name": "font_3_5.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "5df0c98805f890846ba4ce00e0fc7bb5", 
+      "name": "font_3_6.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "b8277130bff32899bd42f561d87b66d7", 
+      "name": "font_3_7.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "807e0c32fcc7a77a43ce692546ae0060", 
+      "name": "shade_down.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "a4ff29f988124d30d7c8d4e5820bcec6", 
+      "name": "card_back.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "d2293095fd65912d29610d6030f73218", 
+      "name": "card_down.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "d70d9f1ee9e0db76a36f4514690cf63d", 
+      "name": "card_up.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "4630d1ecd0c3d9e9b4c821cc9adccecc", 
+      "name": "card_up1.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "88ef5031b79ce2fbe1406e03c7e758c5", 
+      "name": "font_0_1.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "97b9d202cd78d6bcec1902aef00d9119", 
+      "name": "font_0_2.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "ced0dc1078e68915934a3bbcd6d6442a", 
+      "name": "font_0_3.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "b135e4ebb441d8d92c029df92ed80552", 
+      "name": "font_0_4.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "d1883b62c04f8de7b6e46ec6699cf11d", 
+      "name": "font_0_5.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "ff66d8df67fdb992e0612a95de3d2a74", 
+      "name": "font_0_6.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "47895cf5f52a348cca91fb504a436255", 
+      "name": "font_0_7.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "d01869198e1dbddca161e475e50acffe", 
+      "name": "font_0_8.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "c882ceba6acd5e7400597b7f8e9644fb", 
+      "name": "font_0_9.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "a7079272d2a10544ec998720ff0da284", 
+      "name": "font_1_1.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "1edbd4dd18fac4a01d4fa540a31a31bf", 
+      "name": "font_1_2.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "307c35c4d5e6eb89f750c71f6792299b", 
+      "name": "font_1_3.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "ae57aa9c0940ca88c9831783858cadc0", 
+      "name": "font_1_4.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "ad0c65b4b6bc2985fef7110d20e86423", 
+      "name": "font_1_5.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "b09295f09a7e28f6c145e60464a076a0", 
+      "name": "font_1_6.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "306e56c0e28c7693da49054f512eaae5", 
+      "name": "font_1_7.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "05db8c0f9d1ff2740be2c32aeeef18e8", 
+      "name": "font_1_8.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "6b7e9e67da0315b91a4ba7722f3e9513", 
+      "name": "font_1_9.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "7fabdb7b534c478b68b9522e67926cbf", 
+      "name": "font_2_1.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "a8265258a2ceb2ae8eed4f8a47bb8842", 
+      "name": "font_2_2.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "937ddfbfcfcf0d39dd8b58abb39b3807", 
+      "name": "font_2_3.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "412770ba2c6d81b6fb66d57e1586dec2", 
+      "name": "font_2_4.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "c310fbf11a921c66dce1a7b519af350f", 
+      "name": "font_2_5.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "4676415069bd1719d808d810f1ada77f", 
+      "name": "font_2_6.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "daa4af673c5fafc6b3c20df61cb9466b", 
+      "name": "font_2_7.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "51a5ef802e8e24143a9643e4b485a0a4", 
+      "name": "font_2_8.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "6f4f299ead97d927587581f16069c6b6", 
+      "name": "font_2_9.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "62e831f35c2da90bb155009912dbda18", 
+      "name": "font_3_1.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "c30fc096dfe51bcd4472d75f29c13084", 
+      "name": "font_3_2.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "c9a61ffe32eb4655a728ce14dceb283c", 
+      "name": "font_3_3.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "bf0b4711aa0fccbbd9ccd72f7d2d2eb3", 
+      "name": "font_3_4.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "ee45d49cb5878cb8230f284073ff1a97", 
+      "name": "font_3_5.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "e8d48e1354d7d269f16f417b4cbb92cb", 
+      "name": "font_3_6.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "15f4d911fdfb001cb1e3286f50d60bd4", 
+      "name": "font_3_7.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "ae8e40e166f9bbddfd72378dd59f9d65", 
+      "name": "Player.csb", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "d119ecee2cfcb7dfe834e2bdfd04bcaa", 
+      "name": "shade_down.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "47463d122536683e7aa26fd5a3e31d7c", 
+      "name": "card_back.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "b8238cd2ca0ef8404ed28487474748fe", 
+      "name": "card_down.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "aa0cfb14e293d8bf82359f96ebf9df03", 
+      "name": "font_0_1.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "634d58e6b3d4d323b3ae4a3f44b8cdea", 
+      "name": "font_0_2.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "7ee26c1b86b197606f7c76e0ec6bb974", 
+      "name": "font_0_3.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "6acb929b974478793cf64b9ef8243955", 
+      "name": "font_0_4.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "19fb0e9c174188ce6266719cd750d68c", 
+      "name": "font_0_5.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "b1c3d67ad472a79aaaac914dc312c0f1", 
+      "name": "font_0_6.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "06f06cce36298c60dcebcdb860a1b6d7", 
+      "name": "font_0_7.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "1cd928ad91a0905d25b1d30719c88d76", 
+      "name": "font_0_8.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "5c70ca816e04ebe4277d117559292117", 
+      "name": "font_0_9.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "9dc7fbec96ca8a6403a3c9f927b18c8c", 
+      "name": "font_1_1.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "07fbc3656d81a73e5e7f02f2de484144", 
+      "name": "font_1_2.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "8ec779a87a4c2a06eb19157592e31837", 
+      "name": "font_1_3.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "a2b62a96251fc6dfe55ab0517a2b7424", 
+      "name": "font_1_4.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "4044173e248b3992ff860dbe4cdcb1b1", 
+      "name": "font_1_5.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "4dc83245e48e2ea5d07d4f9be9b5bce7", 
+      "name": "font_1_6.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "ad7ada7b56ccfe59f7ba5d2c20f978d6", 
+      "name": "font_1_7.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "1ecb48db915d95eb2fd88d590b79f063", 
+      "name": "font_1_8.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "6444052410268d963c693b6cfed1ecae", 
+      "name": "font_1_9.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "9ca9e9d20c58f542f215fe2583c3587e", 
+      "name": "font_2_1.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "9e154b5af106f5b2d977b7b1f20aecb2", 
+      "name": "font_2_2.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "3c80eb65874647859c8b593ffdc73a8c", 
+      "name": "font_2_3.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "70840be67ad8a5876c449907f8baa082", 
+      "name": "font_2_4.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "ada34dae5776d84f8c980d4e13731d25", 
+      "name": "font_2_5.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "3823c0b0a7c80506446fa83752ffe762", 
+      "name": "font_2_6.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "4996067919c3d8861f2574f4cc5e2ad8", 
+      "name": "font_2_7.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "f0cc976e4ebe40372118b07bfedb9cf7", 
+      "name": "font_2_8.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "61dae803d5d0c51725965a249e60730f", 
+      "name": "font_2_9.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "f2a2211fe577145434563d84b97f0a90", 
+      "name": "font_3_1.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "9a525a705777269c3f1faebfef834bd0", 
+      "name": "font_3_2.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "f8410738dc5695ea7f7eeeb260df462e", 
+      "name": "font_3_3.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "38206dee8e6a518175272418c12f67e3", 
+      "name": "font_3_4.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "49a8078b7fb615fc6409d06175c4c3b4", 
+      "name": "font_3_5.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "3976c556aad2fc18a51547ec648ea3da", 
+      "name": "font_3_6.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "937cad3c7af3a025ef9bd66b7973aa3e", 
+      "name": "font_3_7.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "eceb89243314382565176f536ff3b45f", 
+      "name": "shade_down.png", 
+      "path": "sparrowhz/res/game/font_small_side/"
+    }, 
+    {
+      "md5": "1779fc4d466fac3a5f6761a14c46baf0", 
+      "name": "bg_content.png", 
+      "path": "sparrowhz/res/gameResult/"
+    }, 
+    {
+      "md5": "d5dc9d2c18ba1c910802ede78a541977", 
+      "name": "GameResultLayer.csb", 
+      "path": "sparrowhz/res/gameResult/"
+    }, 
+    {
+      "md5": "74d244d7767c8e810b1233b5a2655a6c", 
+      "name": "nodeUser.csb", 
+      "path": "sparrowhz/res/gameResult/"
+    }, 
+    {
+      "md5": "6dabbbc41abbcafb206bebec39f0e981", 
+      "name": "num_lose.png", 
+      "path": "sparrowhz/res/gameResult/"
+    }, 
+    {
+      "md5": "2f00f17df3403a050c537a0c2ed18b8a", 
+      "name": "num_win.png", 
+      "path": "sparrowhz/res/gameResult/"
+    }, 
+    {
+      "md5": "a4f72d8418ccec579a2df3f8a1f475f9", 
+      "name": "tag_banker.png", 
+      "path": "sparrowhz/res/gameResult/"
+    }, 
+    {
+      "md5": "8e900b0b9b4a0b9e6958d232f19e8e39", 
+      "name": "tag_dialog_bg.png", 
+      "path": "sparrowhz/res/gameResult/"
+    }, 
+    {
+      "md5": "9b059b06b3a16f5788d15a750ab165ba", 
+      "name": "tag_dialog_bg_02.png", 
+      "path": "sparrowhz/res/gameResult/"
+    }, 
+    {
+      "md5": "f68d7144273a1a7aae0adb55b9e7f49a", 
+      "name": "tag_profile.png", 
+      "path": "sparrowhz/res/gameResult/"
+    }, 
+    {
+      "md5": "84a87d84caef49b2d9f5c70d71d629f4", 
+      "name": "icon_roomlist_0.png", 
+      "path": "sparrowhz/res/roomlist/"
+    }, 
+    {
+      "md5": "af613ec83c499b7a72b139465269efd4", 
+      "name": "icon_roomlist_1.png", 
+      "path": "sparrowhz/res/roomlist/"
+    }, 
+    {
+      "md5": "9e8c1f294c5b17297a5ebf07e7b03fd1", 
+      "name": "icon_roomlist_2.png", 
+      "path": "sparrowhz/res/roomlist/"
+    }, 
+    {
+      "md5": "b8992a97f2273d7b901a1e8f12cc5bb5", 
+      "name": "roomlist_title.png", 
+      "path": "sparrowhz/res/roomlist/"
+    }, 
+    {
+      "md5": "ddf8369c60dec1f573e2689c0fbdf817", 
+      "name": "roomtable.png", 
+      "path": "sparrowhz/res/roomlist/"
+    }, 
+    {
+      "md5": "b8056410f4f8582007b02cbef6340b1f", 
+      "name": "roomtable_play.png", 
+      "path": "sparrowhz/res/roomlist/"
+    }, 
+    {
+      "md5": "0470d3a8bb87cdb88c8ad8a6f1a9dc31", 
+      "name": "Rule.txt", 
+      "path": "sparrowhz/res/roomlist/"
+    }, 
+    {
+      "md5": "ebbe99542bedcf07be50dbc921f1d3d7", 
+      "name": "BACK_PLAYING.wav", 
+      "path": "sparrowhz/res/sound/"
+    }, 
+    {
+      "md5": "ba95c34e0c6f09e8b26b2bba9c245d41", 
+      "name": "DRAW_SICE.wav", 
+      "path": "sparrowhz/res/sound/"
+    }, 
+    {
+      "md5": "958e505c5be42507fe33d159e27a1f43", 
+      "name": "GAME_START.wav", 
+      "path": "sparrowhz/res/sound/"
+    }, 
+    {
+      "md5": "046d22829644b47aaad332e8bbc76c42", 
+      "name": "GAME_TRUSTEE.wav", 
+      "path": "sparrowhz/res/sound/"
+    }, 
+    {
+      "md5": "84a6693a087943c024171f60a9929ea5", 
+      "name": "GAME_UNTRUSTEE.wav", 
+      "path": "sparrowhz/res/sound/"
+    }, 
+    {
+      "md5": "60879d23a8ba78db6b33fb3057ded065", 
+      "name": "GAME_WARN.wav", 
+      "path": "sparrowhz/res/sound/"
+    }, 
+    {
+      "md5": "24d0b40c827d7ce7503f68d4ecbaca71", 
+      "name": "OUT_CARD.wav", 
+      "path": "sparrowhz/res/sound/"
+    }, 
+    {
+      "md5": "89a1184a45701b1f8ea13768d7b74ef3", 
+      "name": "PACK_CARD.wav", 
+      "path": "sparrowhz/res/sound/"
+    }, 
+    {
+      "md5": "d8a1a8a4f377dfc8508cd1459576cca7", 
+      "name": "SEND_CARD.wav", 
+      "path": "sparrowhz/res/sound/"
+    }, 
+    {
+      "md5": "2d9d52c855490d2095e325e4b89e6b06", 
+      "name": "ZIMO_LOSE.wav", 
+      "path": "sparrowhz/res/sound/"
+    }, 
+    {
+      "md5": "4bdc5f42ba9117b7b5f4c609f0f958ae", 
+      "name": "ZIMO_WIN.wav", 
+      "path": "sparrowhz/res/sound/"
+    }, 
+    {
+      "md5": "1142c62a0cae193e58e6ed9a1b8ca032", 
+      "name": "CHI.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "f6fe868feaebe12dd2bd677422f5b943", 
+      "name": "CHI_HU.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "8f041cabb9816658f28e3f26918dcf64", 
+      "name": "F_1.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "0375d47effb7c0a85a7d693f76aec998", 
+      "name": "F_2.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "cd502a89aa98b0d602ae69f8cb6d695a", 
+      "name": "F_3.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "e9c4001f58c40edfd3e6022b07947eb8", 
+      "name": "F_4.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "b30f848e1d01f33238798b728c2f0da2", 
+      "name": "F_5.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "849d1a87880eb455fb032a822d9766b9", 
+      "name": "F_6.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "d48e13ec698b6cbb1bb8665237063d82", 
+      "name": "F_7.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "7b915544738067699c29872e3cd63a70", 
+      "name": "GANG.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "39e6d8c67c83d0c7caa6837739dbecf7", 
+      "name": "PENG.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "eeb849af63443adec70f73a235534552", 
+      "name": "REPLACE.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "29772faa53fac36c418b77ae4fde9be3", 
+      "name": "S_1.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "9cade28951848c47cde50e786279a115", 
+      "name": "S_2.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "f8ef96efc14c568b51f316c6c9f794b0", 
+      "name": "S_3.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "856b7dc264e1c8352513b6a19d5de622", 
+      "name": "S_4.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "1d48e42b56869e6b82b548076e620bdf", 
+      "name": "S_5.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "6e611497c9dbca77fff1e3ae7f0407b7", 
+      "name": "S_6.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "86662db99dcc6c544fa4df8e3b330342", 
+      "name": "S_7.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "d17557b05737fa0fb32e7c90c09d5e21", 
+      "name": "S_8.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "a34f65448e1800c17ddbfe220adde504", 
+      "name": "S_9.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "2c9397817ff35658cfaa89c8fab603ce", 
+      "name": "T_1.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "2721810a48cf073c29ea8fac9b3ed0c2", 
+      "name": "T_2.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "3724594dde3cfadb661be60a58645174", 
+      "name": "T_3.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "82db97612719c1f9db0cde0741c87571", 
+      "name": "T_4.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "24186eb2186c7d42db5e1bf24418606c", 
+      "name": "T_5.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "1657415b565f3ff50c97f66b3a00820e", 
+      "name": "T_6.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "4eaf0a5e14d00d4db28455b517573cf2", 
+      "name": "T_7.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "03f891b0ac25c95d8d076da3aa8141bc", 
+      "name": "T_8.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "e0bdf6d6f91ef931f7ae0c64730397f4", 
+      "name": "T_9.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "56b02c0918f0a08a412b8c13c794e0a7", 
+      "name": "TING.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "0c7b8a66b77ff2524d16fded8a10bd5e", 
+      "name": "W_1.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "26853afe1315b07a66546b2ac489885d", 
+      "name": "W_2.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "fe7fdcfb68e0a595a839aa5c79a82e4f", 
+      "name": "W_3.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "12ad8a986600b1602d2c9c97a1b94541", 
+      "name": "W_4.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "c21adb61c8523847f1702f57dbbbea6a", 
+      "name": "W_5.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "2fcc8adb0e59b99e1397ab879eae6a84", 
+      "name": "W_6.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "3a6d6dbfb639fa2604d3c0f190df1331", 
+      "name": "W_7.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "6a9b45c55eb19e9e6d1c2a4d6d19fa0a", 
+      "name": "W_8.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "ec0980c962e8b5c9953bb2aecb42036c", 
+      "name": "W_9.wav", 
+      "path": "sparrowhz/res/sound/BOY/"
+    }, 
+    {
+      "md5": "fc90bf0ae1528f4a735fe1d64d959d1d", 
+      "name": "CHI.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "7823214a5016077a3d6960f03800570b", 
+      "name": "CHI_HU.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "8a06e7b67b015272b88c829b7ec825f8", 
+      "name": "F_1.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "75299a27f3b149eef9992944769b6624", 
+      "name": "F_2.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "1b182c52093d6ce6e1b9ffe2a1d374da", 
+      "name": "F_3.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "e9ad334caa6ff1ab1b3dc3ad943158c3", 
+      "name": "F_4.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "f11aa38800751b49101bc5cc6d517e0a", 
+      "name": "F_5.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "f4f46292d8db622744508e531b4be05b", 
+      "name": "F_6.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "1eb3b914a7bd36cc140bcfd3c0f2035b", 
+      "name": "F_7.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "9dc8db2da139fcceeca5ae4e628f2b5d", 
+      "name": "GANG.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "1e23ebbfae77eb74af91f97c7b6fafbb", 
+      "name": "PENG.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "edc9e6d6db21710f1ccbc02d361ad0c9", 
+      "name": "REPLACE.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "c4eb25014dc488624edfc3a551b0ec56", 
+      "name": "S_1.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "668757e17bfd33377ac4fb3d6932cf24", 
+      "name": "S_2.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "376b49332a7c9371f98de203a7cd5045", 
+      "name": "S_3.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "d7e260d54ae54c647a4658ce69678ca0", 
+      "name": "S_4.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "3d32b715884e84c78e6bbb96df0e5d71", 
+      "name": "S_5.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "834404c036074857f8f61958291f107d", 
+      "name": "S_6.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "fbf363a4b9c9c81747eb0b82a1da1d3c", 
+      "name": "S_7.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "94597d604bc6cdc4f193c2d0bc278040", 
+      "name": "S_8.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "c74c3e9dd4ddbae8a5ca3e6b2f80b2be", 
+      "name": "S_9.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "22f57697021d30b4b0a71ad88a6912c4", 
+      "name": "T_1.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "d28552bc3e2a08c2e862e7d242c1976c", 
+      "name": "T_2.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "a4b4cd0f6f472e92f7cd50c2b6550d96", 
+      "name": "T_3.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "65f30cb4596084ff834ab8a1d4644bd6", 
+      "name": "T_4.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "92c939c246efaa21f7d32ac1c72ef429", 
+      "name": "T_5.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "7b4b4f4f3a2d3d036a6bfe0934648bfc", 
+      "name": "T_6.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "0c42abffc9510a63c14bea10e45e35d7", 
+      "name": "T_7.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "5ac7b6dd65779747b8bbc3fbba157f3f", 
+      "name": "T_8.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "928ef32e00d300a27b1d3a287cddbdb1", 
+      "name": "T_9.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "94678ebf4ad6ad7f6d4a321615291f5d", 
+      "name": "TING.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "65666ec314141d0fbd2c0f2550b01f46", 
+      "name": "W_1.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "d970107b530f4bc1927c69994e03336a", 
+      "name": "W_2.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "2c1d6e563d25944ca23e0e0ed55e67a6", 
+      "name": "W_3.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "4ce3f9745a30562c07439b0475be069e", 
+      "name": "W_4.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "8e0d89bbf9f031a3f4729f9b39f9e7c8", 
+      "name": "W_5.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "863905cea6625a4b349cc62b398c3def", 
+      "name": "W_6.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "8d107dffb3b1ceea65045f7e349e6fd8", 
+      "name": "W_7.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "81381a86823281d07d62a43d52b62a64", 
+      "name": "W_8.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "2c4bf8d1980107303bdad39522329109", 
+      "name": "W_9.wav", 
+      "path": "sparrowhz/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "4507a322828458b2023ad315273c2bd7", 
+      "name": "6603000.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/BOY/"
+    }, 
+    {
+      "md5": "85141882402eebc73c8b2ea7ebe8f40f", 
+      "name": "6603001.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/BOY/"
+    }, 
+    {
+      "md5": "78067824a74416c81eef03990ddedb99", 
+      "name": "6603002.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/BOY/"
+    }, 
+    {
+      "md5": "4a6566112c07d9d84b96c45d5a1a6090", 
+      "name": "6603003.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/BOY/"
+    }, 
+    {
+      "md5": "28896e361663735e3efd8b2afa1d2a0f", 
+      "name": "6603004.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/BOY/"
+    }, 
+    {
+      "md5": "f752b19c0225e704dc4fcb8988e7d40e", 
+      "name": "6603005.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/BOY/"
+    }, 
+    {
+      "md5": "3140ca3d2538cc44789efc5ed73028ec", 
+      "name": "6603006.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/BOY/"
+    }, 
+    {
+      "md5": "819d9ce1c3f22eccd0394d62b575c04b", 
+      "name": "6603000.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/GIRL/"
+    }, 
+    {
+      "md5": "592fd4243c73e1493f230bb1ddfbe545", 
+      "name": "6603001.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/GIRL/"
+    }, 
+    {
+      "md5": "b12aaa201ae1cdb1a25cd671e2e6d144", 
+      "name": "6603002.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/GIRL/"
+    }, 
+    {
+      "md5": "81d80b6d22f929a4c24a45caacf19383", 
+      "name": "6603003.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/GIRL/"
+    }, 
+    {
+      "md5": "8619682fe3c6d71a453e118b37363d38", 
+      "name": "6603004.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/GIRL/"
+    }, 
+    {
+      "md5": "643ebcf26da8fd3848011e6ef21543d4", 
+      "name": "6603005.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/GIRL/"
+    }, 
+    {
+      "md5": "de02198d1175e72f6ea44d406da66115", 
+      "name": "6603006.wav", 
+      "path": "sparrowhz/res/sound/PhraseVoice/GIRL/"
+    }, 
+    {
+      "md5": "f3471844947d443f6afcd7147674941e", 
+      "name": "CMD_Game.luac", 
+      "path": "sparrowhz/src/models/"
+    }, 
+    {
+      "md5": "4f598c0db48e11c94f4bef787e538519", 
+      "name": "GameLogic.luac", 
+      "path": "sparrowhz/src/models/"
+    }, 
+    {
+      "md5": "aa1824b9b591dedd4a80677d8ac74728", 
+      "name": "GameLayer.luac", 
+      "path": "sparrowhz/src/views/"
+    }, 
+    {
+      "md5": "4c293806b071e531213a4e1b57a36a9d", 
+      "name": "GameRoomLayer.luac", 
+      "path": "sparrowhz/src/views/"
+    }, 
+    {
+      "md5": "02ce9a56d4af422cd07f6e2e888dcb60", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "sparrowhz/src/views/"
+    }, 
+    {
+      "md5": "1a6aedac42a49201689d029b5e4bc84d", 
+      "name": "CardLayer.luac", 
+      "path": "sparrowhz/src/views/layer/"
+    }, 
+    {
+      "md5": "cb8726b6b34f322dda93a1de440df613", 
+      "name": "GameViewLayer.luac", 
+      "path": "sparrowhz/src/views/layer/"
+    }, 
+    {
+      "md5": "cdc9b4d72c2cf34bde6e7da52980d29f", 
+      "name": "ResultLayer.luac", 
+      "path": "sparrowhz/src/views/layer/"
+    }, 
+    {
+      "md5": "f25153246e83454aea66be97f13fcfdd", 
+      "name": "SetLayer.luac", 
+      "path": "sparrowhz/src/views/layer/"
+    }, 
+    {
+      "md5": "2566efb191f48ba099835111c632c5cb", 
+      "name": "SettingLayer.luac", 
+      "path": "sparrowhz/src/views/layer/"
+    }, 
+    {
+      "allcount": 339
+    }
+  ]
+}
