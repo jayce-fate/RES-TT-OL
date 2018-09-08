@@ -301,6 +301,11 @@
       "path": "runfasthn/res/sound/"
     }, 
     {
+      "md5": "8c0eb6c87a45525eca062428138a4d14", 
+      "name": "Failure.mp3", 
+      "path": "runfasthn/res/sound/"
+    }, 
+    {
       "md5": "9f73080c575ad208af1c31800d56f26b", 
       "name": "GAME_END.WAV", 
       "path": "runfasthn/res/sound/"
@@ -333,6 +338,26 @@
     {
       "md5": "b81338369ed5cacb23c17c83e4508773", 
       "name": "OUT_CARD.wav", 
+      "path": "runfasthn/res/sound/"
+    }, 
+    {
+      "md5": "938909e8a289b8cb1d42c5f5d2799645", 
+      "name": "pdk_room_seawave.mp3", 
+      "path": "runfasthn/res/sound/"
+    }, 
+    {
+      "md5": "bd8f4279cce517cf4d90ecdc68abce01", 
+      "name": "Playing_cards.mp3", 
+      "path": "runfasthn/res/sound/"
+    }, 
+    {
+      "md5": "49d294598c4a42e8271dfdab8abb6d14", 
+      "name": "table_background_music.mp3", 
+      "path": "runfasthn/res/sound/"
+    }, 
+    {
+      "md5": "97a86740e7f8fd13950dd23d47c11ff4", 
+      "name": "Victory.mp3", 
       "path": "runfasthn/res/sound/"
     }, 
     {
@@ -423,6 +448,16 @@
     {
       "md5": "d2af067262069273f23cdf5734840020", 
       "name": "FOUR_TAKE_TWO.wav", 
+      "path": "runfasthn/res/sound/BOY/"
+    }, 
+    {
+      "md5": "53cca1b2578b38d4bd14a580cb507d8c", 
+      "name": "onlyOneCard_1.mp3", 
+      "path": "runfasthn/res/sound/BOY/"
+    }, 
+    {
+      "md5": "69d8d2fb9fa8f71d8ade9b8f699664fe", 
+      "name": "onlyOneCard_2.mp3", 
       "path": "runfasthn/res/sound/BOY/"
     }, 
     {
@@ -621,6 +656,16 @@
       "path": "runfasthn/res/sound/GIRL/"
     }, 
     {
+      "md5": "e98c3dabc88b0bc76fb576d2b6cdc310", 
+      "name": "onlyOneCard_1.mp3", 
+      "path": "runfasthn/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "795be278973c554a17c0d5e3b4675a5b", 
+      "name": "onlyOneCard_2.mp3", 
+      "path": "runfasthn/res/sound/GIRL/"
+    }, 
+    {
       "md5": "64a10ae6f8bc539eb4de2eb6d9d0642e", 
       "name": "OUT_CARD.wav", 
       "path": "runfasthn/res/sound/GIRL/"
@@ -736,7 +781,7 @@
       "path": "runfasthn/src/models/"
     }, 
     {
-      "md5": "c58b278e3715688e605c287578cd5a3d", 
+      "md5": "67f282baa8a8c0218b1299fa116e695b", 
       "name": "GameLayer.luac", 
       "path": "runfasthn/src/views/"
     }, 
@@ -751,7 +796,7 @@
       "path": "runfasthn/src/views/"
     }, 
     {
-      "md5": "95f9569517c9cfb7dbb4d4b1d79e4512", 
+      "md5": "39ececf72894c5aabb0a953d4724cc74", 
       "name": "GameViewLayer.luac", 
       "path": "runfasthn/src/views/layer/"
     }, 
@@ -766,12 +811,12 @@
       "path": "runfasthn/src/views/layer/"
     }, 
     {
-      "md5": "0ad4face63e91971836094e72ed93879", 
+      "md5": "fa367c919773fed5f285ea4249437cb2", 
       "name": "SetLayer.luac", 
       "path": "runfasthn/src/views/layer/"
     }, 
     {
-      "md5": "f54080095bb91703889809d7b38bf17a", 
+      "md5": "b5305c9009f84bfdc82d6ee6b6ada2a9", 
       "name": "CardsNode.luac", 
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
@@ -781,7 +826,7 @@
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 156
+      "allcount": 165
     }
   ]
 }
