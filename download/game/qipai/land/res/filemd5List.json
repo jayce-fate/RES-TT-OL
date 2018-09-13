@@ -452,11 +452,6 @@
     }, 
     {
       "md5": "285b55b4c8c69d96e71194bae4b80c8c", 
-      "name": "GameEffectLayer 2.csb", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "285b55b4c8c69d96e71194bae4b80c8c", 
       "name": "GameEffectLayer.csb", 
       "path": "land/res/game/"
     }, 
@@ -481,11 +476,6 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "b69a53b6f91a364f9fcb6b2f7674c513", 
-      "name": "GameResultLayer 2.csb", 
-      "path": "land/res/game/"
-    }, 
-    {
       "md5": "4ec55c3535346dac200dd0b436f066a9", 
       "name": "GameResultLayer.csb", 
       "path": "land/res/game/"
@@ -493,11 +483,6 @@
     {
       "md5": "c30829986d794dc8619bd31771eccd5b", 
       "name": "GameRoleInfo.csb", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "370534ad89d57d151b75425d317dd7b5", 
-      "name": "GameRoleItem 2.csb", 
       "path": "land/res/game/"
     }, 
     {
