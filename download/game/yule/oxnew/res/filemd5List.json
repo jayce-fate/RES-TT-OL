@@ -691,7 +691,7 @@
       "path": "oxnew/src/tools/"
     }, 
     {
-      "md5": "08e5965afb8c9d5859135452bfd8e805", 
+      "md5": "b8570589dce968aa46cfe58e8fa031ad", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -711,7 +711,7 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "7b88c038600d4f074a797f698e2bdd38", 
+      "md5": "635d5d21c790c70117f01507f3df2b8a", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
