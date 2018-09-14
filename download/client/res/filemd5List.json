@@ -6026,7 +6026,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "912c6b3e0f568feb4c7c311f392ea46d", 
+      "md5": "2f1d03570374cb6be95960faf9da8951", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -6236,7 +6236,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "750da97e92c1171f4543ea6c257bad27", 
+      "md5": "80cc7add7ea6ebd4164165af42a6c915", 
       "name": "ContactProxyLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6256,7 +6256,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "9dc28a3616cae46620144b16030d4a23", 
+      "md5": "98e45fc3c908867473a1e0a6da13477a", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6266,7 +6266,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "80e25bf7de23e7a19d56bbebea51a1cd", 
+      "md5": "8e458867f4668a0b2a62b10b50cd70e8", 
       "name": "MailBoxLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6306,7 +6306,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "943c8364d0f573e6b83904bf8acb05bf", 
+      "md5": "5861ce76b622e28393aa50dcbc628ffe", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6371,7 +6371,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "d942d6b9b0c51b67f218c3fc705e9a06", 
+      "md5": "ba8c9e13e108d7287667122aeac87aab", 
       "name": "WhiteBoardLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 

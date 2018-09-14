@@ -1036,49 +1036,59 @@
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "1779fc4d466fac3a5f6761a14c46baf0", 
-      "name": "bg_content.png", 
-      "path": "sparrowhz/res/gameResult/"
-    }, 
-    {
-      "md5": "d5dc9d2c18ba1c910802ede78a541977", 
+      "md5": "3c883141fcab43f4f63ba67f42d26171", 
       "name": "GameResultLayer.csb", 
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "74d244d7767c8e810b1233b5a2655a6c", 
+      "md5": "d429124413d04e058d0f6bd6094edeb3", 
       "name": "nodeUser.csb", 
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "6dabbbc41abbcafb206bebec39f0e981", 
+      "md5": "2b5837f350f0dcb1e96e624d81fd29a0", 
       "name": "num_lose.png", 
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "2f00f17df3403a050c537a0c2ed18b8a", 
+      "md5": "e0fd4b817c1d17dd7c06f0e2c7ca8bbf", 
       "name": "num_win.png", 
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "a4f72d8418ccec579a2df3f8a1f475f9", 
-      "name": "tag_banker.png", 
-      "path": "sparrowhz/res/gameResult/"
+      "md5": "9a2d7c14e4d38fe5a02b27654c19fe34", 
+      "name": "bg.png", 
+      "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "8e900b0b9b4a0b9e6958d232f19e8e39", 
-      "name": "tag_dialog_bg.png", 
-      "path": "sparrowhz/res/gameResult/"
+      "md5": "fae5ac9f1b2e0cd32bf8b7a45369711f", 
+      "name": "fh.png", 
+      "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "9b059b06b3a16f5788d15a750ab165ba", 
-      "name": "tag_dialog_bg_02.png", 
-      "path": "sparrowhz/res/gameResult/"
+      "md5": "ef204856682245d2a4ec4667db4f9086", 
+      "name": "jxyx.png", 
+      "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
-      "md5": "f68d7144273a1a7aae0adb55b9e7f49a", 
-      "name": "tag_profile.png", 
-      "path": "sparrowhz/res/gameResult/"
+      "md5": "48e23f475eb93c3b4cfe9b048b0b3e8c", 
+      "name": "lose.png", 
+      "path": "sparrowhz/res/gameResult/hzmj/"
+    }, 
+    {
+      "md5": "7a85cd2fdfbb20a949b04195ef01fa3d", 
+      "name": "mj_d.png", 
+      "path": "sparrowhz/res/gameResult/hzmj/"
+    }, 
+    {
+      "md5": "ee9c8f53b8b54e0ea4b2784a9024e465", 
+      "name": "tx_d.png", 
+      "path": "sparrowhz/res/gameResult/hzmj/"
+    }, 
+    {
+      "md5": "869077cde92910108b946250aed027c6", 
+      "name": "win.png", 
+      "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
       "md5": "84a87d84caef49b2d9f5c70d71d629f4", 
@@ -1676,7 +1686,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "cdc9b4d72c2cf34bde6e7da52980d29f", 
+      "md5": "1e207f23829c6b052edaefa210ccadc9", 
       "name": "ResultLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
@@ -1691,7 +1701,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "allcount": 338
+      "allcount": 340
     }
   ]
 }
