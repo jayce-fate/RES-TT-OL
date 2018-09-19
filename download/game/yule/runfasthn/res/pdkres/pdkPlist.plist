@@ -4,54 +4,98 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>pdkres/btn_care.png</key>
+			<key>pdkres/btn_back.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{0,943},{183,70}}</string>
+				<string>{{977,0},{118,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,39}</string>
+			</dict>
+			<key>pdkres/btn_change.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{977,118},{118,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,39}</string>
+			</dict>
+			<key>pdkres/btn_change_unactive.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{977,236},{118,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,39}</string>
+			</dict>
+			<key>pdkres/btn_continue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{703,392},{253,92}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
+				<key>sourceSize</key>
+				<string>{253,92}</string>
+			</dict>
+			<key>pdkres/btn_leave.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{703,248},{255,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{255,95}</string>
+			</dict>
+			<key>pdkres/btn_care.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{480,445},{183,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
 				<key>sourceSize</key>
 				<string>{183,70}</string>
 			</dict>
 			<key>pdkres/btn_care_invalid.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{183,943},{183,70}}</string>
+				<string>{{480,628},{183,70}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
 				<string>{183,70}</string>
-			</dict>
-			<key>pdkres/btn_diaog_bg.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{0,0},{251,283}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{251,283}</string>
 			</dict>
 			<key>pdkres/btn_login_out.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{366,943},{183,70}}</string>
+				<string>{{384,633},{183,70}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
 				<string>{183,70}</string>
 			</dict>
 			<key>pdkres/btn_login_out_invalid.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{364,124},{183,70}}</string>
+				<string>{{454,811},{183,70}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -62,18 +106,18 @@
 			<key>pdkres/btn_more.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{251,124},{116,113}}</string>
+				<string>{{826,608},{116,113}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
 				<string>{116,113}</string>
 			</dict>
 			<key>pdkres/btn_noplay_invalid.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{0,283},{188,96}}</string>
+				<string>{{0,725},{188,96}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -84,18 +128,18 @@
 			<key>pdkres/btn_noshow.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{0,471},{188,96}}</string>
+				<string>{{0,913},{188,96}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
 				<string>{188,96}</string>
 			</dict>
 			<key>pdkres/btn_play.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{0,659},{188,96}}</string>
+				<string>{{96,725},{188,96}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -106,7 +150,7 @@
 			<key>pdkres/btn_play_invalid.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{0,847},{188,96}}</string>
+				<string>{{188,913},{188,96}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -117,18 +161,18 @@
 			<key>pdkres/btn_prepare.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{192,767},{153,73}}</string>
+				<string>{{733,718},{153,73}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
 				<string>{153,73}</string>
 			</dict>
 			<key>pdkres/btn_rechoose.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{96,283},{188,96}}</string>
+				<string>{{192,725},{188,96}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -139,7 +183,7 @@
 			<key>pdkres/btn_rechoose_invalid.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{96,471},{188,96}}</string>
+				<string>{{288,725},{188,96}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -147,43 +191,21 @@
 				<key>sourceSize</key>
 				<string>{188,96}</string>
 			</dict>
-			<key>pdkres/btn_setting.png</key>
+			<key>pdkres/btn_setting_invalid.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{375,0},{183,70}}</string>
+				<string>{{550,725},{183,70}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
-				<key>sourceSize</key>
-				<string>{183,70}</string>
-			</dict>
-			<key>pdkres/btn_setting_invalid.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{192,471},{183,70}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
 				<key>sourceSize</key>
 				<string>{183,70}</string>
 			</dict>
 			<key>pdkres/btn_star.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{96,659},{188,96}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{188,96}</string>
-			</dict>
-			<key>pdkres/btn_tip.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{188,847},{188,96}}</string>
+				<string>{{376,913},{188,96}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -191,10 +213,21 @@
 				<key>sourceSize</key>
 				<string>{188,96}</string>
 			</dict>
+			<key>pdkres/btn_tip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{564,445},{188,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{188,96}</string>
+			</dict>
 			<key>pdkres/btn_tip_invalid.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{192,283},{188,96}}</string>
+				<string>{{384,445},{188,96}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -205,18 +238,18 @@
 			<key>pdkres/num_score.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{364,220},{144,14}}</string>
+				<string>{{958,248},{144,14}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
 				<string>{144,14}</string>
 			</dict>
 			<key>pdkres/sp_scoreFlag.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{458,194},{16,16}}</string>
+				<string>{{703,376},{16,16}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -227,7 +260,7 @@
 			<key>pdkres/sp_trustee.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{443,70},{31,33}}</string>
+				<string>{{899,343},{31,33}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -238,29 +271,29 @@
 			<key>pdkres/Sprite_firstPlayer.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{364,194},{26,94}}</string>
+				<string>{{660,445},{26,94}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
 				<string>{26,94}</string>
 			</dict>
 			<key>pdkres/tag_alarm.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{192,654},{103,113}}</string>
+				<string>{{713,615},{103,113}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
 				<string>{103,113}</string>
 			</dict>
 			<key>pdkres/tag_poker_small.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{375,70},{49,68}}</string>
+				<string>{{831,343},{49,68}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -271,7 +304,7 @@
 			<key>pdkres/tag_porfile.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{251,0},{124,124}}</string>
+				<string>{{823,484},{124,124}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -282,13 +315,101 @@
 			<key>pdkres/tag_profile_title.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{251,240},{128,33}}</string>
+				<string>{{703,343},{128,33}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
 				<string>{128,33}</string>
+			</dict>
+			<key>pdkres/btn_setting.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{972,354},{118,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,39}</string>
+			</dict>
+			<key>pdkres/tag_money.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{956,472},{253,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{253,56}</string>
+			</dict>
+			<key>pdkres/game_btn_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,633},{163,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{163,76}</string>
+			</dict>
+			<key>pdkres/game_btn_closure.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{637,795},{76,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{76,76}</string>
+			</dict>
+			<key>pdkres/game_btn_closure_press.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{806,721},{76,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{76,76}</string>
+			</dict>
+			<key>pdkres/game_btn_open.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{660,539},{163,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{163,76}</string>
+			</dict>
+			<key>pdkres/tag_setting.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{703,0},{248,274}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{248,274}</string>
+			</dict>
+			<key>pdkres/tag_dialog.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{703,445}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{703,445}</string>
 			</dict>
 		</dict>
 		<key>metadata</key>

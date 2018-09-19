@@ -16,7 +16,7 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "73897b3d7ab953ffe79113a56e16219e", 
+      "md5": "08d6c3125a749eda854349f2747fa853", 
       "name": "deskSource.png", 
       "path": "zhajinhua/res/"
     }, 
@@ -31,7 +31,7 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "86d1e6565b68062e7e4a737999768f42", 
+      "md5": "b98527c6dd0fd4d6b579a14a49e50367", 
       "name": "game_zjh_res.png", 
       "path": "zhajinhua/res/"
     }, 
@@ -46,22 +46,22 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "42e3751c55558b8a14b6fc8c73b1ab18", 
+      "md5": "89f287631ecd7545f7d806e6738f962b", 
       "name": "poker.png", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "a4ccc7236939c3cfd39b991dce814c05", 
+      "md5": "24260cb7c83b1e8a5367e0cb749da872", 
       "name": "tag_profile_shining_green.png", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "76ee37eb1d35be6513e1150d3121809d", 
+      "md5": "ffb8940e12bae48ada99079ec4cf331d", 
       "name": "tag_profile_shining_red.png", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "162ce87d3321d34d1f72d272f541f73d", 
+      "md5": "9d85c91e1d58515fcefffd490835be04", 
       "name": "tag_profile_shining_yellow.png", 
       "path": "zhajinhua/res/"
     }, 
@@ -76,102 +76,102 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "28d5c40a9ad58265120a2f97a033da29", 
+      "md5": "fe1db1e8b3c70b1956fd1a95ba41a4c7", 
       "name": "xipai_spine.png", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "9440485a030a3c8a597fbfc12743caf5", 
+      "md5": "6e36eebff39cb28c04c2599ebe028478", 
       "name": "tag_vs.png", 
       "path": "zhajinhua/res/compare/"
     }, 
     {
-      "md5": "014a22f19d5616d96be813ba75037cb7", 
+      "md5": "7fca31960272502406c5034f30a1c9cd", 
       "name": "tag_vs_bg.png", 
       "path": "zhajinhua/res/compare/"
     }, 
     {
-      "md5": "11f5db25a3e9a5dc9487918b0785a4f5", 
+      "md5": "fb1e8a57c5cd187bde66c3fca46e2a98", 
       "name": "tag_vs_circle.png", 
       "path": "zhajinhua/res/compare/"
     }, 
     {
-      "md5": "fa79821349dd686f516187283bc2fb8c", 
+      "md5": "61454e4db9de0ec53bbe192d2da70cbb", 
       "name": "Button_Disable.png", 
       "path": "zhajinhua/res/Default/"
     }, 
     {
-      "md5": "4f1f6b524ee2533caaebaeab9e49368a", 
+      "md5": "ed3f5f44113d0a0301c3bacceb80a304", 
       "name": "bg_lobby.png", 
       "path": "zhajinhua/res/desk/"
     }, 
     {
-      "md5": "53eea43206d5154cfdd30cdb61b72b07", 
+      "md5": "e1ce21de3c83ece5fb564236c21afb5c", 
       "name": "tag_premium_game_bg.png", 
       "path": "zhajinhua/res/desk/"
     }, 
     {
-      "md5": "de07b6a12fc2c98443c954676adb3bf7", 
+      "md5": "93230ad94a38f70b738528627ada540b", 
       "name": "btn_change_table.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "f1bdb49f58286aa63644fd28e78af7cc", 
+      "md5": "d149a56051d1edce6084f7d7693fb439", 
       "name": "btn_continue.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "b7b9b16e66fd1640b780148a6c93804b", 
+      "md5": "290d4801c2c374a4f81f8d10c263978b", 
       "name": "tag_bg.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "1e4ef155819ade35b725d83cf84265d3", 
+      "md5": "18b6ee56b05e82338aeb603c1a01c31c", 
       "name": "tag_fail.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "1c6e44ea2cf60911966d09bddb059a42", 
+      "md5": "522c67b0a1843d713b4917d750968a4b", 
       "name": "tag_poker.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "16dd945e225bf557222949110c91ffd4", 
+      "md5": "38765ae00b49c84410695b3d5b4d4a41", 
       "name": "tag_profile.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "3d4623dcdb209ee07b95393741770b93", 
+      "md5": "ceb1973bc75aa7447139ea055b53af11", 
       "name": "tag_win.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "b285fd60ff611c1c47b10a5e959964c4", 
+      "md5": "3832ab4310db086b2f1410191bb9a7a6", 
       "name": "icon_roomlist_0.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
-      "md5": "c6212a1f5fef133f8bc4a88cd4fd6d33", 
+      "md5": "ebcf59f9399dad33b6264d3c5cb28bb4", 
       "name": "icon_roomlist_1.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
-      "md5": "93e5203cedce56cb4d1562596e8eda2a", 
+      "md5": "c1bee7c1896a7b75e91b0ddff9fd4a5b", 
       "name": "icon_roomlist_2.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
-      "md5": "f8850e8d6d444d15f397780acd8096a9", 
+      "md5": "4b5cefb37410335a6ee78a72d3b87e61", 
       "name": "roomlist_title.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
-      "md5": "e21414264f60fefab09203fd18b8ed8f", 
+      "md5": "b7758423fad95492d99458c3336a8bd1", 
       "name": "roomtable.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
-      "md5": "c05f57348be5864a972d392c7a805878", 
+      "md5": "7c22d8309bc4d26dc1befe6e4b6e0a30", 
       "name": "roomtable_play.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
