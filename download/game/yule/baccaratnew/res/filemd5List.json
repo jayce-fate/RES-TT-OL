@@ -256,12 +256,12 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "da02b2c1e5e6e39a34ca8693e5302bc9", 
+      "md5": "ff6d07b5c99d1d5d9677f9b60ddd892a", 
       "name": "GameLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "13c406142e37310c196b10955eb968a7", 
+      "md5": "c5daaf86f0af09c09d020681084a4931", 
       "name": "GameResultLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -336,7 +336,7 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "9a3d4b472f6d38453442dd9979c0ac07", 
+      "md5": "d00a6d80c5ff725b8cff47a9b7b4e84d", 
       "name": "UserListLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -351,7 +351,7 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "ded886d826fd77d1bcf91f4f853b1beb", 
+      "md5": "d6b40f83c9ee86ec737d789f4f45dec9", 
       "name": "bg02.jpg", 
       "path": "baccaratnew/res/new_res/"
     }, 
@@ -429,21 +429,6 @@
       "md5": "06fbb0490bb5613e2b3445c1c17a4fbf", 
       "name": "Rule.txt", 
       "path": "baccaratnew/res/roomlist/"
-    }, 
-    {
-      "md5": "aa2d546fc2452b1fc4173e31360f44a1", 
-      "name": "setting.plist", 
-      "path": "baccaratnew/res/setting/"
-    }, 
-    {
-      "md5": "7785b6bcbd950ff0e221099afb3564b9", 
-      "name": "setting.png", 
-      "path": "baccaratnew/res/setting/"
-    }, 
-    {
-      "md5": "36e11eabda79d6e876a97df639705f6d", 
-      "name": "SettingLayer.csb", 
-      "path": "baccaratnew/res/setting/"
     }, 
     {
       "md5": "cb3eab8e08c44ff6060afd2c7ad5ca2e", 
@@ -621,7 +606,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "16bae07e3defa7eaa25b091d90dad39b", 
+      "md5": "72d516286b4b75309ff5e445ad1d24c8", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -631,7 +616,7 @@
       "path": "baccaratnew/src/views/"
     }, 
     {
-      "md5": "282debd76418fdccec91abfe03e18041", 
+      "md5": "d8399ba3e5081196309d27500c562bad", 
       "name": "GameCardLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -646,13 +631,8 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "1a74fe19da89056f49d2492ee67391df", 
+      "md5": "cdcc546ee98f8edf919a38081798562f", 
       "name": "GameViewLayer.luac", 
-      "path": "baccaratnew/src/views/layer/"
-    }, 
-    {
-      "md5": "b44eb77433c623e15610597c77d247e9", 
-      "name": "SettingLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
@@ -691,7 +671,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 138
+      "allcount": 134
     }
   ]
 }

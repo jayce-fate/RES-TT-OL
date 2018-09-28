@@ -96,7 +96,7 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "b14c612b25f6c0d2fe3048a652af1e77", 
+      "md5": "c52a7096da2372cd18d7e46721f0d186", 
       "name": "AntiCheatLayer.csb", 
       "path": "land/res/game/"
     }, 
@@ -106,7 +106,7 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "f062eb08f3083d8372a343b892d7e5f1", 
+      "md5": "b101c029bab5189b1426e5713900a7b7", 
       "name": "bg_landlord.jpg", 
       "path": "land/res/game/"
     }, 
@@ -401,47 +401,52 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "ead3826434e6d255ef47fcdfabd374a6", 
+      "md5": "01184ea19a748aa5cc600cc3a96551e0", 
+      "name": "di.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "bf4b9a3f9a6f95d4919140da8892942b", 
       "name": "erdou_deposite_none.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "db0855df878c4ff55b94bed791f2686b", 
+      "md5": "7492d88e2eddd51c132c0652840ef67b", 
       "name": "erdou_deposite_normal.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "db0855df878c4ff55b94bed791f2686b", 
+      "md5": "7492d88e2eddd51c132c0652840ef67b", 
       "name": "erdou_deposite_selected.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "4123f04ab81c6aa0730738018f982b06", 
+      "md5": "010b091cf27fe83a2b025184cd17e993", 
       "name": "erdou_exit_none.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "d24182cb31cc54a2caf78f5ef2d862aa", 
+      "md5": "b4721348a968bf5ebfdfa8b3d4558f53", 
       "name": "erdou_exit_normal.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "d24182cb31cc54a2caf78f5ef2d862aa", 
+      "md5": "b4721348a968bf5ebfdfa8b3d4558f53", 
       "name": "erdou_exit_selected.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "76770a87d6d07ad71bf08717f0055856", 
+      "md5": "645cde88e56f1cff570b5887f2a172c1", 
       "name": "erdou_setting_none.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "6a4253be1b928fb68a849a1e02b64054", 
+      "md5": "1e2ea453ace757bf79d9d7f23c644200", 
       "name": "erdou_setting_normal.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "6a4253be1b928fb68a849a1e02b64054", 
+      "md5": "1e2ea453ace757bf79d9d7f23c644200", 
       "name": "erdou_setting_selected.png", 
       "path": "land/res/game/"
     }, 
@@ -466,17 +471,17 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "e13837d1fed8fb6257b2c8bf7494e959", 
+      "md5": "f1b7058cd454ff6c3de00d76e696f745", 
       "name": "GameChatLayer.csb", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "285b55b4c8c69d96e71194bae4b80c8c", 
+      "md5": "24dec78dfa92d49601cdba7bbb2c93da", 
       "name": "GameEffectLayer.csb", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "781aaa5dd1691720132da48b111d1bd7", 
+      "md5": "b65117efb0cdc0835dedd460d1b41cea", 
       "name": "GameLayer.csb", 
       "path": "land/res/game/"
     }, 
@@ -486,7 +491,7 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "320e4b559dc7ac407884e299ff83a63c", 
+      "md5": "087d96c7dc31393bcc8bc6066e1a8fce", 
       "name": "GameResultLayer.csb", 
       "path": "land/res/game/"
     }, 
@@ -496,7 +501,7 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "8bdb067ca2450814ce98345d158ba7da", 
+      "md5": "c5ed8d4a0bd7a606ca381980bfad416f", 
       "name": "GameRoleItem.csb", 
       "path": "land/res/game/"
     }, 
@@ -596,6 +601,11 @@
       "path": "land/res/game/"
     }, 
     {
+      "md5": "e73067b935e054086691081a1e8f69f0", 
+      "name": "tableother.png", 
+      "path": "land/res/game/"
+    }, 
+    {
       "md5": "48634ff23e331e637edaa6bde0ec0391", 
       "name": "tag_game_elementary_level.png", 
       "path": "land/res/game/"
@@ -684,51 +694,6 @@
       "md5": "35f02b44520f72486eb59701097d0340", 
       "name": "Rule.txt", 
       "path": "land/res/roomlist/"
-    }, 
-    {
-      "md5": "4494fd03dec5699893c72a8706ad31d5", 
-      "name": "ddz_windows_bg.png", 
-      "path": "land/res/setting/"
-    }, 
-    {
-      "md5": "4e57f0309df78ce5064ed14122fdebfb", 
-      "name": "setting.plist", 
-      "path": "land/res/setting/"
-    }, 
-    {
-      "md5": "50ef42d133d98bf1d5faa4f73d191a60", 
-      "name": "setting.png", 
-      "path": "land/res/setting/"
-    }, 
-    {
-      "md5": "558762ea08754419b88b4fff1839a981", 
-      "name": "setting_bar.png", 
-      "path": "land/res/setting/"
-    }, 
-    {
-      "md5": "21d1825c2ab5dcecb81134eba397604a", 
-      "name": "setting_bar_bg.png", 
-      "path": "land/res/setting/"
-    }, 
-    {
-      "md5": "5fd9725c32a79d8ec3298d9ade6688be", 
-      "name": "setting_bar_slider.png", 
-      "path": "land/res/setting/"
-    }, 
-    {
-      "md5": "5e7d3628b6f3fb2d5bd56d2ea72712d8", 
-      "name": "setting_switch_close.png", 
-      "path": "land/res/setting/"
-    }, 
-    {
-      "md5": "13e457d140cbe4e304fad864001d5598", 
-      "name": "setting_switch_open.png", 
-      "path": "land/res/setting/"
-    }, 
-    {
-      "md5": "62ad837eae75e54e1fce284103fb1ef0", 
-      "name": "SettingLayer.csb", 
-      "path": "land/res/setting/"
     }, 
     {
       "md5": "2f023b7fbe23daade3c8a0e069faac2b", 
@@ -1651,7 +1616,7 @@
       "path": "land/src/models/"
     }, 
     {
-      "md5": "61d225ac8f70813fcbf176f3d9381ac5", 
+      "md5": "b0f216b5f3862ec53073eec490f22a5f", 
       "name": "Define.luac", 
       "path": "land/src/models/"
     }, 
@@ -1661,7 +1626,7 @@
       "path": "land/src/models/"
     }, 
     {
-      "md5": "37e818777347771f1d05f57325fa5c41", 
+      "md5": "3f9d4d4469522c93324fd164c9d66ab9", 
       "name": "GameLayer.luac", 
       "path": "land/src/views/"
     }, 
@@ -1676,7 +1641,7 @@
       "path": "land/src/views/"
     }, 
     {
-      "md5": "7255ff8adc64333e67e3bfd804ae3a96", 
+      "md5": "3eb38069c5fcf1e28c77420d8bf70692", 
       "name": "GameEffectLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
@@ -1691,17 +1656,12 @@
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "550ac257d25c3b128c3ab2003843ddb5", 
+      "md5": "b6113bf887d20f208e69f6df5c63de9d", 
       "name": "GameViewLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "8e0361b178fe6bd565727bec30de7855", 
-      "name": "SettingLayer.luac", 
-      "path": "land/src/views/layer/"
-    }, 
-    {
-      "md5": "d77239e54896e4250582e4194caf894e", 
+      "md5": "70cdefd0939da076e4f434990e312fdb", 
       "name": "CardsNode.luac", 
       "path": "land/src/views/layer/gamecard/"
     }, 
@@ -1711,7 +1671,7 @@
       "path": "land/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 342
+      "allcount": 334
     }
   ]
 }

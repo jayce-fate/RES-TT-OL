@@ -441,12 +441,12 @@
       "path": "oxnew/res/animation_yellow/"
     }, 
     {
-      "md5": "54e5d1d7db8ba22443a994cd7e41be38", 
-      "name": "background.png", 
+      "md5": "b7dbcfd6bf1cf6b47e19392c9879afaf", 
+      "name": "background.jpg", 
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "43e97187f769a74fe662326f818807f7", 
+      "md5": "e63c9d2a44bc9c709d1f768a11f4bad8", 
       "name": "GameScene.csb", 
       "path": "oxnew/res/game/"
     }, 
@@ -458,16 +458,6 @@
     {
       "md5": "0cfc976b24a0ac097e9251b7955169b2", 
       "name": "playerNode1.csb", 
-      "path": "oxnew/res/game/"
-    }, 
-    {
-      "md5": "0cae27b47d23edeab165586e69bfbf16", 
-      "name": "SetLayer.csb", 
-      "path": "oxnew/res/game/"
-    }, 
-    {
-      "md5": "23c92178a1055ab9e71ae22e2ef230e6", 
-      "name": "sp_setLayer_bg.png", 
       "path": "oxnew/res/game/"
     }, 
     {
@@ -691,7 +681,7 @@
       "path": "oxnew/src/tools/"
     }, 
     {
-      "md5": "91f392dea1283f55aa7d320a33e2f713", 
+      "md5": "f8acebedba3fd429dcb04fe39af8ec57", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -711,22 +701,12 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "85cd164b8555a543047265b6f255a340", 
+      "md5": "107a2f50ae206e766319ec3eb3faf399", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "f26bc92a91e965afeafc0d65246657cf", 
-      "name": "SetLayer.luac", 
-      "path": "oxnew/src/views/layer/"
-    }, 
-    {
-      "md5": "2529a07a90b317c3800e574fe7ae0f6a", 
-      "name": "SettingLayer.luac", 
-      "path": "oxnew/src/views/layer/"
-    }, 
-    {
-      "allcount": 145
+      "allcount": 141
     }
   ]
 }

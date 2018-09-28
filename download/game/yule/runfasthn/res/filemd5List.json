@@ -56,7 +56,7 @@
       "path": "runfasthn/res/game/"
     }, 
     {
-      "md5": "a7a8acab7730e17ba4085e1ac79a7d8d", 
+      "md5": "a5a60ff4788bfc17497b3a7247881049", 
       "name": "GameScene.csb", 
       "path": "runfasthn/res/game/"
     }, 
@@ -101,11 +101,6 @@
       "path": "runfasthn/res/game/"
     }, 
     {
-      "md5": "3a7515a3d214dd3c6ac704ccc1137a99", 
-      "name": "SetLayer.csb", 
-      "path": "runfasthn/res/game/"
-    }, 
-    {
       "md5": "7bc9a80292576719837433dda0ab67fe", 
       "name": "sp_trusteeMan.png", 
       "path": "runfasthn/res/game/"
@@ -121,7 +116,7 @@
       "path": "runfasthn/res/pdkres/"
     }, 
     {
-      "md5": "5c63b9cdca0746ff18f3cb0603f11d25", 
+      "md5": "b101c029bab5189b1426e5713900a7b7", 
       "name": "landlord.jpg", 
       "path": "runfasthn/res/pdkres/"
     }, 
@@ -131,12 +126,12 @@
       "path": "runfasthn/res/pdkres/"
     }, 
     {
-      "md5": "a6c1ed449fa85bb7320e050802946b72", 
+      "md5": "0aade86779559b4d9119052b8243bccb", 
       "name": "pdkPlist.plist", 
       "path": "runfasthn/res/pdkres/"
     }, 
     {
-      "md5": "32ce01834e4f287c136f240c07dbfa10", 
+      "md5": "484bc00af5cacdb9770470a379366915", 
       "name": "pdkPlist.png", 
       "path": "runfasthn/res/pdkres/"
     }, 
@@ -161,7 +156,7 @@
       "path": "runfasthn/res/result/"
     }, 
     {
-      "md5": "7c978cc880a1ed6ab368f9ac19070d22", 
+      "md5": "48f11750d4cdf83259c4f0042462d96b", 
       "name": "ResultLayer.csb", 
       "path": "runfasthn/res/result/"
     }, 
@@ -691,7 +686,7 @@
       "path": "runfasthn/src/models/"
     }, 
     {
-      "md5": "9bc66e1daf26722a5bd387c66837a95d", 
+      "md5": "ffa7e3b0613755147770af5c0a0520fa", 
       "name": "GameLayer.luac", 
       "path": "runfasthn/src/views/"
     }, 
@@ -706,7 +701,7 @@
       "path": "runfasthn/src/views/"
     }, 
     {
-      "md5": "b6e60e8752d873db15c2e79057fc4152", 
+      "md5": "f4146e1a2c1fa65810db39a92b36eaf6", 
       "name": "GameViewLayer.luac", 
       "path": "runfasthn/src/views/layer/"
     }, 
@@ -716,17 +711,12 @@
       "path": "runfasthn/src/views/layer/"
     }, 
     {
-      "md5": "23498cf2f330a5ecf9fd7cc295c404f1", 
+      "md5": "45960a50587b19c3fb6c15f42b23ce00", 
       "name": "ResultLayer.luac", 
       "path": "runfasthn/src/views/layer/"
     }, 
     {
-      "md5": "fa367c919773fed5f285ea4249437cb2", 
-      "name": "SetLayer.luac", 
-      "path": "runfasthn/src/views/layer/"
-    }, 
-    {
-      "md5": "6af8a55100a1a6e8076fd283661f2498", 
+      "md5": "3d384a40d3f88476a91dd9667d96289f", 
       "name": "CardsNode.luac", 
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
@@ -736,7 +726,7 @@
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 147
+      "allcount": 145
     }
   ]
 }

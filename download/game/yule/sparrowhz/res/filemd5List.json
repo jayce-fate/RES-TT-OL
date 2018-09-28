@@ -96,17 +96,12 @@
       "path": "sparrowhz/res/fonts/"
     }, 
     {
-      "md5": "3caa50b99e554f9c62151704f0f6a661", 
-      "name": "389_sp_setLayer_bg.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
       "md5": "f3d28f93d8a941c848a47e5ed14c2fad", 
       "name": "background_sparrowHz.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "4bb89544a82a5d9dbbb826a8654b8ab5", 
+      "md5": "c846bf0bedbdca9102c6f6746d28e803", 
       "name": "bg_02.jpg", 
       "path": "sparrowhz/res/game/"
     }, 
@@ -186,7 +181,7 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "afe040ffe6c05140301307be416b53f2", 
+      "md5": "7665cd725880a9719d8612b671df100d", 
       "name": "GameScene.csb", 
       "path": "sparrowhz/res/game/"
     }, 
@@ -196,18 +191,13 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "a67065943235637ab4f0862352f4d225", 
+      "md5": "49cf2649f4bef6f31dfac1a8dad6366c", 
       "name": "num_score.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "ae8e40e166f9bbddfd72378dd59f9d65", 
+      "md5": "76c31b6b2722cd38fac5a402a0e9b7aa", 
       "name": "Player.csb", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "cf78387a822542e1c3613763d6657e30", 
-      "name": "SetLayer.csb", 
       "path": "sparrowhz/res/game/"
     }, 
     {
@@ -253,11 +243,6 @@
     {
       "md5": "dacd30920096fa6689a09d2e6bae711a", 
       "name": "tag_circle_4.png", 
-      "path": "sparrowhz/res/game/"
-    }, 
-    {
-      "md5": "1e524b919fa2bd43fe83f02e6bd30cd5", 
-      "name": "tag_dialog.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
@@ -1661,7 +1646,7 @@
       "path": "sparrowhz/src/models/"
     }, 
     {
-      "md5": "aa1824b9b591dedd4a80677d8ac74728", 
+      "md5": "072e7578d3578db4b4e09b6041d9871d", 
       "name": "GameLayer.luac", 
       "path": "sparrowhz/src/views/"
     }, 
@@ -1681,7 +1666,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "cb8726b6b34f322dda93a1de440df613", 
+      "md5": "e61ffeb217bb81fe7d547a35b73890ec", 
       "name": "GameViewLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
@@ -1691,17 +1676,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "f25153246e83454aea66be97f13fcfdd", 
-      "name": "SetLayer.luac", 
-      "path": "sparrowhz/src/views/layer/"
-    }, 
-    {
-      "md5": "2566efb191f48ba099835111c632c5cb", 
-      "name": "SettingLayer.luac", 
-      "path": "sparrowhz/src/views/layer/"
-    }, 
-    {
-      "allcount": 340
+      "allcount": 335
     }
   ]
 }

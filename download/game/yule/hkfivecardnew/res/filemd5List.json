@@ -66,7 +66,7 @@
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "57a42cb15eea3812ad3372c2f3a1bb65", 
+      "md5": "dd9c0c1bc3bda0e208b5ca598ab31bb3", 
       "name": "GameScene.csb", 
       "path": "hkfivecardnew/res/game/"
     }, 
@@ -91,8 +91,13 @@
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "2bbb97a684c46f7e737c7ca1901b88e5", 
+      "md5": "ca609bab34f9b3011570392bce1679a7", 
       "name": "bg.jpg", 
+      "path": "hkfivecardnew/res/gswz_new_res/"
+    }, 
+    {
+      "md5": "f7a6d15e87fa3c8c11662e79b68fd452", 
+      "name": "dz_table.png", 
       "path": "hkfivecardnew/res/gswz_new_res/"
     }, 
     {
@@ -229,26 +234,6 @@
       "md5": "5500ac6b2805fb8616782ba2623232f1", 
       "name": "Rule.txt", 
       "path": "hkfivecardnew/res/roomlist/"
-    }, 
-    {
-      "md5": "eded0824900a69c1bf7f940986895de6", 
-      "name": "set.csb", 
-      "path": "hkfivecardnew/res/set/"
-    }, 
-    {
-      "md5": "f93c0f6fee3e8bb908e7c58f0a17cc77", 
-      "name": "set.plist", 
-      "path": "hkfivecardnew/res/set/"
-    }, 
-    {
-      "md5": "9e5500433a14cd36616105283a62d92f", 
-      "name": "set.png", 
-      "path": "hkfivecardnew/res/set/"
-    }, 
-    {
-      "md5": "0f757aed930a705919845ecab84d71d5", 
-      "name": "shadow_bg.png", 
-      "path": "hkfivecardnew/res/set/"
     }, 
     {
       "md5": "dab45c2701f4ce30e351c0478e09bc37", 
@@ -426,7 +411,7 @@
       "path": "hkfivecardnew/src/models/"
     }, 
     {
-      "md5": "f601a9aa5cc5e9011eb18920b5ecb1ee", 
+      "md5": "1dcd2f47a920f3cf2688a8c8be8e01ae", 
       "name": "GameLayer.luac", 
       "path": "hkfivecardnew/src/views/"
     }, 
@@ -446,17 +431,12 @@
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "md5": "949b3faa18c5c9ed47e09ad506e23b67", 
+      "md5": "4eada4f03c67e44533bbfea99a8b9c2e", 
       "name": "GameViewLayer.luac", 
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "md5": "d416e2fa28bc102eb67c37047250bb58", 
-      "name": "SettingLayer.luac", 
-      "path": "hkfivecardnew/src/views/layer/"
-    }, 
-    {
-      "allcount": 91
+      "allcount": 87
     }
   ]
 }

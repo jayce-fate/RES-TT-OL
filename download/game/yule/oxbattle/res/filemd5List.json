@@ -11,11 +11,6 @@
       "path": "oxbattle/res/"
     }, 
     {
-      "md5": "fe23d3e117864f9760ab31317cad6be1", 
-      "name": "dnhundreds_banker_lantern_light.png", 
-      "path": "oxbattle/res/"
-    }, 
-    {
       "md5": "1db134b7aefd1fa7df17bb1a8d5b7f37", 
       "name": "game_bank.plist", 
       "path": "oxbattle/res/"
@@ -51,23 +46,28 @@
       "path": "oxbattle/res/"
     }, 
     {
+      "md5": "c79d8a12dafc3728aad76c4102a42c1e", 
+      "name": "hundreds_donghua.plist", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "c150e990dc84ce62a58b51236cde2c6b", 
+      "name": "hundreds_donghua.png", 
+      "path": "oxbattle/res/"
+    }, 
+    {
       "md5": "2e0d567070a93807f92723eb9156fe5b", 
       "name": "LudanLayer.csb", 
       "path": "oxbattle/res/"
     }, 
     {
-      "md5": "3311cac83e84f67c90050f6591edcb43", 
+      "md5": "007209f3871f1ea4f4fd8ae2ecfb42cb", 
       "name": "poker.plist", 
       "path": "oxbattle/res/"
     }, 
     {
-      "md5": "25f676e3d0c95267bcb1020f16b52d0c", 
+      "md5": "9c91f248dc55054ee6836695c9525376", 
       "name": "poker.png", 
-      "path": "oxbattle/res/"
-    }, 
-    {
-      "md5": "d7f5df18f5cbda70d1ce63a7e6e214ca", 
-      "name": "SettingLayer.csb", 
       "path": "oxbattle/res/"
     }, 
     {
@@ -641,6 +641,11 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
+      "md5": "0b85e35dbd805c9652b3f8f7dbd1f079", 
+      "name": "brnn_x_bg.jpg", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
       "md5": "06c998dc25aedc7594c311279a2c7fd1", 
       "name": "bt_area_0.png", 
       "path": "oxbattle/res/game_res/"
@@ -766,6 +771,11 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
+      "md5": "07d1f90f6ba29a9e199ed6ae8572ea70", 
+      "name": "dnhundreds_banker_lantern_light.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
       "md5": "5a0e8bec4a6433a160ad8c85b7c02a19", 
       "name": "game_bar_chip.png", 
       "path": "oxbattle/res/game_res/"
@@ -791,7 +801,7 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "ff16d902d4f9b9c2ea0bb52bd802091a", 
+      "md5": "6fc5ff41524e8399484e58a96bdbfbde", 
       "name": "GameLayer.csb", 
       "path": "oxbattle/res/game_res/"
     }, 
@@ -1089,6 +1099,16 @@
       "md5": "ebf6891775f93076659e1ddb2ad8670a", 
       "name": "Rule.txt", 
       "path": "oxbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "37788f9a6641e67ddfc1a5de226a1739", 
+      "name": "fnt1.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "18e4119e95eed0bc23873ab3f42a06c6", 
+      "name": "fnt2.png", 
+      "path": "oxbattle/res/sitrole/"
     }, 
     {
       "md5": "a4ffb2abe0aeb4e8f997b104a747bf9d", 
@@ -1421,7 +1441,7 @@
       "path": "oxbattle/src/models/"
     }, 
     {
-      "md5": "44534dacf1381e8217ab0928fde5e5ea", 
+      "md5": "8dda95421cab793bb2c104bde01a62ac", 
       "name": "GameLayer.luac", 
       "path": "oxbattle/src/views/"
     }, 
@@ -1436,12 +1456,12 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "6ca2f6ea171673ea83daee60f2328c0f", 
+      "md5": "3cc90947740b8c06ff62d651396d3dcc", 
       "name": "CardSprite.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "975af80ec11909752618df8f66a9aa98", 
+      "md5": "cfa9ce52a5b6e9e946fe483445d62d11", 
       "name": "GameRecordLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
@@ -1451,17 +1471,12 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "5cfc12ed7e44c5eba70f585d354f0a7d", 
+      "md5": "0e2b9ef95338cb097dceb72ea5a48343", 
       "name": "GameViewLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "8d570704d9158e492237013a8c17e282", 
-      "name": "SettingLayer.luac", 
-      "path": "oxbattle/src/views/layer/"
-    }, 
-    {
-      "md5": "22ec0a660b52bd5631a44153877421b5", 
+      "md5": "c445420fdf25c3adeb2d9dd6e0d503f8", 
       "name": "SitRoleNode.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
@@ -1471,12 +1486,12 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "9c331e0d4f83afe6c3fbcac13169686a", 
+      "md5": "6d182c16905d16daee178490628ab540", 
       "name": "UserListLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "allcount": 295
+      "allcount": 298
     }
   ]
 }

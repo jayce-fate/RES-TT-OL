@@ -1,7 +1,7 @@
 {
   "listdata": [
     {
-      "md5": "7dbbb50fd26c26e76beaa31242489da9", 
+      "md5": "9be27afb80b57ac4dce47866b49c48f8", 
       "name": "ButtonLayer.csb", 
       "path": "zhajinhua/res/"
     }, 
@@ -11,12 +11,12 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "bcc9dbf40c5da0aade48a20329add72d", 
+      "md5": "261c849ff0fd326838a32355cc078a31", 
       "name": "deskSource.plist", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "08d6c3125a749eda854349f2747fa853", 
+      "md5": "844cf4c346cc9692b487bc70e7340939", 
       "name": "deskSource.png", 
       "path": "zhajinhua/res/"
     }, 
@@ -31,12 +31,12 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "b98527c6dd0fd4d6b579a14a49e50367", 
+      "md5": "1ef129db21ee48975835c97050ede67a", 
       "name": "game_zjh_res.png", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "bc6ebe5a08ad4acd9d03da7639a11baf", 
+      "md5": "e4593e5976e70d437c66b0ab25248c93", 
       "name": "MainScene.csb", 
       "path": "zhajinhua/res/"
     }, 
@@ -46,7 +46,7 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "89f287631ecd7545f7d806e6738f962b", 
+      "md5": "3be3f8c64fcf751702d15986fdf7b885", 
       "name": "poker.png", 
       "path": "zhajinhua/res/"
     }, 
@@ -81,67 +81,97 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "6e36eebff39cb28c04c2599ebe028478", 
+      "md5": "3bac0a108e675bad826309b4bec54d4e", 
       "name": "tag_vs.png", 
       "path": "zhajinhua/res/compare/"
     }, 
     {
-      "md5": "7fca31960272502406c5034f30a1c9cd", 
+      "md5": "1cd238c6b302d43f4b66cddaf6b33c83", 
       "name": "tag_vs_bg.png", 
       "path": "zhajinhua/res/compare/"
     }, 
     {
-      "md5": "fb1e8a57c5cd187bde66c3fca46e2a98", 
+      "md5": "11243010a7ad707c85c06841a775b627", 
       "name": "tag_vs_circle.png", 
       "path": "zhajinhua/res/compare/"
     }, 
     {
-      "md5": "61454e4db9de0ec53bbe192d2da70cbb", 
+      "md5": "fe9642b2606c76d9d5fc4c1f79259ddf", 
+      "name": "vs.png", 
+      "path": "zhajinhua/res/compare/"
+    }, 
+    {
+      "md5": "fa79821349dd686f516187283bc2fb8c", 
       "name": "Button_Disable.png", 
       "path": "zhajinhua/res/Default/"
     }, 
     {
-      "md5": "ed3f5f44113d0a0301c3bacceb80a304", 
-      "name": "bg_lobby.png", 
+      "md5": "ca609bab34f9b3011570392bce1679a7", 
+      "name": "bg_lobby.jpg", 
       "path": "zhajinhua/res/desk/"
     }, 
     {
-      "md5": "e1ce21de3c83ece5fb564236c21afb5c", 
+      "md5": "49793a1a2d1cc2a8faf87d9b24923290", 
+      "name": "chip_small_500.png", 
+      "path": "zhajinhua/res/desk/"
+    }, 
+    {
+      "md5": "50cdffb9ae9ddb5cc072b2b252bc9929", 
+      "name": "tag_premium_game.png", 
+      "path": "zhajinhua/res/desk/"
+    }, 
+    {
+      "md5": "53eea43206d5154cfdd30cdb61b72b07", 
       "name": "tag_premium_game_bg.png", 
       "path": "zhajinhua/res/desk/"
     }, 
     {
-      "md5": "93230ad94a38f70b738528627ada540b", 
+      "md5": "db2802152376d894ca43214c7412c854", 
       "name": "btn_change_table.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "d149a56051d1edce6084f7d7693fb439", 
+      "md5": "b9a239ca6a183790e4fcf7e3403953fc", 
       "name": "btn_continue.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "290d4801c2c374a4f81f8d10c263978b", 
+      "md5": "06bfeaf5d5289a74b5cd3a62382c72e0", 
+      "name": "btn_leave.png", 
+      "path": "zhajinhua/res/end/"
+    }, 
+    {
+      "md5": "84b72bd1996a518a1a21e058364722aa", 
+      "name": "effectpicture.png", 
+      "path": "zhajinhua/res/end/"
+    }, 
+    {
+      "md5": "71e65dceb6c3cd3ab34908ad6a54588b", 
+      "name": "resulteffect.png", 
+      "path": "zhajinhua/res/end/"
+    }, 
+    {
+      "md5": "a0560eb5890d88d606ef5df4a5c6ec03", 
       "name": "tag_bg.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "18b6ee56b05e82338aeb603c1a01c31c", 
+      "md5": "0d0edf5c0dea16daa6138e2fc5f90953", 
       "name": "tag_fail.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "522c67b0a1843d713b4917d750968a4b", 
+      "md5": "f9a1c7a40822a2b2d34c5b0d35e9628f", 
       "name": "tag_poker.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "38765ae00b49c84410695b3d5b4d4a41", 
+      "md5": "298e042aa5353a2ec184174c50ae8dfd", 
       "name": "tag_profile.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "ceb1973bc75aa7447139ea055b53af11", 
+      "md5": "6df50517753aa57c10c7db770ff40fec", 
       "name": "tag_win.png", 
       "path": "zhajinhua/res/end/"
     }, 
@@ -431,7 +461,7 @@
       "path": "zhajinhua/src/models/"
     }, 
     {
-      "md5": "e215f3421d2b780fd7bb2c926331a574", 
+      "md5": "d91f7a7066cb90ca3682dabf1a1af6e6", 
       "name": "GameLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -446,32 +476,22 @@
       "path": "zhajinhua/src/views/"
     }, 
     {
-      "md5": "24b1fb33dfba86b340b094e16071dc89", 
+      "md5": "d4522916442ddf576faa6cf1ea95b030", 
       "name": "CompareView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "ef5596724df95ca18e01329813cfa68f", 
+      "md5": "9812568117be1fac683c1f6de03ec369", 
       "name": "GameEndView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "2bf161a92077e2c2e179b5a2587aaeff", 
+      "md5": "05267e6745d93f1957a871b182a94438", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "08387c02729a0b1da313f0bf7c0fab5b", 
-      "name": "SetLayer.luac", 
-      "path": "zhajinhua/src/views/layer/"
-    }, 
-    {
-      "md5": "a79391b805f60df21e08225bb462610b", 
-      "name": "SettingLayer.luac", 
-      "path": "zhajinhua/src/views/layer/"
-    }, 
-    {
-      "allcount": 94
+      "allcount": 98
     }
   ]
 }
