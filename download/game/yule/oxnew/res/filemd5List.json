@@ -1,38 +1,33 @@
 {
   "listdata": [
     {
+      "md5": "72e8647a2fb0c2a819d2851ddd3d67ca", 
+      "name": "beginAnimation.csb", 
+      "path": "oxnew/res/"
+    }, 
+    {
       "md5": "d9b0ff14f0560f250de2106a62bd4865", 
       "name": "card.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "77687b75011035c9addfe901da7b3913", 
-      "name": "game_chat_lbg.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "33511edcacd3542672bda44aeabacbca", 
-      "name": "game_chat_rbg.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "f08bf88ca09e61fefb47878b4010c49a", 
+      "md5": "969780a2cb1d34c14206278c9caa84be", 
       "name": "gameScene_oxnew.plist", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "e7005634b2b1a748f936e408587b205d", 
+      "md5": "bb7b8b60a2eeb6498a4e0e8cff490d70", 
       "name": "gameScene_oxnew.png", 
+      "path": "oxnew/res/"
+    }, 
+    {
+      "md5": "3d85ced5cb7a061d02d403280ccd522d", 
+      "name": "lose.csb", 
       "path": "oxnew/res/"
     }, 
     {
       "md5": "b4686585b89bc2744b814baf17460f60", 
       "name": "num_add.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "460c255b0baf7c9d2b33f77d27cc47e4", 
-      "name": "num_chip.png", 
       "path": "oxnew/res/"
     }, 
     {
@@ -43,11 +38,6 @@
     {
       "md5": "33dc2ed578252bf34eebe15d6a1c86c3", 
       "name": "num_endScore.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "035af0675957014461d33be4d13d9744", 
-      "name": "num_prompt.png", 
       "path": "oxnew/res/"
     }, 
     {
@@ -94,6 +84,31 @@
       "md5": "a2d01c915ec89acf0f31fc5fd4b29501", 
       "name": "tag_count_down_bg.png", 
       "path": "oxnew/res/"
+    }, 
+    {
+      "md5": "6baff98cdba636144b4eb99b88edbb0a", 
+      "name": "win.csb", 
+      "path": "oxnew/res/"
+    }, 
+    {
+      "md5": "ebfc3c22041758bbd892534e56036d5d", 
+      "name": "animation1.plist", 
+      "path": "oxnew/res/animation/"
+    }, 
+    {
+      "md5": "d0fe6b6000b63549ba3e49c20a3a1703", 
+      "name": "animation1.png", 
+      "path": "oxnew/res/animation/"
+    }, 
+    {
+      "md5": "3d2674f4ceb214271a6fbf17111ef58f", 
+      "name": "animation2.plist", 
+      "path": "oxnew/res/animation/"
+    }, 
+    {
+      "md5": "19f146d0593e8847a35dec5f1fdc0a37", 
+      "name": "animation2.png", 
+      "path": "oxnew/res/animation/"
     }, 
     {
       "md5": "210c6cbfeef685f9b4dd66d152e971fe", 
@@ -186,236 +201,6 @@
       "path": "oxnew/res/animation_faceFlash/"
     }, 
     {
-      "md5": "8446f1810af4586a0b0f0525ab33da31", 
-      "name": "lose_1.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "eba600f07107244f0f7a862c32c37713", 
-      "name": "lose_10.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "c69267459af26159659045a48bb34cd4", 
-      "name": "lose_11.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "a0766deed341143cadb646314be10c49", 
-      "name": "lose_12.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "84a23bd774a70b9914a5856d52e1f71c", 
-      "name": "lose_13.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "3133bc14609628ee747fc9e034d85a8a", 
-      "name": "lose_14.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "a44f1b00d4571e547d3c2491dd650584", 
-      "name": "lose_15.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "a01fb605671dca4b28abd457dd91834e", 
-      "name": "lose_16.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "59168970ba14a1db4f39eb06ff497ae9", 
-      "name": "lose_17.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "ee226005c97550ccb428054e60f7ed05", 
-      "name": "lose_2.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "3f3c606efd97a2b1a67d91b119d34e80", 
-      "name": "lose_3.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "93c71fad98575da4250eb3387afffb1c", 
-      "name": "lose_4.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "b84127b84f7f7f7b0389d47dd771d0ca", 
-      "name": "lose_5.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "70d1394b671932d4161449ed7b8d2b13", 
-      "name": "lose_6.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "2c46faab4af912bc552d4da4af4e9be3", 
-      "name": "lose_7.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "9ae83223545800466d98e6c768dbe710", 
-      "name": "lose_8.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "e57371f52c9cab238fc463b109744c79", 
-      "name": "lose_9.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "1b04f745ec48ec3ec6208c4f05156618", 
-      "name": "loseBG.png", 
-      "path": "oxnew/res/animation_lose/"
-    }, 
-    {
-      "md5": "42d0bae4706273f02a2df966e340e891", 
-      "name": "start_1.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "84c0d5a0be3a5a202db0b5142f7809e1", 
-      "name": "start_10.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "ae7aba98a17402ae2d43227e18860e04", 
-      "name": "start_11.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "bb2101917bd4bd2899d2a47dc1d244f6", 
-      "name": "start_2.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "fd51d437cff36dc7d84741473bbcbf7f", 
-      "name": "start_3.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "c283140c16410508c1444c8d3f289e4e", 
-      "name": "start_4.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "47b59354f6c44c4b4d2c1a906b052d35", 
-      "name": "start_5.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "a08a456ccaf53f210f1eef94ef5a77ee", 
-      "name": "start_6.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "4521e39673dc4b442097599836fed41f", 
-      "name": "start_7.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "4477665d1ebe6d76a81729800b36075b", 
-      "name": "start_8.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "be9eadfe5e586f630f8d3bee56e61c9a", 
-      "name": "start_9.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "78f1109394cf22b3df6d7f37ce2a00c1", 
-      "name": "victory_1.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "c69a682225cb4f8858a42d460ded2585", 
-      "name": "victory_10.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "4c125daa502dc5a929eab08066b815ae", 
-      "name": "victory_11.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "0f8d4332cae8d688363d72fa6de9923f", 
-      "name": "victory_12.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "0bc65e62084a3e99b5ac410b3c444a2b", 
-      "name": "victory_13.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "1681bf8e0cdbfacec42916f3e31fc9f0", 
-      "name": "victory_14.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "f7fe7b39a5bf80ba528d39c41d521e62", 
-      "name": "victory_15.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "2c47366a5b755f36bf63e13dc07cc0ee", 
-      "name": "victory_16.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "e06f444e8d42596548623aefcf89212b", 
-      "name": "victory_17.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "be3f37c23f9fb0baa144e854d4388e04", 
-      "name": "victory_2.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "9d3e819379c3b48c4270d68da6e53b69", 
-      "name": "victory_3.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "41e72ae9f53da12877c1f070c626ee1f", 
-      "name": "victory_4.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "f0a8be4e3a102b6fc5b29d7dd2d0865f", 
-      "name": "victory_5.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "ac605193a2bb87b399fe124a4687e193", 
-      "name": "victory_6.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "a906d8f95fe938d140c8fe006df679f8", 
-      "name": "victory_7.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "0631c328e950ee8e7f115776193ed486", 
-      "name": "victory_8.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
-      "md5": "8679caad837317db9a17d2509743d699", 
-      "name": "victory_9.png", 
-      "path": "oxnew/res/animation_victory/"
-    }, 
-    {
       "md5": "0c1e7a74be73df45ebf46879be3dfc92", 
       "name": "yellow_1.png", 
       "path": "oxnew/res/animation_yellow/"
@@ -441,12 +226,42 @@
       "path": "oxnew/res/animation_yellow/"
     }, 
     {
+      "md5": "4efaf38f27e9f36773fce262a35a1afe", 
+      "name": "douniu_banker_times.fnt", 
+      "path": "oxnew/res/fonts/"
+    }, 
+    {
+      "md5": "db35d552f408a7b07c44164b7ba5fc6a", 
+      "name": "douniu_banker_times_0.png", 
+      "path": "oxnew/res/fonts/"
+    }, 
+    {
+      "md5": "a1594c7ecec09d75ab14e636ff390071", 
+      "name": "douniu_select_times.fnt", 
+      "path": "oxnew/res/fonts/"
+    }, 
+    {
+      "md5": "d0271fb8524f79acd4519ac0d00313da", 
+      "name": "douniu_select_times.png", 
+      "path": "oxnew/res/fonts/"
+    }, 
+    {
+      "md5": "2ef92eeeeb3b874ab566b56c6eb67212", 
+      "name": "douniu_select_times1.fnt", 
+      "path": "oxnew/res/fonts/"
+    }, 
+    {
+      "md5": "86840db983517df2d1303a703af4221e", 
+      "name": "douniu_select_times1.png", 
+      "path": "oxnew/res/fonts/"
+    }, 
+    {
       "md5": "b7dbcfd6bf1cf6b47e19392c9879afaf", 
       "name": "background.jpg", 
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "e63c9d2a44bc9c709d1f768a11f4bad8", 
+      "md5": "50811ccccc94b4efc6ec333b965eb8a4", 
       "name": "GameScene.csb", 
       "path": "oxnew/res/game/"
     }, 
@@ -496,6 +311,11 @@
       "path": "oxnew/res/roomlist/"
     }, 
     {
+      "md5": "ebe72ed05a76696676ffe7b2f63604dc", 
+      "name": "rule_jdnn.png", 
+      "path": "oxnew/res/roomlist/"
+    }, 
+    {
       "md5": "f63fb4faefe493539a73fb524911f3db", 
       "name": "backMusic.mp3", 
       "path": "oxnew/res/sound/"
@@ -508,6 +328,11 @@
     {
       "md5": "d4632b909af81c337c1c30fa825df8f4", 
       "name": "douniu_banker1.mp3", 
+      "path": "oxnew/res/sound/"
+    }, 
+    {
+      "md5": "c9174e8fce0613c2b77859eee9f00f56", 
+      "name": "douniu_button_click.mp3", 
       "path": "oxnew/res/sound/"
     }, 
     {
@@ -557,113 +382,113 @@
     }, 
     {
       "md5": "6117eeaf1333a98c15f5f4952ff7e023", 
-      "name": "ox_0.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_0.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "99bbd2e628079c2df5c1da077a3002cb", 
-      "name": "ox_1.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_1.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "0590d86befbc39b5d2e24be99b0025c2", 
-      "name": "ox_10.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_10.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "f9e0104b46a87b1bf095c0279eb95311", 
-      "name": "ox_2.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_2.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "4812363a520f33a58eac0676785a3390", 
-      "name": "ox_3.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_3.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "be7149443f3b1209f8fdf1298f2c566b", 
-      "name": "ox_4.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_4.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "25c29fe0bc5b58ff564818d17e70c717", 
-      "name": "ox_5.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_5.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "ff8f98953c9dc7bf6d8e11cb7336c07e", 
-      "name": "ox_6.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_6.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "4f826cdc47cc7143502ee699d7af1548", 
-      "name": "ox_7.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_7.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "5b469e95a8016a75d7c3c36e0db8e445", 
-      "name": "ox_8.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_8.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "a98a5913ad7a0a96a8b69dc57ffbabfd", 
-      "name": "ox_9.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_9.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "919b96e83bc1bdbd6484d968f1e10909", 
-      "name": "ox_0.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_0.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "af6da928e047ccd4f1c2d26bf4b5b94f", 
-      "name": "ox_1.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_1.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "205b1517ed5d85ae42fdc3e919947287", 
-      "name": "ox_10.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_10.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "7c0a1ea4fe239fab4a74dc751361bcf4", 
-      "name": "ox_2.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_2.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "4e7fd97374284446f4c4b924eb972807", 
-      "name": "ox_3.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_3.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "4ba3efc19e5b1e35db5d3180471d7406", 
-      "name": "ox_4.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_4.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "9401974f508547674cfffdffc73970e9", 
-      "name": "ox_5.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_5.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "b2f5c0d07774584bec7d1bf8223f600c", 
-      "name": "ox_6.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_6.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "c4be328ca743e506dadf09ce30f77afd", 
-      "name": "ox_7.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_7.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "68dc4f9c9550b2ceaa1ac38f3f44510f", 
-      "name": "ox_8.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_8.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "8cbbb80228172423cda5b928c4082010", 
-      "name": "ox_9.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_9.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "884394e36018d56bd76ad49a54f97646", 
@@ -681,7 +506,7 @@
       "path": "oxnew/src/tools/"
     }, 
     {
-      "md5": "f8acebedba3fd429dcb04fe39af8ec57", 
+      "md5": "1984135ab0eeca93c3f69ce7bc82ec39", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -691,22 +516,22 @@
       "path": "oxnew/src/views/"
     }, 
     {
-      "md5": "6ce33c280d50d9e8f02d4e7fedba57ef", 
+      "md5": "5fb45922c7bde295677f471238a594cb", 
       "name": "GameRoomListLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
     {
-      "md5": "855cebc7b91039b3a39838435a1b5cd0", 
+      "md5": "73575e8e8c44aae9cd8920ee12249178", 
       "name": "CardSprite.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "107a2f50ae206e766319ec3eb3faf399", 
+      "md5": "6f969a8c033dede5725413512e79d650", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "allcount": 141
+      "allcount": 106
     }
   ]
 }
