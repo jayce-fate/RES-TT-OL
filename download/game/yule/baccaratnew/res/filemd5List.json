@@ -131,7 +131,7 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "58926d6ade32f06b29a47a4e1dd5d822", 
+      "md5": "55635fd2a479501ca691b6fec9057779", 
       "name": "GameLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -153,6 +153,11 @@
     {
       "md5": "e47aa47c9ad8a1ed48871255fbde7669", 
       "name": "ludan.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "6a0bbe82d50685cebb10ffcad905ee82", 
+      "name": "new_res_new_res_tag_box_chip.png", 
       "path": "baccaratnew/res/game/"
     }, 
     {
@@ -321,7 +326,7 @@
       "path": "baccaratnew/res/sound_res/"
     }, 
     {
-      "md5": "0a75b76681fec910ebb76229ed4d15d2", 
+      "md5": "ed92b3a820b5497cc3c2d4d26bad133a", 
       "name": "END_WIN.wav", 
       "path": "baccaratnew/res/sound_res/"
     }, 
@@ -421,7 +426,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "55c050e2d42d7ee008351c24190a82c9", 
+      "md5": "604c62e05a22af6b8efdff3c88721ec9", 
       "name": "GameFrame.luac", 
       "path": "baccaratnew/src/models/"
     }, 
@@ -441,7 +446,7 @@
       "path": "baccaratnew/src/views/"
     }, 
     {
-      "md5": "1c7902f7d746b049f6c82fdce09ed177", 
+      "md5": "3355c5509a23a23456fbbce044dc066a", 
       "name": "GameCardLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -451,17 +456,17 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "1bf886ef7215fc2bfa55a380ce0448dc", 
+      "md5": "282f997cd3e23a9e2d78db862a4e5d8e", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "8d7ff3dbb54b5ab3f2dce1dd163bdb79", 
+      "md5": "92f65a3ea780470cb7b1be0edeb8e706", 
       "name": "WallBillLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "3b60b8b7db20161b5c3f394d7fd4eb81", 
+      "md5": "0e5009d6afbea51697c25c642cb6d539", 
       "name": "CardsNode.luac", 
       "path": "baccaratnew/src/views/layer/gamecard/"
     }, 
@@ -486,7 +491,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 97
+      "allcount": 98
     }
   ]
 }

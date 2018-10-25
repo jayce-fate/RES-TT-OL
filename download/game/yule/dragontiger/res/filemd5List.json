@@ -561,12 +561,12 @@
       "path": "dragontiger/src/views/"
     }, 
     {
-      "md5": "30260b7eee7fee32cddfff07ad657f29", 
+      "md5": "6d208290bc99c206f3f608caf3805ff2", 
       "name": "GameCardLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "53b1470431773afd06c38ee75ff3a062", 
+      "md5": "4c331adcfcc242f3cd3736258bc31435", 
       "name": "GameViewLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
