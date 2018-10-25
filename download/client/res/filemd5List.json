@@ -806,6 +806,21 @@
       "path": "client/res/plazz/"
     }, 
     {
+      "md5": "39dd6330cb247c890af02c5520f53a94", 
+      "name": "jinbi_spine.atlas", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "3a8266c25feb62be5a5c736336076049", 
+      "name": "jinbi_spine.json", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "aa98312132145412628d4ac1dea023e3", 
+      "name": "jinbi_spine.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
       "md5": "1aba28366eced3e3fea00fd0e48ba21e", 
       "name": "loading.jpg", 
       "path": "client/res/plazz/"
@@ -2176,7 +2191,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "40c73374768b89aaaf12bbf9868d2d5f", 
+      "md5": "265c6299f1426effdb909831841eaefe", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -2436,12 +2451,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "86c53da9b402cb107e19146bd491ac3b", 
+      "md5": "68fe9101b7ac9547a387aded641fed32", 
       "name": "RCTipsLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "6d49c0bf1c4e63d2ebc8d0f152dff0e1", 
+      "md5": "fabe4b7b5cc8ef644c1685641dfcebb7", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2646,7 +2661,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 529
+      "allcount": 532
     }
   ]
 }

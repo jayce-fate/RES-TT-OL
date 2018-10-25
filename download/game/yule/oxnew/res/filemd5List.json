@@ -521,7 +521,7 @@
       "path": "oxnew/res/sound/girls/"
     }, 
     {
-      "md5": "884394e36018d56bd76ad49a54f97646", 
+      "md5": "b4b251db9f7598637af8d233e0af3e3f", 
       "name": "CMD_Game.luac", 
       "path": "oxnew/src/models/"
     }, 
@@ -536,7 +536,7 @@
       "path": "oxnew/src/tools/"
     }, 
     {
-      "md5": "e3d5be744cac9dd49ef4f490d49fe6e8", 
+      "md5": "998a3ef732fa8fec940a88ffcdc65d6f", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -556,7 +556,7 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "b926768eef99cc2732ff2cfd86ce9765", 
+      "md5": "f7a97a670eee31a937bd8e4d51bd1a35", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
