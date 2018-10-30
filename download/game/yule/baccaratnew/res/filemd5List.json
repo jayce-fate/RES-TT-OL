@@ -426,7 +426,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "604c62e05a22af6b8efdff3c88721ec9", 
+      "md5": "ef5a6b1d7127472d5c136f622687049d", 
       "name": "GameFrame.luac", 
       "path": "baccaratnew/src/models/"
     }, 
@@ -456,12 +456,12 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "282f997cd3e23a9e2d78db862a4e5d8e", 
+      "md5": "d2afe319d3780d4a911c8f31543edb65", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "92f65a3ea780470cb7b1be0edeb8e706", 
+      "md5": "279bde10fead9f2a5149c6e94485ba86", 
       "name": "WallBillLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
