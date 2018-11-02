@@ -301,6 +301,11 @@
       "path": "baccaratnew/res/sound_res/"
     }, 
     {
+      "md5": "9df2fb096b678834aa08c1f034b7815b", 
+      "name": "background.mp3", 
+      "path": "baccaratnew/res/sound_res/"
+    }, 
+    {
       "md5": "f283a720018e0027548d4aab41e9de39", 
       "name": "c_place_cn.wav", 
       "path": "baccaratnew/res/sound_res/"
@@ -426,7 +431,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "ef5a6b1d7127472d5c136f622687049d", 
+      "md5": "665cc9447e665969bd39da1d2c448661", 
       "name": "GameFrame.luac", 
       "path": "baccaratnew/src/models/"
     }, 
@@ -456,12 +461,12 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "d2afe319d3780d4a911c8f31543edb65", 
+      "md5": "ed83a1475b6f184dba668882860d4a20", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "279bde10fead9f2a5149c6e94485ba86", 
+      "md5": "d651b5d702ee446fc32db08c04d10a52", 
       "name": "WallBillLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -491,7 +496,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 98
+      "allcount": 99
     }
   ]
 }
