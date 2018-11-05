@@ -431,7 +431,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "665cc9447e665969bd39da1d2c448661", 
+      "md5": "8b732a2188efcc50fa27077af4db7b1c", 
       "name": "GameFrame.luac", 
       "path": "baccaratnew/src/models/"
     }, 
@@ -451,7 +451,7 @@
       "path": "baccaratnew/src/views/"
     }, 
     {
-      "md5": "3355c5509a23a23456fbbce044dc066a", 
+      "md5": "2ac1b2e309c83ee366fae9b19a1173cc", 
       "name": "GameCardLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -461,12 +461,12 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "ed83a1475b6f184dba668882860d4a20", 
+      "md5": "b1725a810a5775a63c557b5d339303c4", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "d651b5d702ee446fc32db08c04d10a52", 
+      "md5": "2d7c8fa94bc30e0b2df27757b5f80f5f", 
       "name": "WallBillLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 

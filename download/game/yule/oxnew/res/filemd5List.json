@@ -16,7 +16,7 @@
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "b74be852d77dc536efd088a46c556f15", 
+      "md5": "5362e76fa1bfadab445faef64564fe9b", 
       "name": "gameScene_oxnew.png", 
       "path": "oxnew/res/"
     }, 
@@ -556,7 +556,7 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "3d220b71759f193319b8c8d68d52df02", 
+      "md5": "a7cf9b20d52c4d7aeef2cb2b31f9b571", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
