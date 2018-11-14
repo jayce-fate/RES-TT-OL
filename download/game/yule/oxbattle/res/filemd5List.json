@@ -1,52 +1,52 @@
 {
   "listdata": [
     {
-      "md5": "304e8f052d8798bb04e89fa26d84b5cc", 
+      "md5": "33ac02d9d0af06df0615f1ac3892e48c", 
       "name": "applylist_bg.png", 
       "path": "oxbattle/res/applylist/"
     }, 
     {
-      "md5": "3e305b66f1d3497dd4c0804807a7c1ca", 
+      "md5": "be80118b3e2cdd9c2607ef63fcbd7724", 
       "name": "applylist_bt_apply_n.png", 
       "path": "oxbattle/res/applylist/"
     }, 
     {
-      "md5": "bfc3923584505bd53feb0c7386a87686", 
+      "md5": "c6d3e8616da2c59cb0a9be41782ddc28", 
       "name": "applylist_btn_apply_d.png", 
       "path": "oxbattle/res/applylist/"
     }, 
     {
-      "md5": "1f93f37f0e043f21b632a11867897dc9", 
+      "md5": "95eb8302d7089abc63536f6c3da878f2", 
       "name": "applylist_btn_apply_n.png", 
       "path": "oxbattle/res/applylist/"
     }, 
     {
-      "md5": "df1151125b29a1acec5051d541e7ce2a", 
+      "md5": "0951ff5e375e9ba150074220e8890dcc", 
       "name": "applylist_btn_cancle_apply_d.png", 
       "path": "oxbattle/res/applylist/"
     }, 
     {
-      "md5": "7d87d751828c05006e0a0fc6a52c7456", 
+      "md5": "b79ae6f1e3906a0128dbea32e924ce1c", 
       "name": "applylist_btn_cancle_apply_n.png", 
       "path": "oxbattle/res/applylist/"
     }, 
     {
-      "md5": "9e42ff659df7146f2b746cd2571b0106", 
+      "md5": "0369d3d5c7654776c3dd899c0e91fa9a", 
       "name": "applylist_btn_cancle_banker_d.png", 
       "path": "oxbattle/res/applylist/"
     }, 
     {
-      "md5": "8b9d4dc4df7e7a0a9dc1bb21dba9b214", 
+      "md5": "b97048ce3f8763f74426932917e684ba", 
       "name": "applylist_btn_cancle_banker_n.png", 
       "path": "oxbattle/res/applylist/"
     }, 
     {
-      "md5": "b4b7f928d43ef3138b0c0849b1140066", 
+      "md5": "cb513946cdb4d7582253a7b6aa8d4cda", 
       "name": "applylist_font_num.png", 
       "path": "oxbattle/res/applylist/"
     }, 
     {
-      "md5": "563e838b714ab979ac304c6fe418ce2a", 
+      "md5": "f526d341077917e943c4475237b74cc3", 
       "name": "applylist_money_bg.png", 
       "path": "oxbattle/res/applylist/"
     }, 
@@ -71,27 +71,27 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "6a7c9101ad288ca9d5e49ab8e150cb76", 
+      "md5": "1a0f2fb37df5e7072f9f507c67b0c476", 
       "name": "brnn_btn_back.png", 
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "778265a6f406182c5555aedea4bec790", 
+      "md5": "076ed6f6417907127a72d29f6f875e0f", 
       "name": "brnn_btn_info.png", 
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "345239218be17e918f4e26faa894f036", 
+      "md5": "94030a3cb5a1462ebb1fc601df76446d", 
       "name": "brnn_btn_mumber.png", 
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "9e1db126733f7ec4a8ab7b18ed5ff87c", 
+      "md5": "f919bb5aea0418d82df08354b8f3feaf", 
       "name": "brnn_info_table_10.png", 
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "52d05d908620671dd319a4b8486f1528", 
+      "md5": "30831a5cc9444996f2aa1845ece212c9", 
       "name": "brnn_info_table_4.png", 
       "path": "oxbattle/res/game_res/"
     }, 
@@ -121,7 +121,7 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "c150e990dc84ce62a58b51236cde2c6b", 
+      "md5": "8fd09a48d42aca887db87976ff094ce1", 
       "name": "hundreds_donghua.png", 
       "path": "oxbattle/res/game_res/"
     }, 
@@ -131,7 +131,7 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "d1164465106db41e67cf16b6709a2329", 
+      "md5": "c4e98100e47ce2107775d852b1cc968e", 
       "name": "hundreds_poker.png", 
       "path": "oxbattle/res/game_res/"
     }, 
@@ -141,7 +141,7 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "a42b934eee90d6ee098775f3f48595e5", 
+      "md5": "45ab647c7357edf6b233fac5e695f0b6", 
       "name": "hundreds_table_main.png", 
       "path": "oxbattle/res/game_res/"
     }, 
@@ -151,7 +151,7 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "25dadc5f1712443c3ce1c299d91b253c", 
+      "md5": "2734d0570e7a79b6aa0dc877fd2da66c", 
       "name": "niuniu_type_fnt_grey_0.png", 
       "path": "oxbattle/res/game_res/"
     }, 
@@ -161,22 +161,22 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "ffc5c5278259c0b6a54243afb7113502", 
+      "md5": "df661c2046a1dfb3a66f617db35ef753", 
       "name": "niuniu_type_fnt_yellow_0.png", 
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "f714877192990cb888ecbb6a86eec605", 
+      "md5": "b9af08d08ec4c8a37607b42223a88b18", 
       "name": "num_time.png", 
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "569d2629b2d84f155816dcba97f0514a", 
+      "md5": "90b846fa84b1a29020e71b46f41db880", 
       "name": "txt_time_free.png", 
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "0208e4c4d17db6f5f46a39a7e8bac94a", 
+      "md5": "f078345858af581244324020d746e5d9", 
       "name": "txt_time_jetton.png", 
       "path": "oxbattle/res/game_res/"
     }, 
@@ -201,7 +201,7 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "bcfe6b240b0e1abe50647212c9493916", 
+      "md5": "9e143fd51c3fa0f511fe933f2ab9788e", 
       "name": "roomlist_title.png", 
       "path": "oxbattle/res/roomlist/"
     }, 
@@ -211,77 +211,77 @@
       "path": "oxbattle/res/roomlist/"
     }, 
     {
-      "md5": "37788f9a6641e67ddfc1a5de226a1739", 
+      "md5": "eae2a525697fcf8b616384d34b1385a1", 
       "name": "fnt1.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "18e4119e95eed0bc23873ab3f42a06c6", 
+      "md5": "7a77cae1d76930cab62bf0741b17e7ec", 
       "name": "fnt2.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "a4ffb2abe0aeb4e8f997b104a747bf9d", 
+      "md5": "84c611973f6ef8d443fd2d6914455759", 
       "name": "sitrole_btn_seat.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "d7d62094af2a5531409bc47f599e70bb", 
+      "md5": "aff84c79628f540a761c23d9cb5ea466", 
       "name": "sitrole_font_score_add.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "b5eaa9a92940bbc8774e752b3730bc2a", 
+      "md5": "527c7de954a9c4886d4d30223addc104", 
       "name": "sitrole_font_score_min.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "f8ff562317840ecf1d11a109dc39a320", 
+      "md5": "f8114e064c3e76be63a371354818580a", 
       "name": "sitrole_number_1.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "72e241f3f99de6a0828cc9ae85ac691d", 
+      "md5": "aecffbe6c9a889e6a6a4edc88bab065a", 
       "name": "sitrole_number_2.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "72b1609f3e2847260f0022e7f6bd7c02", 
+      "md5": "fd3423b557c683c0c81bfad375da8fb4", 
       "name": "sitrole_number_3.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "3d2ddbb962b2e05a4bbf0a1f0dd0ae3b", 
+      "md5": "0e22229a8381e7a7bed0449f9f2e2db5", 
       "name": "sitrole_number_4.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "872bd11b6ee6410ac48afe7f5a334f1f", 
+      "md5": "22f8efe1d43630392ed1f351503fc9f2", 
       "name": "sitrole_number_5.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "2caaacfb25d33597d7a7ad34b1f214b1", 
+      "md5": "d5b70244d2995c05b3bb37c5c90e1ec6", 
       "name": "sitrole_number_6.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "79e0a12c4eaab1d7f4e210d85cb75216", 
+      "md5": "4c9b151c8233a317da0df98c59ed5002", 
       "name": "sitrole_number_7.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "bb1fd9e83768ecefe04e5dd1319686b2", 
+      "md5": "fa185fd54c3253b73d2235a03410d6a0", 
       "name": "sitrole_number_8.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "ec9ca83e234a49689909e6d59ce50e50", 
+      "md5": "18f6616b035f7291f68b1a534080c5a1", 
       "name": "sitrole_unseated.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "fe72d5cb7e1ff650bc02545b6b28c59b", 
+      "md5": "d9619c1b729ba8ab4c475ad7f954b684", 
       "name": "sitrole_user_bg.png", 
       "path": "oxbattle/res/sitrole/"
     }, 
@@ -431,47 +431,47 @@
       "path": "oxbattle/res/sound_res/"
     }, 
     {
-      "md5": "bb93cc4bced7ea066cd51c990a1b777e", 
+      "md5": "a719fc517052d6f403a4261b387067c8", 
       "name": "trend_bg.png", 
       "path": "oxbattle/res/trend/"
     }, 
     {
-      "md5": "46496503afc3e482782f71a60c94e1ca", 
+      "md5": "7e6bf06a8b91b1e103cefb76ee00a806", 
       "name": "trend_bg_front.png", 
       "path": "oxbattle/res/trend/"
     }, 
     {
-      "md5": "9ba5a68b76022d9fdb7883b584c2ec10", 
+      "md5": "f6f75aa4516a7d34b3cf6fe2a7b5f6c6", 
       "name": "trend_icon_new.png", 
       "path": "oxbattle/res/trend/"
     }, 
     {
-      "md5": "33d1f73cc7e76193cd7f808ef2be10da", 
+      "md5": "308290b8d9f10a93e0812e28f4d2c198", 
       "name": "trend_lose.png", 
       "path": "oxbattle/res/trend/"
     }, 
     {
-      "md5": "35b80b7aec214bf417dbc370baaeb787", 
+      "md5": "6165138081d0eee1dc80870f6aa0c60d", 
       "name": "trend_title_d.png", 
       "path": "oxbattle/res/trend/"
     }, 
     {
-      "md5": "405d404bd2e7318c0506b8a3382daf65", 
+      "md5": "8b93e8e8d1ca0a35d7d4a91d43353097", 
       "name": "trend_title_h.png", 
       "path": "oxbattle/res/trend/"
     }, 
     {
-      "md5": "8c9cd125cb91b3606426820996235cd3", 
+      "md5": "41ef9a5e64a19e61d7e1b10cbcd1f5ce", 
       "name": "trend_title_t.png", 
       "path": "oxbattle/res/trend/"
     }, 
     {
-      "md5": "4b58009c29b9e2a8f9fe571630d1f1c4", 
+      "md5": "5a4b0bcdc558218473191e9fc0ee699b", 
       "name": "trend_title_x.png", 
       "path": "oxbattle/res/trend/"
     }, 
     {
-      "md5": "7db318a701883c419fc4c04373659d05", 
+      "md5": "34294736a0a4d66b315e7a3a66e73cb4", 
       "name": "trend_win.png", 
       "path": "oxbattle/res/trend/"
     }, 
@@ -491,47 +491,47 @@
       "path": "oxbattle/res/userlist/"
     }, 
     {
-      "md5": "b811cb35c348e23686a38b498cc5fbda", 
+      "md5": "f7cd10d04dd0261ada0eabd86a282edc", 
       "name": "userlist_avatar_frame.png", 
       "path": "oxbattle/res/userlist/"
     }, 
     {
-      "md5": "f3a3dfa496a818c49412616363f16137", 
+      "md5": "765b7df331f3b26317e6ccae8becdfa2", 
       "name": "userlist_bg.png", 
       "path": "oxbattle/res/userlist/"
     }, 
     {
-      "md5": "8704a4f0678c73be911c30a20126a8f1", 
+      "md5": "27e4fb1e895ed9e453e79d7f2100da44", 
       "name": "userlist_btn_close.png", 
       "path": "oxbattle/res/userlist/"
     }, 
     {
-      "md5": "2ce73e1efe1ce2d68a2fc53c5b8dc94a", 
+      "md5": "9290cc0b39a804e9b9bcac57e32f4b57", 
       "name": "userlist_btn_next_d.png", 
       "path": "oxbattle/res/userlist/"
     }, 
     {
-      "md5": "add6ae951f73deff0d8a043a114423d0", 
+      "md5": "f86a52a3b1dcb01d8784a3d10396467b", 
       "name": "userlist_btn_next_n.png", 
       "path": "oxbattle/res/userlist/"
     }, 
     {
-      "md5": "400e31e5474451f9163c240c1bf55891", 
+      "md5": "71e0c5d1ec36bcf53db9de66273b2ae3", 
       "name": "userlist_btn_previous_d.png", 
       "path": "oxbattle/res/userlist/"
     }, 
     {
-      "md5": "9ff7f5a4d9eeaf9cb60c68347c67c7a9", 
+      "md5": "825785dbb55f48162d2b40beebd56063", 
       "name": "userlist_btn_previous_n.png", 
       "path": "oxbattle/res/userlist/"
     }, 
     {
-      "md5": "e27199c1e3aa2b2bc8be7c853544a809", 
+      "md5": "667bc4aa940e1aade4cceb0d2346609c", 
       "name": "userlist_coin.png", 
       "path": "oxbattle/res/userlist/"
     }, 
     {
-      "md5": "541de21e61fdff7a8ddba0f969d25a0d", 
+      "md5": "76040b435315e437f216aa6866095848", 
       "name": "userlist_table_line.png", 
       "path": "oxbattle/res/userlist/"
     }, 

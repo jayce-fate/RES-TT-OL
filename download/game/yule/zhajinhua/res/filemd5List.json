@@ -16,7 +16,7 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "844cf4c346cc9692b487bc70e7340939", 
+      "md5": "08f8b8c505285f51941bb4562afe1dab", 
       "name": "deskSource.png", 
       "path": "zhajinhua/res/"
     }, 
@@ -31,7 +31,7 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "1ef129db21ee48975835c97050ede67a", 
+      "md5": "4752ec27954739fa671b77de7ba8426f", 
       "name": "game_zjh_res.png", 
       "path": "zhajinhua/res/"
     }, 
@@ -46,22 +46,22 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "3be3f8c64fcf751702d15986fdf7b885", 
+      "md5": "22a22a23e1832c31a951554829b42889", 
       "name": "poker.png", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "24260cb7c83b1e8a5367e0cb749da872", 
+      "md5": "16617af1194354c5e36f19680a3c0ad8", 
       "name": "tag_profile_shining_green.png", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "ffb8940e12bae48ada99079ec4cf331d", 
+      "md5": "67a90a8307418adbf54b3828cebedd7b", 
       "name": "tag_profile_shining_red.png", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "9d85c91e1d58515fcefffd490835be04", 
+      "md5": "c28ab75a2b68859e5e2b1ee66e6f6431", 
       "name": "tag_profile_shining_yellow.png", 
       "path": "zhajinhua/res/"
     }, 
@@ -76,7 +76,7 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "fe1db1e8b3c70b1956fd1a95ba41a4c7", 
+      "md5": "b841e13e8cd0be470dd300b000e90504", 
       "name": "xipai_spine.png", 
       "path": "zhajinhua/res/"
     }, 
@@ -86,12 +86,12 @@
       "path": "zhajinhua/res/compare/"
     }, 
     {
-      "md5": "baa3a50263e19190132d87106be1f2a2", 
+      "md5": "eb3dc29e8ee505dee736cf5c3b2231e3", 
       "name": "newt3animation.png", 
       "path": "zhajinhua/res/compare/"
     }, 
     {
-      "md5": "fa79821349dd686f516187283bc2fb8c", 
+      "md5": "7754d1441b4d661218636a67c46d398a", 
       "name": "Button_Disable.png", 
       "path": "zhajinhua/res/Default/"
     }, 
@@ -101,97 +101,97 @@
       "path": "zhajinhua/res/desk/"
     }, 
     {
-      "md5": "49793a1a2d1cc2a8faf87d9b24923290", 
+      "md5": "60e5bc7fa5cfe6e9722f75d36b41e46e", 
       "name": "chip_small_500.png", 
       "path": "zhajinhua/res/desk/"
     }, 
     {
-      "md5": "50cdffb9ae9ddb5cc072b2b252bc9929", 
+      "md5": "61fd7c22449c0fb418d95b07fae4995c", 
       "name": "tag_premium_game.png", 
       "path": "zhajinhua/res/desk/"
     }, 
     {
-      "md5": "53eea43206d5154cfdd30cdb61b72b07", 
+      "md5": "c7c6fc545b5d5c546495e7a043435186", 
       "name": "tag_premium_game_bg.png", 
       "path": "zhajinhua/res/desk/"
     }, 
     {
-      "md5": "db2802152376d894ca43214c7412c854", 
+      "md5": "5f08e354f45283ca32c6c842e3b580d5", 
       "name": "btn_change_table.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "b9a239ca6a183790e4fcf7e3403953fc", 
+      "md5": "8b3e5763139ff2f78bfdcb832028d61b", 
       "name": "btn_continue.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "06bfeaf5d5289a74b5cd3a62382c72e0", 
+      "md5": "78f074401c43df7269de8281bb8a0db9", 
       "name": "btn_leave.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "84b72bd1996a518a1a21e058364722aa", 
+      "md5": "f85da634fa48a866d4a045ce93070b46", 
       "name": "effectpicture.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "71e65dceb6c3cd3ab34908ad6a54588b", 
+      "md5": "08471e118474fb5ae15ec51ec2c6d111", 
       "name": "resulteffect.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "a0560eb5890d88d606ef5df4a5c6ec03", 
+      "md5": "07351ec292496b8188c841e7a386e905", 
       "name": "tag_bg.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "0d0edf5c0dea16daa6138e2fc5f90953", 
+      "md5": "10635d65f8e3f625ce33b5a6a231bacd", 
       "name": "tag_fail.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "f9a1c7a40822a2b2d34c5b0d35e9628f", 
+      "md5": "dc0bc6fe2886378c41c4c840bcc267ec", 
       "name": "tag_poker.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "298e042aa5353a2ec184174c50ae8dfd", 
+      "md5": "fbe538df14b58851e812e213ffd151fc", 
       "name": "tag_profile.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "6df50517753aa57c10c7db770ff40fec", 
+      "md5": "8716aca06b1ebfdac1eab4c0d6858092", 
       "name": "tag_win.png", 
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "3832ab4310db086b2f1410191bb9a7a6", 
+      "md5": "916f3f8621aa2f3854605ddde2d1203c", 
       "name": "icon_roomlist_0.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
-      "md5": "ebcf59f9399dad33b6264d3c5cb28bb4", 
+      "md5": "20f5e2d9eb479dbaed48d73d1944c6ce", 
       "name": "icon_roomlist_1.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
-      "md5": "c1bee7c1896a7b75e91b0ddff9fd4a5b", 
+      "md5": "3021c65dd327b09dc15938c775e3919b", 
       "name": "icon_roomlist_2.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
-      "md5": "4b5cefb37410335a6ee78a72d3b87e61", 
+      "md5": "377b335e4f684d6f907e7a161ca0b705", 
       "name": "roomlist_title.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
-      "md5": "b7758423fad95492d99458c3336a8bd1", 
+      "md5": "c58c8be4db05debd87916a0c72d27c34", 
       "name": "roomtable.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
-      "md5": "7c22d8309bc4d26dc1befe6e4b6e0a30", 
+      "md5": "15ff2b1a3d615e6798b18e53ab1665f9", 
       "name": "roomtable_play.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
@@ -201,12 +201,12 @@
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
-      "md5": "59c1bbdc79c9d886ccba49795f98179f", 
+      "md5": "521b643dced3f6e90c268138782264ce", 
       "name": "rule_zjh_0.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
-      "md5": "8925658c7b207b5b4a9fdc0516562a90", 
+      "md5": "91bf627bb0eb906aae8c4f6b35215ddf", 
       "name": "rule_zjh_1.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
