@@ -556,7 +556,7 @@
       "path": "oxbattle/src/models/"
     }, 
     {
-      "md5": "d8215f0a193886970ae15ce0857374fc", 
+      "md5": "668c0bd6e8d64ff71602ed715dba22cf", 
       "name": "GameLayer.luac", 
       "path": "oxbattle/src/views/"
     }, 
@@ -586,7 +586,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "b0cf1d4d28c5b43f9559018a452bc327", 
+      "md5": "7ca4e41e124ea273ea036e7da6abce3d", 
       "name": "GameViewLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 

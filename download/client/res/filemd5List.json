@@ -156,16 +156,6 @@
       "path": "client/res/coin_tip/"
     }, 
     {
-      "md5": "4b06c94cca337eecd4915f74d6f0f7ec", 
-      "name": "ani_lattern.plist", 
-      "path": "client/res/common/"
-    }, 
-    {
-      "md5": "0fb71e145353e73ad37dda23d2c3f247", 
-      "name": "ani_lattern.png", 
-      "path": "client/res/common/"
-    }, 
-    {
       "md5": "18b1728fe7c18685a1b90a6111b5ee09", 
       "name": "blank.png", 
       "path": "client/res/common/"
@@ -176,63 +166,58 @@
       "path": "client/res/common/"
     }, 
     {
-      "md5": "27e4fb1e895ed9e453e79d7f2100da44", 
+      "md5": "6c2f250160618de2ad09bdc2d496af1f", 
       "name": "common_btn_close.png", 
       "path": "client/res/common/"
     }, 
     {
-      "md5": "5cea95fe0e3fe560e2933a6f05d769ed", 
+      "md5": "6c3c997d9fae3adffde68221d0fe9fd9", 
       "name": "common_btn_sure.png", 
       "path": "client/res/common/"
     }, 
     {
-      "md5": "afcb91527a741fabaf540aec6da8dbd4", 
+      "md5": "939ad44e45de5ed3506683a23b309b34", 
       "name": "common_rule_title.png", 
       "path": "client/res/common/"
     }, 
     {
-      "md5": "62bad6e4738c15685c00fbfe262eb42c", 
+      "md5": "d15266afac75ada26437f85edacdbd7b", 
       "name": "common_tips_bg.png", 
       "path": "client/res/common/"
     }, 
     {
-      "md5": "304747709b22ab74e9cb13bb5a78e18d", 
+      "md5": "7fe1f7d707ac03f39b74dcff8fc3d5d3", 
       "name": "common_tips_title.png", 
       "path": "client/res/common/"
     }, 
     {
-      "md5": "818e0e8b8829d8d46a829bbea6fe40e6", 
+      "md5": "52f7f0adb6c5bb2599298857e209dfd3", 
       "name": "common_txt_bg.png", 
       "path": "client/res/common/"
     }, 
     {
-      "md5": "8130ec2b8280b645e3d9c4ce0581d338", 
+      "md5": "18d1af69f473de9c07634621a93a5c2e", 
       "name": "common_whiteboard_bg.png", 
       "path": "client/res/common/"
     }, 
     {
-      "md5": "af36959170fe14dbe7a728073aec8cbf", 
-      "name": "denglong_spine.atlas", 
-      "path": "client/res/common/"
-    }, 
-    {
-      "md5": "91e48050df0ccb23ee2aa7a4e65985cb", 
-      "name": "denglong_spine.json", 
-      "path": "client/res/common/"
-    }, 
-    {
-      "md5": "321dc77403d5b027b0e08729d62974e6", 
-      "name": "denglong_spine.png", 
-      "path": "client/res/common/"
-    }, 
-    {
-      "md5": "b4bfd28c3e17d7f467532f040dc155cd", 
+      "md5": "b5cecf381669f41d65a5e53841bc1806", 
       "name": "HowToPlayNode.csb", 
       "path": "client/res/common/"
     }, 
     {
-      "md5": "8de5ce7b9c5c20b4814a0419af0c6856", 
-      "name": "LatternAni.csb", 
+      "md5": "56ada4cc0aa27d1a5324076765b4927f", 
+      "name": "lantern.atlas", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "b24aa7381a21561f7742caf92edf7252", 
+      "name": "lantern.json", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "45a008cdbaace6923cce5be98ddd265a", 
+      "name": "lantern.png", 
       "path": "client/res/common/"
     }, 
     {
@@ -246,7 +231,7 @@
       "path": "client/res/common/"
     }, 
     {
-      "md5": "7581562cfdaa5a61f5c760c9ec7b9e44", 
+      "md5": "e6774f3a70eb927f1c391ff33c256af8", 
       "name": "TipsNodeB.csb", 
       "path": "client/res/common/"
     }, 
@@ -261,17 +246,17 @@
       "path": "client/res/common/"
     }, 
     {
-      "md5": "331b5c27934acb91e0b98c5c2884bf8f", 
+      "md5": "5ac9e6837759ff312b26db00dcd7f9ba", 
       "name": "hall_receive_coin_btn.png", 
       "path": "client/res/common/rc_tip/"
     }, 
     {
-      "md5": "656a2d249cdfa89f854498c5896008ab", 
+      "md5": "b8fda430e3cd72295678279b61bbce83", 
       "name": "hall_receive_coin_title.png", 
       "path": "client/res/common/rc_tip/"
     }, 
     {
-      "md5": "6c940d46c4e5405305667e5808c004e8", 
+      "md5": "4337312bcd38d1bd8eb6e38cb45ddf4f", 
       "name": "hall_ui39_window_bg.png", 
       "path": "client/res/common/rc_tip/"
     }, 
@@ -781,8 +766,38 @@
       "path": "client/res/mailbox/"
     }, 
     {
+      "md5": "d6dcd9286c9671f72036804d3c3aa998", 
+      "name": "butterfly.atlas", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "02731a1f1220d869db3f9f63a3fbc697", 
+      "name": "butterfly.json", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "2263773266803ea6a9efe97052d6d231", 
+      "name": "butterfly.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
       "md5": "e195a9089a1217f3d0ad2ec2d51d03ff", 
       "name": "ClientSakulaNode.csb", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "9fa611d41542f20365c2a88c853bbc34", 
+      "name": "hall_ad.plist", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "f2bf530d240f22779d9cd5e946985524", 
+      "name": "hall_ad.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "a73b108e5f4374e6c75aadf372e842bd", 
+      "name": "hall_ad_bg.png", 
       "path": "client/res/plazz/"
     }, 
     {
@@ -816,6 +831,16 @@
       "path": "client/res/plazz/"
     }, 
     {
+      "md5": "1760d191d2c40ac60f939a380f3faf51", 
+      "name": "hf_cmtk_million.plist", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "2112a8aa06b39cebc54661476dba264c", 
+      "name": "hf_cmtk_million.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
       "md5": "39dd6330cb247c890af02c5520f53a94", 
       "name": "jinbi_spine.atlas", 
       "path": "client/res/plazz/"
@@ -836,33 +861,8 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "f3dd9d1f18c115f34998db51650c5d88", 
-      "name": "lobby_banner.png", 
-      "path": "client/res/plazz/"
-    }, 
-    {
       "md5": "74a3b088eeeff60780ef192e6b6a9424", 
       "name": "lobby_btn_charge_01.png", 
-      "path": "client/res/plazz/"
-    }, 
-    {
-      "md5": "2d76ea6c602bf6d54248c125ed769933", 
-      "name": "lobby_btn_charge_02.png", 
-      "path": "client/res/plazz/"
-    }, 
-    {
-      "md5": "9ae98464c1d8a0eac9d3ae72b04fb5ab", 
-      "name": "lobby_btn_charge_03.png", 
-      "path": "client/res/plazz/"
-    }, 
-    {
-      "md5": "f279ea68f7ba8a5dd2073a39cd0060ac", 
-      "name": "lobby_btn_charge_04.png", 
-      "path": "client/res/plazz/"
-    }, 
-    {
-      "md5": "8bb8fbdce2eb676681bc3fc2848bc45b", 
-      "name": "lobby_btn_charge_05.png", 
       "path": "client/res/plazz/"
     }, 
     {
@@ -926,27 +926,12 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "b18cca634fdf5b415e685e3e9a58e072", 
-      "name": "lobby_poster.png", 
-      "path": "client/res/plazz/"
-    }, 
-    {
       "md5": "80a9d463497ae7f7802df3c4ffd56517", 
       "name": "lobby_trumpet_bg.png", 
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "39220141ba1d0947b211fdab1faf86b5", 
-      "name": "lobby_wave_left.png", 
-      "path": "client/res/plazz/"
-    }, 
-    {
-      "md5": "a705805223235a53f67109cc1144c26f", 
-      "name": "lobby_wave_right.png", 
-      "path": "client/res/plazz/"
-    }, 
-    {
-      "md5": "e0a1c223c0232880664a88b2708baf58", 
+      "md5": "45505f37bc3a0af53054612021bd09a7", 
       "name": "PlazzLayer.csb", 
       "path": "client/res/plazz/"
     }, 
@@ -971,7 +956,12 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "5957ca2a8b12b82aee0a066adc46d510", 
+      "md5": "fd0191ddaf563e45c8972a98360fb0f5", 
+      "name": "SpreadAniNode.csb", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "f5110ee31b702ad5cdafe269b632f72c", 
       "name": "SpreadNode.csb", 
       "path": "client/res/plazz/"
     }, 
@@ -981,72 +971,72 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "bff51edcd28397f8efd8dede4f8a86fd", 
+      "md5": "f205328431e04d626d509e46564bff98", 
       "name": "coin-01.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
     {
-      "md5": "07b04655fab36e493461016efe1ad40a", 
+      "md5": "9e51a65b7d8a9209b52b63c7608c8edc", 
       "name": "coin-010.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
     {
-      "md5": "409a49740afe7cffd9783a54b1b93738", 
+      "md5": "998bd6cc5dc99bfdc5555f41e580f1af", 
       "name": "coin-011.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
     {
-      "md5": "086d46773bdcaec19a735b44596cf9df", 
+      "md5": "b7b40cb8e8ddf4311804aa231c925d22", 
       "name": "coin-012.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
     {
-      "md5": "f28a4727830e9d3dae28814a076aa8f6", 
+      "md5": "62ed5e92cea15a45e92f375bfa78fe66", 
       "name": "coin-013.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
     {
-      "md5": "f1e85294f4a8db37dfb69b1d363e31ba", 
+      "md5": "780db501ff8f85fcb0e3986ad1edcaf4", 
       "name": "coin-014.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
     {
-      "md5": "208a65de9c4c8e7bd70d926e0bdb9839", 
+      "md5": "e9f731fe503cd582a150c13d42c33c15", 
       "name": "coin-02.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
     {
-      "md5": "a6759b4d1266ebd1aec7ed7c22ee6704", 
+      "md5": "6906d154907bd6fb5622c358b6392d7f", 
       "name": "coin-03.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
     {
-      "md5": "a3c556ad5cb80a0cd0ec32404f5587e3", 
+      "md5": "f33e9ffee7e6b70f264258984aca3650", 
       "name": "coin-04.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
     {
-      "md5": "14f20c7e809bfa1cf5941578bce81af1", 
+      "md5": "73aeadc18011b60734c4b4139a58eb97", 
       "name": "coin-05.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
     {
-      "md5": "e27c53d3b49f5187d953772da77dfc9f", 
+      "md5": "0b6767ad7c0b54646b8488505d7e0e20", 
       "name": "coin-06.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
     {
-      "md5": "0f5de4b832841449d4919ea05725403b", 
+      "md5": "a8b74a5a4176199ca7193a96146d1e29", 
       "name": "coin-07.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
     {
-      "md5": "88a586cec74c30b7de12b469b743abb7", 
+      "md5": "151600d79165cea0ecd4c13e0951a464", 
       "name": "coin-08.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
     {
-      "md5": "010b2753d7ac51c37f464343357e19e5", 
+      "md5": "d7a75335135cec9ae8e0b59fe927dc9a", 
       "name": "coin-09.png", 
       "path": "client/res/plazz/animations/gold/"
     }, 
@@ -1626,7 +1616,7 @@
       "path": "client/res/Room/"
     }, 
     {
-      "md5": "534bd34199dfe1570088834da4b9f0f3", 
+      "md5": "026c76701625e6132380a4c73cdfece3", 
       "name": "SafeBox.csb", 
       "path": "client/res/safebox/"
     }, 
@@ -1976,7 +1966,7 @@
       "path": "client/res/withdraw/"
     }, 
     {
-      "md5": "c4b5672fc13eec7d10c90c40f198c6c2", 
+      "md5": "d88b097a8ed657607e7bf4f4ba817228", 
       "name": "Withdraw.csb", 
       "path": "client/res/withdraw/"
     }, 
@@ -2161,7 +2151,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "2b8cb1d4153cb471465dffc44d6a060c", 
+      "md5": "02118698f067631490e455bac798c967", 
       "name": "GameFrameEngine.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2211,7 +2201,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "1a11cd79397f52b9a980b6b23bfcf297", 
+      "md5": "a1621f0e33b6366ea02b40dd6a058abe", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -2476,7 +2466,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "b54a0b9cc24db11639bc518280581dc9", 
+      "md5": "3fad3fb5a592060e0c20da0af535d8fd", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2556,7 +2546,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "db3a6ce4cd65d3fc30f15d9da4a85976", 
+      "md5": "f2bca53684c5e5b89cf8961448d6d01f", 
       "name": "WhiteBoardLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2686,7 +2676,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 537
+      "allcount": 535
     }
   ]
 }
