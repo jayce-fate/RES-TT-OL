@@ -416,7 +416,7 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "3e8ecc05ab6f20327d07b66751f766ad", 
+      "md5": "8daa707535ea22183fb72089f2631882", 
       "name": "lobby_game_25.png", 
       "path": "client/res/GameList/"
     }, 
@@ -581,7 +581,7 @@
       "path": "client/res/gameroomlist/"
     }, 
     {
-      "md5": "2eac0922210f6dedf6a6a87a355bb191", 
+      "md5": "6828c3138747d50980f308a4f4880771", 
       "name": "roomlist_room_3.png", 
       "path": "client/res/gameroomlist/"
     }, 
@@ -2256,7 +2256,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "29c3156bce121991444bf0c489eafe38", 
+      "md5": "55fab1091765334cb987409ddc96e2a7", 
       "name": "RoomListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
