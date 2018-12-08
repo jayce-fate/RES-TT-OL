@@ -166,33 +166,8 @@
       "path": "zhajinhua/res/end/"
     }, 
     {
-      "md5": "916f3f8621aa2f3854605ddde2d1203c", 
-      "name": "icon_roomlist_0.png", 
-      "path": "zhajinhua/res/roomlist/"
-    }, 
-    {
-      "md5": "20f5e2d9eb479dbaed48d73d1944c6ce", 
-      "name": "icon_roomlist_1.png", 
-      "path": "zhajinhua/res/roomlist/"
-    }, 
-    {
-      "md5": "3021c65dd327b09dc15938c775e3919b", 
-      "name": "icon_roomlist_2.png", 
-      "path": "zhajinhua/res/roomlist/"
-    }, 
-    {
-      "md5": "377b335e4f684d6f907e7a161ca0b705", 
+      "md5": "3f8626c2f4ba17da43d2bf1d6de17163", 
       "name": "roomlist_title.png", 
-      "path": "zhajinhua/res/roomlist/"
-    }, 
-    {
-      "md5": "c58c8be4db05debd87916a0c72d27c34", 
-      "name": "roomtable.png", 
-      "path": "zhajinhua/res/roomlist/"
-    }, 
-    {
-      "md5": "15ff2b1a3d615e6798b18e53ab1665f9", 
-      "name": "roomtable_play.png", 
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
@@ -501,7 +476,7 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "allcount": 100
+      "allcount": 95
     }
   ]
 }

@@ -276,33 +276,8 @@
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "d66473fa035d4d086dde3904cbda0d67", 
-      "name": "icon_roomlist_0.png", 
-      "path": "oxnew/res/roomlist/"
-    }, 
-    {
-      "md5": "09a8cbcd3ab20a07410f3cdd9f0453c9", 
-      "name": "icon_roomlist_1.png", 
-      "path": "oxnew/res/roomlist/"
-    }, 
-    {
-      "md5": "9ff2c0d6836f889006aeab8bbd009031", 
-      "name": "icon_roomlist_2.png", 
-      "path": "oxnew/res/roomlist/"
-    }, 
-    {
-      "md5": "396987f1cb1ed589c459b75a40108207", 
+      "md5": "7390e898a5b9ff23dba5c505d0aa7ee2", 
       "name": "roomlist_title.png", 
-      "path": "oxnew/res/roomlist/"
-    }, 
-    {
-      "md5": "64af9d276391bf124d3e331143ee4f75", 
-      "name": "roomtable.png", 
-      "path": "oxnew/res/roomlist/"
-    }, 
-    {
-      "md5": "75be5441e5e3d9d77664c19dce0dca99", 
-      "name": "roomtable_play.png", 
       "path": "oxnew/res/roomlist/"
     }, 
     {
@@ -561,7 +536,7 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "allcount": 112
+      "allcount": 107
     }
   ]
 }

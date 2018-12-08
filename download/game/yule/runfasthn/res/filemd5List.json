@@ -166,28 +166,8 @@
       "path": "runfasthn/res/result/"
     }, 
     {
-      "md5": "9dd870630e512c45ded748c03e289ed3", 
-      "name": "icon_roomlist_0.png", 
-      "path": "runfasthn/res/roomlist/"
-    }, 
-    {
-      "md5": "a61228540532551ba3c015512daa8437", 
-      "name": "icon_roomlist_1.png", 
-      "path": "runfasthn/res/roomlist/"
-    }, 
-    {
-      "md5": "abd3ad759457d799d491116e0cc922a0", 
-      "name": "icon_roomlist_2.png", 
-      "path": "runfasthn/res/roomlist/"
-    }, 
-    {
-      "md5": "67203579c92902bcc7c3390dc1c2fa70", 
+      "md5": "b98cf29752364e2893a1f7e684613b51", 
       "name": "roomlist_title.png", 
-      "path": "runfasthn/res/roomlist/"
-    }, 
-    {
-      "md5": "0d2553343973f0d2558812cf2accecf7", 
-      "name": "roomtable.png", 
       "path": "runfasthn/res/roomlist/"
     }, 
     {
@@ -731,7 +711,7 @@
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 146
+      "allcount": 142
     }
   ]
 }

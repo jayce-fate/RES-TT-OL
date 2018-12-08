@@ -1,84 +1,9 @@
 {
   "listdata": [
     {
-      "md5": "00526ff8fed2b9b1a69053c3227154a7", 
-      "name": "bg_chart.png", 
-      "path": "baccaratnew/res/"
-    }, 
-    {
-      "md5": "78dc256e18fd87f579eed11e80f84299", 
-      "name": "bjl.plist", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "53fc4a9f76efe5fd55cec6ca90f96c45", 
-      "name": "bjl.png", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "0cc93701a91dccac9f6226fe3642ebb0", 
-      "name": "brnn_btn_back.png", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "3bccb69919a340f8c5e7ca2e649a6879", 
-      "name": "fnt1.png", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "438d0725292ffab80e64a1f89d97654b", 
-      "name": "fnt2.png", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "560750ecbeeed7df2f91119920e008df", 
-      "name": "font.fnt", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "9ca62d8d8b811cf35512b10c37f647f6", 
-      "name": "font.png", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "369f3741a2dfffed2c1890b32385709e", 
-      "name": "new_res_new_res_tag_box_poker.png", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "77dc1a933b41b5f57fd6b42fc17b9f82", 
-      "name": "room_chipbg.png", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "aff84c79628f540a761c23d9cb5ea466", 
-      "name": "sitrole_font_score_add.png", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "527c7de954a9c4886d4d30223addc104", 
-      "name": "sitrole_font_score_min.png", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "18f6616b035f7291f68b1a534080c5a1", 
-      "name": "sitrole_user_bg.png", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "f2b06358af881de71d440e157be64e38", 
-      "name": "tag_loading_bar.png", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "f50476e2d8807a9fad9c08217a4036e5", 
-      "name": "tag_loading_flower.png", 
-      "path": "baccaratnew/res/bjl_new/"
-    }, 
-    {
-      "md5": "66fc2dca4e57f148acb0e5fa7a353268", 
-      "name": "tag_loading_num.png", 
-      "path": "baccaratnew/res/bjl_new/"
+      "md5": "b3667e9f9cbf80f4f2383bd3aea1a189", 
+      "name": "round_body.ttf", 
+      "path": "baccaratnew/res/fonts/"
     }, 
     {
       "md5": "936e3367b344199cabba77b4a6829cc9", 
@@ -86,33 +11,28 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "82fd6505f843a61d092fe82e3aa6dc09", 
+      "md5": "48d5edc694d993bf8a898ea83da48567", 
       "name": "bjl_game_chip_0_0.png", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "9843e0c94531b3eaa1abaa927f00e0e1", 
+      "md5": "bd4f7877485544c7faa1190478d9b050", 
       "name": "bjl_game_chip_1_0.png", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "1c35c5d2aa93b4878d7090ec30e605ec", 
+      "md5": "25c056aa18644f1a3ec5cdffe909b461", 
       "name": "bjl_game_chip_2_0.png", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "024db1b7a2e0eb46a3570fdd4c207c7e", 
+      "md5": "cadd1a58f91c6d750bded6f9eef93d0e", 
       "name": "bjl_game_chip_3_0.png", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "69aeadf14dee4fccb43d266db9077f4a", 
+      "md5": "feb5a30a006c5a488a6e538a83194c2f", 
       "name": "bjl_game_chip_4_0.png", 
-      "path": "baccaratnew/res/game/"
-    }, 
-    {
-      "md5": "0b647fcfb5ac2806bb80336c307cd9d0", 
-      "name": "bjl_game_chip_5_0.png", 
       "path": "baccaratnew/res/game/"
     }, 
     {
@@ -121,47 +41,22 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "5fd1a87857dde7e9ae317cdc11729cc9", 
-      "name": "card.png", 
-      "path": "baccaratnew/res/game/"
-    }, 
-    {
-      "md5": "5ded51256efe7ef15b44bd0aab0b3850", 
-      "name": "GameCardLayer.csb", 
-      "path": "baccaratnew/res/game/"
-    }, 
-    {
-      "md5": "55635fd2a479501ca691b6fec9057779", 
+      "md5": "663ff4a5c939f8a02ec67515efc815f8", 
       "name": "GameLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "676f653a8a559c36e555ed2121599a34", 
+      "md5": "84f740bbe4237beb1d92896da656cbc7", 
       "name": "GameResultLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "a82bd9923ebba45934d72a1eff37eb77", 
+      "md5": "251ef0f3025201aa0ee68371c86dbf91", 
       "name": "JettonNode.csb", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "4e6a96ca2e65b8dca404bede41759abe", 
-      "name": "ludan.plist", 
-      "path": "baccaratnew/res/game/"
-    }, 
-    {
-      "md5": "e95a44b26215a7c2b296efa9904f7b3a", 
-      "name": "ludan.png", 
-      "path": "baccaratnew/res/game/"
-    }, 
-    {
-      "md5": "2c4dcd6d21b6e914d2c433e8fecce33b", 
-      "name": "new_res_new_res_tag_box_chip.png", 
-      "path": "baccaratnew/res/game/"
-    }, 
-    {
-      "md5": "1da6c75d41cf5d942860dbf4fe8b9854", 
+      "md5": "0faf1331587197a14e4584ca4897065f", 
       "name": "player.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -171,69 +66,139 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "1115a1db4ec13fc9829696d4a7da1d29", 
+      "md5": "fefd60d99564859e1324b888f77bc3ba", 
       "name": "UserItem.csb", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "a527b986a92df0cbead82d5b496eaa12", 
+      "md5": "566c8c8a55dbb02aed160c7ef5b96999", 
       "name": "UserListLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "b30018f55bf42502b844fd37f63bb7fb", 
-      "name": "WallBill.csb", 
-      "path": "baccaratnew/res/game/"
-    }, 
-    {
-      "md5": "dc6503b492cd10292cc0e608cc623aac", 
+      "md5": "9fb26a210608d6529cb1ac10c44ce601", 
       "name": "WallBill_0.csb", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "d6b40f83c9ee86ec737d789f4f45dec9", 
-      "name": "bg02.jpg", 
-      "path": "baccaratnew/res/new_res/"
+      "md5": "eb09406b1383c6511b9c7caa2f686697", 
+      "name": "100_h.png", 
+      "path": "baccaratnew/res/new_bjl/"
     }, 
     {
-      "md5": "b24d5dbcf52a0edab0bf95c0a87330a8", 
-      "name": "bg_chart.png", 
-      "path": "baccaratnew/res/new_res/"
+      "md5": "b7f5688fb9c2f3f32e533465a0581d5b", 
+      "name": "10_h.png", 
+      "path": "baccaratnew/res/new_bjl/"
     }, 
     {
-      "md5": "845f31cf0c8af147de60acabf134ac09", 
-      "name": "blank.png", 
-      "path": "baccaratnew/res/new_res/"
+      "md5": "cfa8fc2404d1e438c54a4915e4a178b6", 
+      "name": "1_h.png", 
+      "path": "baccaratnew/res/new_bjl/"
     }, 
     {
-      "md5": "15691275ae408d7b44942b7a2b92752f", 
-      "name": "new_res_icon_money.png", 
-      "path": "baccaratnew/res/new_res/"
+      "md5": "858aa32c0a25ed72df81602070a54489", 
+      "name": "500_h.png", 
+      "path": "baccaratnew/res/new_bjl/"
     }, 
     {
-      "md5": "59c7973483807e3e3da4f7dbfabe066d", 
-      "name": "num_banker.png", 
-      "path": "baccaratnew/res/new_res/"
+      "md5": "9a179ace651f4ffcf97d2660c3fc2d9c", 
+      "name": "50_h.png", 
+      "path": "baccaratnew/res/new_bjl/"
     }, 
     {
-      "md5": "591e8cc3af9d35416a116c2ee17e0d83", 
-      "name": "num_player.png", 
-      "path": "baccaratnew/res/new_res/"
+      "md5": "f9b071c5cc89c7b47bc46edf20d66e16", 
+      "name": "bair.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "b5bdaece6b731562119f41b8003b59c1", 
+      "name": "bg.jpg", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "69a622eba9fe8f3538babd9c67941ccd", 
+      "name": "dfjs.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "d721702a7223f5bcbfeb35924e005770", 
+      "name": "fnt1.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "acd7a0d46a2aa672d1a67fe29329bf4f", 
+      "name": "fnt2.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "fa7e6b174ea6f4798c7f72cd56d1cff0", 
+      "name": "fnt3.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "46d59c4b75b0ad46cf71466714d08a19", 
+      "name": "fnt4.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "d0a887264572cf6208a0511399f704fb", 
+      "name": "fnt5.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "b49faf56a9e8d8c7d6fd1c62f4134e97", 
+      "name": "ksxz.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "ee555563a4074bcc640134fb56fc83c1", 
+      "name": "ludan.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "2cad3456e8759235352efb604aeaecff", 
+      "name": "ludan_zz.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "1db2332fd566ab188fe86526aa5c0933", 
+      "name": "new_bjl.plist", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "2ce9243e76b48b92e3898a8308719a85", 
+      "name": "new_bjl.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "d3d895829f752fd0215f97cd75a1c5b1", 
+      "name": "playerbg.png", 
+      "path": "baccaratnew/res/new_bjl/"
     }, 
     {
       "md5": "77dc1a933b41b5f57fd6b42fc17b9f82", 
       "name": "room_chipbg.png", 
-      "path": "baccaratnew/res/new_res/"
+      "path": "baccaratnew/res/new_bjl/"
     }, 
     {
-      "md5": "8a0d6a26600d61d7dfbfe7ca0d52ffae", 
-      "name": "tag_bg_01.png", 
-      "path": "baccaratnew/res/new_res/"
+      "md5": "7d449478da619a5b9891b117c1416946", 
+      "name": "sitrole_font_score_add.png", 
+      "path": "baccaratnew/res/new_bjl/"
     }, 
     {
-      "md5": "e72d2d1123584d7e2f53f115eded8069", 
-      "name": "tag_my_profile.png", 
-      "path": "baccaratnew/res/new_res/"
+      "md5": "e499ed30a1217001c2b91aeacca42e12", 
+      "name": "sitrole_font_score_min.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "b9a7f477937a5b919420d0afd51c3d4c", 
+      "name": "tishi_bg.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "3dc06810c99b7200840796095567ba73", 
+      "name": "tzxz.png", 
+      "path": "baccaratnew/res/new_bjl/"
     }, 
     {
       "md5": "d947af6000a544ae581f20be9e7fd2d2", 
@@ -251,7 +216,7 @@
       "path": "baccaratnew/res/roomlist/"
     }, 
     {
-      "md5": "878448c01d1d5875eb8896cfeb271da9", 
+      "md5": "e53ec3e8ffe24dfdce487375c1f97dd7", 
       "name": "roomlist_title.png", 
       "path": "baccaratnew/res/roomlist/"
     }, 
@@ -441,7 +406,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "090bde0ba08fe855d7aa9bed887dd4d6", 
+      "md5": "5cdb69eb18edda6df54b32025c9d33d9", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -451,7 +416,7 @@
       "path": "baccaratnew/src/views/"
     }, 
     {
-      "md5": "d366613408d6a0ec458a6bddc42dc881", 
+      "md5": "706ed547eec2fb85ade78fba7075afa6", 
       "name": "GameCardLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -461,22 +426,22 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "284f8f222de16b6eda4fc498240e59dd", 
+      "md5": "e46d2ff39f2e564ff3c9317c3134550d", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "afc039b9c59baf37af2bf34b40872c54", 
+      "md5": "b0d4c50bd8065acb51c49c1ecb29ebd7", 
       "name": "WallBillLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "0e5009d6afbea51697c25c642cb6d539", 
+      "md5": "3d2dc8016781051953d73082ddd7448c", 
       "name": "CardsNode.luac", 
       "path": "baccaratnew/src/views/layer/gamecard/"
     }, 
     {
-      "md5": "a019df2c3a886b7df992cf6cf094e4c0", 
+      "md5": "cee4fb6c18bc605b843372ee7f6166ea", 
       "name": "CardSprite.luac", 
       "path": "baccaratnew/src/views/layer/gamecard/"
     }, 
@@ -486,17 +451,17 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "md5": "166922c8d040585fe67e43f568b9b0b1", 
+      "md5": "3095314df8ef937122d7b970e6c50c65", 
       "name": "UserItem.luac", 
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "md5": "4a1cadff6fe7fa4b4be7687d7fb4fbfb", 
+      "md5": "e4a3c23bc1065b37b8e64bdd15ad874f", 
       "name": "UserListLayer.luac", 
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 99
+      "allcount": 92
     }
   ]
 }
