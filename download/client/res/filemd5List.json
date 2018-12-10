@@ -696,12 +696,12 @@
       "path": "client/res/login/"
     }, 
     {
-      "md5": "f805afb6d3f971c7869ccc326ea45434", 
+      "md5": "4e0844edec63b43e95efb3c415b0fa57", 
       "name": "LoginView.csb", 
       "path": "client/res/login/"
     }, 
     {
-      "md5": "2ca83b31129b370c7411c53bc454ca4d", 
+      "md5": "f0efc336a48b8b2227085e1be6c8151b", 
       "name": "logo.png", 
       "path": "client/res/login/"
     }, 
@@ -851,7 +851,7 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "3a6f6c1481413130edc83dd4ca8ba9e8", 
+      "md5": "47f3ecd2890f95b58af9b8ac03d7ebe0", 
       "name": "plazz.png", 
       "path": "client/res/plazz/"
     }, 
@@ -871,12 +871,12 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "9d8ef21be91ed9a9bef1c915b345e734", 
+      "md5": "8c3847972e68c652694df266b7e6643b", 
       "name": "avatars.plist", 
       "path": "client/res/public/"
     }, 
     {
-      "md5": "d9f379608e26f8effb0898ffc1f092bd", 
+      "md5": "2a14ca0c3918e466f427617c207db895", 
       "name": "avatars.png", 
       "path": "client/res/public/"
     }, 
@@ -1611,7 +1611,7 @@
       "path": "client/res/sound/"
     }, 
     {
-      "md5": "aadb37e9ff523b1daeff46f76719788a", 
+      "md5": "572c26cdfeb0b3c14238adeb1691afcf", 
       "name": "dz_hall_background_music.mp3", 
       "path": "client/res/sound/"
     }, 
@@ -1856,12 +1856,12 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "fdbf53464cac47d85dde59c07a076346", 
+      "md5": "c9e85b626104c9d696ca89ecc8b30c36", 
       "name": "ExternalFun.luac", 
       "path": "client/src/external/"
     }, 
     {
-      "md5": "1446b73170f2386a9dcb68524f7472e5", 
+      "md5": "5cb2569091cadc8923a37ce4054a034f", 
       "name": "HeadSprite.luac", 
       "path": "client/src/external/"
     }, 
@@ -1936,7 +1936,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "02118698f067631490e455bac798c967", 
+      "md5": "87cdede3e940fbc25db37d116225cbc1", 
       "name": "GameFrameEngine.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -1946,7 +1946,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "ce19cad1180566ec93fcf30c28302892", 
+      "md5": "cd965e20461f7fa6337598d8d481b7ed", 
       "name": "GlobalUserItem.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2146,7 +2146,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "ee1deb7176c561543e649bc549133e33", 
+      "md5": "4163a000a583e6cd84492742153a2eae", 
       "name": "ChangeAvatarLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
