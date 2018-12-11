@@ -51,6 +51,26 @@
       "path": "land/res/animation/"
     }, 
     {
+      "md5": "43dc29b31574872175e0ce50bce46012", 
+      "name": "fnt1.png", 
+      "path": "land/res/cardRecord/"
+    }, 
+    {
+      "md5": "655b3b3cbd12ba5e8187210a0f296a4a", 
+      "name": "fnt2.png", 
+      "path": "land/res/cardRecord/"
+    }, 
+    {
+      "md5": "43fa1f2909599cb6ceb44b47975ca07b", 
+      "name": "jpq.png", 
+      "path": "land/res/cardRecord/"
+    }, 
+    {
+      "md5": "b6f187945ab7303c3dc5dfce8c2fc025", 
+      "name": "pz.png", 
+      "path": "land/res/cardRecord/"
+    }, 
+    {
       "md5": "e67cd582ee5fdac7cbeffb2d9a70e0db", 
       "name": "ddz_clock_number.fnt", 
       "path": "land/res/font/"
@@ -206,6 +226,16 @@
       "path": "land/res/game/"
     }, 
     {
+      "md5": "c76912da2e710110455f34b7a0bc59fe", 
+      "name": "btn_rechoose.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "853832f339ea7c527caf3a22e6076121", 
+      "name": "btn_rechoose_invalid.png", 
+      "path": "land/res/game/"
+    }, 
+    {
       "md5": "7b2db14da1f829dd29b027afbb8b5f0f", 
       "name": "btn_star_unactive.png", 
       "path": "land/res/game/"
@@ -298,6 +328,11 @@
     {
       "md5": "5cf90bca5c92b0ba1437c4bafe893be8", 
       "name": "btn_word_tishi_normal.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "c97f6a8e0f38ff571a6e8dd442c56546", 
+      "name": "CardRecordLayer.csb", 
       "path": "land/res/game/"
     }, 
     {
@@ -481,7 +516,7 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "edd13aa5970e81cea436d8ac9260dd6e", 
+      "md5": "4c40a7cc01d0662b1ee1678c5dca7bd5", 
       "name": "GameLayer.csb", 
       "path": "land/res/game/"
     }, 
@@ -588,6 +623,31 @@
     {
       "md5": "b00a1ed6977ae40b6f93ec0e9bbbecf8", 
       "name": "subnum.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "0e3737bdc9bce2f09fb0544050f2cb9a", 
+      "name": "table_bomb_cnt_1.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "cf6fa99b9bbfde668ed605c68238322e", 
+      "name": "table_bomb_cnt_2.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "0585653e925f8323e43f7f3871789b31", 
+      "name": "table_bomb_cnt_3.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "2396242d5f95286685fc0857c611524f", 
+      "name": "table_bomb_cnt_4.png", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "453c8b88b23a4605afc66b31984311ec", 
+      "name": "table_bomb_cnt_5.png", 
       "path": "land/res/game/"
     }, 
     {
@@ -1311,17 +1371,17 @@
       "path": "land/src/models/"
     }, 
     {
-      "md5": "b0f216b5f3862ec53073eec490f22a5f", 
+      "md5": "2f6ae600dcc3ec9f516b4bc4a9535fe8", 
       "name": "Define.luac", 
       "path": "land/src/models/"
     }, 
     {
-      "md5": "f159120bbe0c2abf96879eeb238c54ec", 
+      "md5": "fdcfb67d74de2d6060d5868dde6fa037", 
       "name": "GameLogic.luac", 
       "path": "land/src/models/"
     }, 
     {
-      "md5": "3883d52e30494120650178320475945a", 
+      "md5": "c579791265c6fcf06f103e68d52387be", 
       "name": "GameLayer.luac", 
       "path": "land/src/views/"
     }, 
@@ -1336,27 +1396,32 @@
       "path": "land/src/views/"
     }, 
     {
+      "md5": "98778884073157e5ec2f349cda4c2651", 
+      "name": "CardRecordLayer.luac", 
+      "path": "land/src/views/layer/"
+    }, 
+    {
       "md5": "3eb38069c5fcf1e28c77420d8bf70692", 
       "name": "GameEffectLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "ba6cc947555ed1d2817267a55454fe8b", 
+      "md5": "2f1989090c1b5e82b3f52e71f0f53173", 
       "name": "GameResultLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "06aec24fa5cd76f48d3f46e7ce7a2bdf", 
+      "md5": "e1ac7bdcec1c2428c744cd3b53343ed8", 
       "name": "GameRoleItem.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "9ac7dd92fe41bc406870cd2329834c91", 
+      "md5": "41c5064771d16a612d0bd40053646910", 
       "name": "GameViewLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "0223e586c80ac9a48926656f02f26820", 
+      "md5": "dd6605797bc08fcb841f59d15d9f9712", 
       "name": "CardsNode.luac", 
       "path": "land/src/views/layer/gamecard/"
     }, 
@@ -1366,7 +1431,7 @@
       "path": "land/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 273
+      "allcount": 286
     }
   ]
 }

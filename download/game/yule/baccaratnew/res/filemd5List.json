@@ -386,6 +386,46 @@
       "path": "baccaratnew/res/sound_res/"
     }, 
     {
+      "md5": "727b1da1d15482d85aa8271d8f953fe7", 
+      "name": "bt.png", 
+      "path": "baccaratnew/res/userlist/"
+    }, 
+    {
+      "md5": "bcb065dfefe2732b61ee28351a0b89df", 
+      "name": "txk.png", 
+      "path": "baccaratnew/res/userlist/"
+    }, 
+    {
+      "md5": "54bebf30e976d657f2b862807004a6d6", 
+      "name": "UserCellNode.csb", 
+      "path": "baccaratnew/res/userlist/"
+    }, 
+    {
+      "md5": "fdf1fa10a49f9858362eda59f46f719a", 
+      "name": "UserItemNode.csb", 
+      "path": "baccaratnew/res/userlist/"
+    }, 
+    {
+      "md5": "67be6db402f9b766ab4661f1d2454813", 
+      "name": "userlist_avatar_frame.png", 
+      "path": "baccaratnew/res/userlist/"
+    }, 
+    {
+      "md5": "d3d895829f752fd0215f97cd75a1c5b1", 
+      "name": "userlist_bg.png", 
+      "path": "baccaratnew/res/userlist/"
+    }, 
+    {
+      "md5": "f3bdee4464bfa2f331c6b1f5db03865f", 
+      "name": "userlist_coin.png", 
+      "path": "baccaratnew/res/userlist/"
+    }, 
+    {
+      "md5": "bfddbb66455e08d5405f75b2d6d4bfe2", 
+      "name": "UserListNode.csb", 
+      "path": "baccaratnew/res/userlist/"
+    }, 
+    {
       "md5": "b18cd32a57da2eaebaff111ffd6c65a6", 
       "name": "bjlGameDefine.luac", 
       "path": "baccaratnew/src/models/"
@@ -426,7 +466,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "0cb158a104803b87786476ab41f333de", 
+      "md5": "49d80f97aace68f62811ed4c29da5cfe", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -451,17 +491,17 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "md5": "3095314df8ef937122d7b970e6c50c65", 
+      "md5": "6d7030ae46830ec0eca0fa1d73c9aa30", 
       "name": "UserItem.luac", 
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "md5": "c01d5aa6bdd6e651c24b5dc98f6862a8", 
+      "md5": "15d21d7f10074b552510705dcb15a0f0", 
       "name": "UserListLayer.luac", 
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 92
+      "allcount": 100
     }
   ]
 }

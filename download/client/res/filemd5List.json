@@ -116,7 +116,7 @@
       "path": "client/res/binding/"
     }, 
     {
-      "md5": "9cef01aedf113147d8265b8e1ad8fb2c", 
+      "md5": "d27d50fa41ed913f854a88e9648b069f", 
       "name": "BindingGiftNode.csb", 
       "path": "client/res/binding/"
     }, 
@@ -846,17 +846,17 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "ca6a7a95c2ff24fa4de8d3c429e36ec9", 
+      "md5": "ab63b9a20a1c19aa957b0d897c1a4521", 
       "name": "plazz.plist", 
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "47f3ecd2890f95b58af9b8ac03d7ebe0", 
+      "md5": "6269363641739767b06bb7ea8e81cc92", 
       "name": "plazz.png", 
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "af6eb99b736c4bbefec5726653956378", 
+      "md5": "6fd123c26fd993581e4bac688321b5b7", 
       "name": "PlazzLayer.csb", 
       "path": "client/res/plazz/"
     }, 
@@ -1246,7 +1246,7 @@
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "c6f5429ccbf8c91778841927fd71a0c5", 
+      "md5": "60e2fd013468d35d787ef237abca00fd", 
       "name": "Recharge.csb", 
       "path": "client/res/recharge/"
     }, 
@@ -1981,7 +1981,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "7b7b27447f2e994303b64c61445887c0", 
+      "md5": "fd01c2e4df3b37b912b16b13c241284c", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2251,7 +2251,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "5b9ade790cd8f6c5fa216a149a0882ae", 
+      "md5": "cb0f40a58be8208ffb18c80627e2c55b", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
