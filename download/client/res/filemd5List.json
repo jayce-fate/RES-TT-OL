@@ -681,6 +681,11 @@
       "path": "client/res/login/"
     }, 
     {
+      "md5": "29cde62fad7098b2fb6e132f1908d5cc", 
+      "name": "login_textfield_bg.png", 
+      "path": "client/res/login/"
+    }, 
+    {
       "md5": "6f76876038bf36ebf818033e06586841", 
       "name": "login_title.png", 
       "path": "client/res/login/"
@@ -1981,7 +1986,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "fd01c2e4df3b37b912b16b13c241284c", 
+      "md5": "c978a881794ddb708d2729a57900d392", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2001,7 +2006,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "aab6bc5649fb2c58a1047ee729932703", 
+      "md5": "5d49ba54daa08d1fccb92e4b36c2a169", 
       "name": "UpdateScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -2461,7 +2466,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 492
+      "allcount": 493
     }
   ]
 }

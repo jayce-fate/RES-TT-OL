@@ -1,68 +1,8 @@
 {
   "listdata": [
     {
-      "md5": "72e8647a2fb0c2a819d2851ddd3d67ca", 
-      "name": "beginAnimation.csb", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "20681c1d43e626d9849dbd8bcf5327e2", 
-      "name": "card.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "2af8ceee26b4e55d7c0750d8c3233608", 
-      "name": "gameScene_oxnew.plist", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "5d7a5ec3e191d558ed10e767be20de88", 
-      "name": "gameScene_oxnew.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "3d85ced5cb7a061d02d403280ccd522d", 
+      "md5": "497d1387810d1d47f7280567bf93199b", 
       "name": "lose.csb", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "647c39d09430bf34fe02a6d6c6d58098", 
-      "name": "num_add.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "64e82817f5ece69e0c02c92eb7b46185", 
-      "name": "num_chipScore.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "34ba8fb4a5b25007ddb4c03b2d20d3e2", 
-      "name": "num_endScore.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "ee6ed557fab5d1f93ac05756741e0b29", 
-      "name": "num_reduce.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "7eb7f2226a5eb693f1acf5d616b05b8e", 
-      "name": "num_score.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "c3f36496f310edc88d21f06733c6a7b5", 
-      "name": "num_time.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "8dafca9910f2fa96c60920865c0a06f9", 
-      "name": "poker.plist", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "519c64f2850ff6a0ecdb0c4d038075ce", 
-      "name": "poker.png", 
       "path": "oxnew/res/"
     }, 
     {
@@ -76,94 +16,19 @@
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "867f2822b9771890c4b4bafacf2dcfcb", 
-      "name": "tag_count_down.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "9e12397eb4a4da7d72651a56e95fd0a8", 
-      "name": "tag_count_down_bg.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "6baff98cdba636144b4eb99b88edbb0a", 
+      "md5": "4e090840b963f248e523f8c534106101", 
       "name": "win.csb", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "ebfc3c22041758bbd892534e56036d5d", 
+      "md5": "084748db3612a7cef7751ab2f927e699", 
       "name": "animation1.plist", 
       "path": "oxnew/res/animation/"
     }, 
     {
-      "md5": "2c6654afef6d185c88bcf5214bd9cb72", 
+      "md5": "6dff0b67a1470ee629035bb3bc708645", 
       "name": "animation1.png", 
       "path": "oxnew/res/animation/"
-    }, 
-    {
-      "md5": "3d2674f4ceb214271a6fbf17111ef58f", 
-      "name": "animation2.plist", 
-      "path": "oxnew/res/animation/"
-    }, 
-    {
-      "md5": "99d8d72ce280876ac92b96bd25e90e33", 
-      "name": "animation2.png", 
-      "path": "oxnew/res/animation/"
-    }, 
-    {
-      "md5": "fc79065736b5efcc77f3d288d7dc01ab", 
-      "name": "banker_1.png", 
-      "path": "oxnew/res/animation_banker/"
-    }, 
-    {
-      "md5": "32311c162a75304750e35ba81e75e16d", 
-      "name": "banker_10.png", 
-      "path": "oxnew/res/animation_banker/"
-    }, 
-    {
-      "md5": "6cd2b013c77eafc3917171576b8225fe", 
-      "name": "banker_11.png", 
-      "path": "oxnew/res/animation_banker/"
-    }, 
-    {
-      "md5": "8d0590ac8842c3e536af5fae76741cc2", 
-      "name": "banker_2.png", 
-      "path": "oxnew/res/animation_banker/"
-    }, 
-    {
-      "md5": "6cd2b013c77eafc3917171576b8225fe", 
-      "name": "banker_3.png", 
-      "path": "oxnew/res/animation_banker/"
-    }, 
-    {
-      "md5": "4e6635bc485eeb58a9945aaf18c54e9b", 
-      "name": "banker_4.png", 
-      "path": "oxnew/res/animation_banker/"
-    }, 
-    {
-      "md5": "d44c8fb45c6b16eb77244c171498c4fe", 
-      "name": "banker_5.png", 
-      "path": "oxnew/res/animation_banker/"
-    }, 
-    {
-      "md5": "a8f6b7d3d154b94f43240f316afb53d0", 
-      "name": "banker_6.png", 
-      "path": "oxnew/res/animation_banker/"
-    }, 
-    {
-      "md5": "b698ba694a339cea34ec221f8cb172ee", 
-      "name": "banker_7.png", 
-      "path": "oxnew/res/animation_banker/"
-    }, 
-    {
-      "md5": "3dc71bf9adf2075a77cad71a30923df6", 
-      "name": "banker_8.png", 
-      "path": "oxnew/res/animation_banker/"
-    }, 
-    {
-      "md5": "8ae8069773253cdf1729a26662160e91", 
-      "name": "banker_9.png", 
-      "path": "oxnew/res/animation_banker/"
     }, 
     {
       "md5": "aea975bb95937ea604235dae575e8bb4", 
@@ -191,16 +56,6 @@
       "path": "oxnew/res/animation_blue/"
     }, 
     {
-      "md5": "4945dd5d8528745944daac8c41ff89b7", 
-      "name": "faceFlash_1.png", 
-      "path": "oxnew/res/animation_faceFlash/"
-    }, 
-    {
-      "md5": "96bf31c77b0470de821a04506e10b457", 
-      "name": "faceFlash_2.png", 
-      "path": "oxnew/res/animation_faceFlash/"
-    }, 
-    {
       "md5": "cf419785f22d540388308534ebae163d", 
       "name": "yellow_1.png", 
       "path": "oxnew/res/animation_yellow/"
@@ -226,43 +81,38 @@
       "path": "oxnew/res/animation_yellow/"
     }, 
     {
-      "md5": "4efaf38f27e9f36773fce262a35a1afe", 
-      "name": "douniu_banker_times.fnt", 
-      "path": "oxnew/res/fonts/"
-    }, 
-    {
-      "md5": "20c326779c65dc559e80079b0c08eabe", 
-      "name": "douniu_banker_times_0.png", 
-      "path": "oxnew/res/fonts/"
-    }, 
-    {
-      "md5": "a1594c7ecec09d75ab14e636ff390071", 
-      "name": "douniu_select_times.fnt", 
-      "path": "oxnew/res/fonts/"
-    }, 
-    {
-      "md5": "286714419daef335a955fcb94427ae15", 
-      "name": "douniu_select_times.png", 
-      "path": "oxnew/res/fonts/"
-    }, 
-    {
-      "md5": "2ef92eeeeb3b874ab566b56c6eb67212", 
-      "name": "douniu_select_times1.fnt", 
-      "path": "oxnew/res/fonts/"
-    }, 
-    {
-      "md5": "f316178d7f22e4fc3546cd4f659b3e2e", 
-      "name": "douniu_select_times1.png", 
-      "path": "oxnew/res/fonts/"
-    }, 
-    {
-      "md5": "b7dbcfd6bf1cf6b47e19392c9879afaf", 
+      "md5": "08bb3f5557dcd80042532f1bf5b08572", 
       "name": "background.jpg", 
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "50811ccccc94b4efc6ec333b965eb8a4", 
+      "md5": "55fb2c5760e255a0aab9ecb1f0c33a2d", 
+      "name": "fnt1.png", 
+      "path": "oxnew/res/game/"
+    }, 
+    {
+      "md5": "2692b57d17c3a906eaa4990ae1a050d3", 
+      "name": "fnt2.png", 
+      "path": "oxnew/res/game/"
+    }, 
+    {
+      "md5": "dd1ce8fa97a416beb09e019c38ac1e61", 
       "name": "GameScene.csb", 
+      "path": "oxnew/res/game/"
+    }, 
+    {
+      "md5": "1c1e458186a51f496e39be90462ad86c", 
+      "name": "gameScene_oxnew.plist", 
+      "path": "oxnew/res/game/"
+    }, 
+    {
+      "md5": "256d41bd6185b8463c11af939dd68bc2", 
+      "name": "gameScene_oxnew.png", 
+      "path": "oxnew/res/game/"
+    }, 
+    {
+      "md5": "f9f85e335a3f7c7454a5438197bf409b", 
+      "name": "ksyx.png", 
       "path": "oxnew/res/game/"
     }, 
     {
@@ -271,8 +121,33 @@
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "0cfc976b24a0ac097e9251b7955169b2", 
+      "md5": "4caf5c593bc8a815bd90c07b5e232d4e", 
       "name": "playerNode1.csb", 
+      "path": "oxnew/res/game/"
+    }, 
+    {
+      "md5": "0b2c1c5c99a70e3c9db3af66ac7f71bb", 
+      "name": "playerNode2.csb", 
+      "path": "oxnew/res/game/"
+    }, 
+    {
+      "md5": "9e5f4b19bf44905bebab03548892566b", 
+      "name": "playerNode3.csb", 
+      "path": "oxnew/res/game/"
+    }, 
+    {
+      "md5": "7d449478da619a5b9891b117c1416946", 
+      "name": "sitrole_font_score_add.png", 
+      "path": "oxnew/res/game/"
+    }, 
+    {
+      "md5": "e499ed30a1217001c2b91aeacca42e12", 
+      "name": "sitrole_font_score_min.png", 
+      "path": "oxnew/res/game/"
+    }, 
+    {
+      "md5": "b9a7f477937a5b919420d0afd51c3d4c", 
+      "name": "tishi_bg.png", 
       "path": "oxnew/res/game/"
     }, 
     {
@@ -526,17 +401,17 @@
       "path": "oxnew/src/views/"
     }, 
     {
-      "md5": "73575e8e8c44aae9cd8920ee12249178", 
+      "md5": "dc427012cd361dd0d999a27e94f10445", 
       "name": "CardSprite.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "a7cf9b20d52c4d7aeef2cb2b31f9b571", 
+      "md5": "e6f5573217e07f858531f87006914459", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "allcount": 107
+      "allcount": 82
     }
   ]
 }
