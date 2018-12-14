@@ -226,12 +226,12 @@
       "path": "client/res/common/"
     }, 
     {
-      "md5": "34be076436d6cfd38d935b1ff3475bba", 
+      "md5": "f79d67239046ad28c2948fe44692a66f", 
       "name": "poker.plist", 
       "path": "client/res/common/"
     }, 
     {
-      "md5": "0f268a6c251e24fa56df896d6e3bd0a8", 
+      "md5": "41ea1113d74360257012a7caa162b85e", 
       "name": "poker.png", 
       "path": "client/res/common/"
     }, 
@@ -358,6 +358,11 @@
     {
       "md5": "40cad0402f413247457c37e6ee0c1bda", 
       "name": "gamelist_update_icon.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "9fa8389ef062fff46b86a61aef3ddc73", 
+      "name": "hall_download_wait.png", 
       "path": "client/res/GameList/"
     }, 
     {
@@ -851,6 +856,11 @@
       "path": "client/res/plazz/"
     }, 
     {
+      "md5": "80a9d463497ae7f7802df3c4ffd56517", 
+      "name": "lobby_trumpet_bg.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
       "md5": "ab63b9a20a1c19aa957b0d897c1a4521", 
       "name": "plazz.plist", 
       "path": "client/res/plazz/"
@@ -861,7 +871,7 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "6fd123c26fd993581e4bac688321b5b7", 
+      "md5": "e0aa25919e50f80acdcd6e3106d39324", 
       "name": "PlazzLayer.csb", 
       "path": "client/res/plazz/"
     }, 
@@ -873,6 +883,11 @@
     {
       "md5": "4ecc30367e5c460d918ee8f9db7d66e6", 
       "name": "SpreadNode.csb", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "5402bcf5789910d4ea1be5597a668c8d", 
+      "name": "sx.png", 
       "path": "client/res/plazz/"
     }, 
     {
@@ -1991,7 +2006,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "781cfd46a1089bbec13539cea7826d87", 
+      "md5": "b5cffe0d2f741de7da304bb4b21e1a88", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -2206,7 +2221,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "a48134e9ab38b91e7e9b74e5c45df845", 
+      "md5": "2d89e6a1a5210fcb2a7ea987191d06d9", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2326,7 +2341,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "c0cebabe83f67fe1fe0bc4e5581a5e78", 
+      "md5": "7a8f97e20e6c1e25fbd8f56b5eb00ec2", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2466,7 +2481,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 493
+      "allcount": 496
     }
   ]
 }

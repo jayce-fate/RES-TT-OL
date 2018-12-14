@@ -1,169 +1,49 @@
 {
   "listdata": [
     {
-      "md5": "9be27afb80b57ac4dce47866b49c48f8", 
-      "name": "ButtonLayer.csb", 
+      "md5": "4769bcddb0d481fd2c48ac837694011b", 
+      "name": "allimg.plist", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "c88be7c1236d62a626b48ee5de4e3ef0", 
+      "md5": "e2c2e3815967f5223dc6fb8f1458744e", 
+      "name": "allimg.png", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "56b32f5d338112499e6dec80d63d9136", 
       "name": "compareLayer.csb", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "261c849ff0fd326838a32355cc078a31", 
-      "name": "deskSource.plist", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "08f8b8c505285f51941bb4562afe1dab", 
-      "name": "deskSource.png", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "c40ea24de9a0d252572f4034c95a66f5", 
+      "md5": "3efb82605021a787b05ef8f4c007a565", 
       "name": "EndLayer.csb", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "de5c787ec89797b5eaaac799b4cfad41", 
-      "name": "game_zjh_res.plist", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "4752ec27954739fa671b77de7ba8426f", 
-      "name": "game_zjh_res.png", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "241ea8eaea87df3ee103dc734f3a68d2", 
+      "md5": "c49070622d772a56d5bd2c0096d41dc9", 
       "name": "MainScene.csb", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "06e160a84090b5470ae20ffe76a617c9", 
-      "name": "poker.plist", 
-      "path": "zhajinhua/res/"
+      "md5": "7d0e27118e9a7076971915efcf11993e", 
+      "name": "fnt_zhajinhua_bet.png", 
+      "path": "zhajinhua/res/fonts/"
     }, 
     {
-      "md5": "22a22a23e1832c31a951554829b42889", 
-      "name": "poker.png", 
-      "path": "zhajinhua/res/"
+      "md5": "b3667e9f9cbf80f4f2383bd3aea1a189", 
+      "name": "round_body.ttf", 
+      "path": "zhajinhua/res/fonts/"
     }, 
     {
-      "md5": "16617af1194354c5e36f19680a3c0ad8", 
-      "name": "tag_profile_shining_green.png", 
-      "path": "zhajinhua/res/"
+      "md5": "4ed51bab0b0279013e21c9e547f1305c", 
+      "name": "zhajinhua_bg.jpg", 
+      "path": "zhajinhua/res/img/"
     }, 
     {
-      "md5": "67a90a8307418adbf54b3828cebedd7b", 
-      "name": "tag_profile_shining_red.png", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "c28ab75a2b68859e5e2b1ee66e6f6431", 
-      "name": "tag_profile_shining_yellow.png", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "5f75e0428e44f239800d773bf6a242b3", 
-      "name": "xipai_spine.atlas", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "8560ed377c01c0d173a297c7aa93428c", 
-      "name": "xipai_spine.json", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "b841e13e8cd0be470dd300b000e90504", 
-      "name": "xipai_spine.png", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "32f6774ea61a70f9614aec21a1d94974", 
-      "name": "newt3animation.plist", 
-      "path": "zhajinhua/res/compare/"
-    }, 
-    {
-      "md5": "eb3dc29e8ee505dee736cf5c3b2231e3", 
-      "name": "newt3animation.png", 
-      "path": "zhajinhua/res/compare/"
-    }, 
-    {
-      "md5": "7754d1441b4d661218636a67c46d398a", 
-      "name": "Button_Disable.png", 
-      "path": "zhajinhua/res/Default/"
-    }, 
-    {
-      "md5": "ca609bab34f9b3011570392bce1679a7", 
-      "name": "bg_lobby.jpg", 
-      "path": "zhajinhua/res/desk/"
-    }, 
-    {
-      "md5": "60e5bc7fa5cfe6e9722f75d36b41e46e", 
-      "name": "chip_small_500.png", 
-      "path": "zhajinhua/res/desk/"
-    }, 
-    {
-      "md5": "61fd7c22449c0fb418d95b07fae4995c", 
-      "name": "tag_premium_game.png", 
-      "path": "zhajinhua/res/desk/"
-    }, 
-    {
-      "md5": "c7c6fc545b5d5c546495e7a043435186", 
-      "name": "tag_premium_game_bg.png", 
-      "path": "zhajinhua/res/desk/"
-    }, 
-    {
-      "md5": "5f08e354f45283ca32c6c842e3b580d5", 
-      "name": "btn_change_table.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "8b3e5763139ff2f78bfdcb832028d61b", 
-      "name": "btn_continue.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "78f074401c43df7269de8281bb8a0db9", 
-      "name": "btn_leave.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "f85da634fa48a866d4a045ce93070b46", 
-      "name": "effectpicture.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "08471e118474fb5ae15ec51ec2c6d111", 
-      "name": "resulteffect.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "07351ec292496b8188c841e7a386e905", 
-      "name": "tag_bg.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "10635d65f8e3f625ce33b5a6a231bacd", 
-      "name": "tag_fail.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "dc0bc6fe2886378c41c4c840bcc267ec", 
-      "name": "tag_poker.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "fbe538df14b58851e812e213ffd151fc", 
-      "name": "tag_profile.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "8716aca06b1ebfdac1eab4c0d6858092", 
-      "name": "tag_win.png", 
-      "path": "zhajinhua/res/end/"
+      "md5": "9ae5236434f39d0b0ea921e6dd222358", 
+      "name": "zhajinhua_di.png", 
+      "path": "zhajinhua/res/img/"
     }, 
     {
       "md5": "3f8626c2f4ba17da43d2bf1d6de17163", 
@@ -446,7 +326,7 @@
       "path": "zhajinhua/src/models/"
     }, 
     {
-      "md5": "16f32003ed6af964832ca3081f164ec7", 
+      "md5": "26047d92ff90673c9e154db453f9e6e1", 
       "name": "GameLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -461,22 +341,22 @@
       "path": "zhajinhua/src/views/"
     }, 
     {
-      "md5": "a92ddada4828aabf65912e398f014eb8", 
+      "md5": "9c6b86ddefb55047890ee2c40b8b7bb6", 
       "name": "CompareView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "2692fc5a075a3cc17c2022883c5d1810", 
+      "md5": "31b1cb949ee5a2453e182aa5ec5238a4", 
       "name": "GameEndView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "e4b2e66320b93d7fee7a4450187bfa70", 
+      "md5": "1122984ad6f879cc26d7b927c7b2024b", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "allcount": 95
+      "allcount": 71
     }
   ]
 }
