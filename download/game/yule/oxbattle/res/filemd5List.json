@@ -66,7 +66,7 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "a7fa45a1b99f6f698a5a35a15109c5d5", 
+      "md5": "46ab1cb896bff3e40e5b9d98362fc7a6", 
       "name": "GameLayer.csb", 
       "path": "oxbattle/res/game_res/"
     }, 
@@ -76,7 +76,7 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "5cdfb2ece444d4f9c937a223f68054ec", 
+      "md5": "b317ec9217313271a74a7b6ea44dcf6d", 
       "name": "hundreds_table_main.png", 
       "path": "oxbattle/res/game_res/"
     }, 
@@ -391,7 +391,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "2c4d19721404d04ed0e4700a0c406af3", 
+      "md5": "c9fe1a67937613acbeda0ac58fb1da73", 
       "name": "GameViewLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
@@ -401,12 +401,12 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "2a8e0d2955db447b9814304c09dd247e", 
+      "md5": "a7862fa7c70c906f8374413daec93d6f", 
       "name": "UserItem.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "793e7422b2ed2b7bada7b21a1721b0db", 
+      "md5": "17333255ce87fd0fe87618f5604b70ea", 
       "name": "UserListLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 

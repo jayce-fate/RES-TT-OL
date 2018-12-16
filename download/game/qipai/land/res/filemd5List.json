@@ -1366,7 +1366,7 @@
       "path": "land/src/manager/"
     }, 
     {
-      "md5": "77d8c80c3925c15206470b55936f0c91", 
+      "md5": "42cfc374f0657fcb75064576b5133847", 
       "name": "CMD_Game.luac", 
       "path": "land/src/models/"
     }, 
@@ -1396,7 +1396,7 @@
       "path": "land/src/views/"
     }, 
     {
-      "md5": "98778884073157e5ec2f349cda4c2651", 
+      "md5": "65109da1e7c7c987d82f8fcaf4c0128e", 
       "name": "CardRecordLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
@@ -1416,17 +1416,17 @@
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "41c5064771d16a612d0bd40053646910", 
+      "md5": "cbbcd6c7de96dcfec3ed9a5c0750a81d", 
       "name": "GameViewLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "dd6605797bc08fcb841f59d15d9f9712", 
+      "md5": "0a43fcf3a0c9a8d2b8d821b7393c4aa8", 
       "name": "CardsNode.luac", 
       "path": "land/src/views/layer/gamecard/"
     }, 
     {
-      "md5": "a59dd8d2f615cfabdab824e9e94f1af1", 
+      "md5": "f3c1b7832a930c5f12b0e67c02ee4c1f", 
       "name": "CardSprite.luac", 
       "path": "land/src/views/layer/gamecard/"
     }, 

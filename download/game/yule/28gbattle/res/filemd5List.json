@@ -406,7 +406,7 @@
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "4408cc8feefac9700b0ebabf3db37be4", 
+      "md5": "6b773186905f53f2a659bed7660daed5", 
       "name": "GameLayer.csb", 
       "path": "28gbattle/res/game/"
     }, 
@@ -458,6 +458,11 @@
     {
       "md5": "4e4e1d5b51ba38bd7021d6c40f24c114", 
       "name": "brnn_btn_info.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "5df8f5356af589827de04d4c9221f807", 
+      "name": "brtx.png", 
       "path": "28gbattle/res/new_28gang/"
     }, 
     {
@@ -806,7 +811,7 @@
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "b4942f3b5a23f34982a6d4d5cd18b0f9", 
+      "md5": "2cf7e203caa193452309031d63ca2bf6", 
       "name": "GameViewLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
@@ -821,12 +826,12 @@
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "e640ace3d0c5a01e6757313cffaf1ae1", 
+      "md5": "ba280fe5d6e1ead0d9f508bd89fb5169", 
       "name": "UserListLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "allcount": 165
+      "allcount": 166
     }
   ]
 }

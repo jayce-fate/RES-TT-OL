@@ -41,7 +41,7 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "663ff4a5c939f8a02ec67515efc815f8", 
+      "md5": "01c9c097ee903fdf5489071029fc3c96", 
       "name": "GameLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -116,6 +116,11 @@
       "path": "baccaratnew/res/new_bjl/"
     }, 
     {
+      "md5": "5df8f5356af589827de04d4c9221f807", 
+      "name": "brtx.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
       "md5": "69a622eba9fe8f3538babd9c67941ccd", 
       "name": "dfjs.png", 
       "path": "baccaratnew/res/new_bjl/"
@@ -168,6 +173,11 @@
     {
       "md5": "2ce9243e76b48b92e3898a8308719a85", 
       "name": "new_bjl.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "b760a6a9fbbed51271918fe724eeecb7", 
+      "name": "ph.png", 
       "path": "baccaratnew/res/new_bjl/"
     }, 
     {
@@ -466,7 +476,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "9dfd55be6c417a99b91508dd5bc4d96d", 
+      "md5": "fbcf9362a7a85c5c549ce3c05907abd5", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -476,7 +486,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "8ac5e281be39809f42f561145111f22f", 
+      "md5": "b61ca071c7e4b68144f1514bbd6f77bd", 
       "name": "CardsNode.luac", 
       "path": "baccaratnew/src/views/layer/gamecard/"
     }, 
@@ -496,12 +506,12 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "md5": "15d21d7f10074b552510705dcb15a0f0", 
+      "md5": "bf699ba9c17609ae89db3f6f6837a66f", 
       "name": "UserListLayer.luac", 
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 100
+      "allcount": 102
     }
   ]
 }
