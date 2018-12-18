@@ -711,7 +711,7 @@
       "path": "client/res/login/"
     }, 
     {
-      "md5": "37bc4588a0bf75d13b41614a80ed2fc7", 
+      "md5": "213e4df2982a3ada844bde37e4e5b15f", 
       "name": "logo.png", 
       "path": "client/res/login/"
     }, 
@@ -861,12 +861,12 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "41abaaf8af6c0002145f919917148e3c", 
+      "md5": "ab63b9a20a1c19aa957b0d897c1a4521", 
       "name": "plazz.plist", 
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "28185fc0d085608a60b71ebd36874199", 
+      "md5": "36933c8c2aa061c93ad8cd47b95a0a97", 
       "name": "plazz.png", 
       "path": "client/res/plazz/"
     }, 
@@ -2001,7 +2001,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "c978a881794ddb708d2729a57900d392", 
+      "md5": "bf4d1bbf797f8730b44a3170833c4e4e", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
