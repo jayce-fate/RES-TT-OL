@@ -651,7 +651,7 @@
       "path": "client/res/login/"
     }, 
     {
-      "md5": "013a37b7f002cda269996d422ab14257", 
+      "md5": "d8b69b5ec3e0d0ac7b3e282ebda00551", 
       "name": "login_bg.jpg", 
       "path": "client/res/login/"
     }, 
@@ -711,7 +711,7 @@
       "path": "client/res/login/"
     }, 
     {
-      "md5": "f0efc336a48b8b2227085e1be6c8151b", 
+      "md5": "37bc4588a0bf75d13b41614a80ed2fc7", 
       "name": "logo.png", 
       "path": "client/res/login/"
     }, 
@@ -846,7 +846,7 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "34071cf291ee292409ace317cdd80a55", 
+      "md5": "bed08c15fad96ed87a73fe4c8960e148", 
       "name": "loading.jpg", 
       "path": "client/res/plazz/"
     }, 
@@ -861,12 +861,12 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "ab63b9a20a1c19aa957b0d897c1a4521", 
+      "md5": "41abaaf8af6c0002145f919917148e3c", 
       "name": "plazz.plist", 
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "6269363641739767b06bb7ea8e81cc92", 
+      "md5": "28185fc0d085608a60b71ebd36874199", 
       "name": "plazz.png", 
       "path": "client/res/plazz/"
     }, 
@@ -1846,7 +1846,7 @@
       "path": "client/res/withdraw/"
     }, 
     {
-      "md5": "7bd2b70d88699cc76b8d1888d492c9e9", 
+      "md5": "b8a71b6bd7940fc3b9d43a667e23681b", 
       "name": "WithdrawRecordCellNode.csb", 
       "path": "client/res/withdraw/"
     }, 
