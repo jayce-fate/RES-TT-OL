@@ -1361,6 +1361,11 @@
       "path": "client/res/recharge/"
     }, 
     {
+      "md5": "50ac607f25bac041de81e9ec5a56137b", 
+      "name": "recharge_menu_unionpay.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
       "md5": "b243b5f24edc2155f7ecb03af0d49e86", 
       "name": "recharge_menu_vip.png", 
       "path": "client/res/recharge/"
@@ -2301,7 +2306,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "b4938085d5983cc8dcee085b1dd73a5c", 
+      "md5": "e799423534c87bf22de7f97a347bd2fa", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2511,7 +2516,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 502
+      "allcount": 503
     }
   ]
 }
