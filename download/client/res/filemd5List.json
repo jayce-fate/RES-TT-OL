@@ -346,7 +346,7 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "dadcf0bda9c62ca40699c36b05b1dbb1", 
+      "md5": "8daa707535ea22183fb72089f2631882", 
       "name": "default.png", 
       "path": "client/res/GameList/"
     }, 
@@ -393,11 +393,6 @@
     {
       "md5": "c2c19ff29b9e15c867b0283de64c1979", 
       "name": "lobby_game_122.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "7f42da79d45870e69c9aba4741146085", 
-      "name": "lobby_game_123.png", 
       "path": "client/res/GameList/"
     }, 
     {
@@ -463,6 +458,11 @@
     {
       "md5": "d01227f8fd36865d0a3dfc5072cea0d6", 
       "name": "lobby_game_601.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "34da6744bda1aeadbcc4e043a2438da3", 
+      "name": "lobby_game_89.png", 
       "path": "client/res/GameList/"
     }, 
     {
@@ -1278,6 +1278,11 @@
     {
       "md5": "d50ef27bd20fbda504624df8cf9f51ad", 
       "name": "recharge_banner_bank.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "7470b933adf439a9e4b7dd5a618b99e8", 
+      "name": "recharge_banner_wechat.png", 
       "path": "client/res/recharge/"
     }, 
     {
@@ -2306,7 +2311,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "e799423534c87bf22de7f97a347bd2fa", 
+      "md5": "90470f65a304a33582d590879e293765", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2376,7 +2381,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "b77186804bfee479218e05d32d1da4e7", 
+      "md5": "93daaa671b226a07c6944260ebe7f435", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2391,7 +2396,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "02df0fed2962eff91e026ea637149ae7", 
+      "md5": "eddbc5fd31cf6c674ef26fd05ed5b3c1", 
       "name": "WithdrawLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2516,7 +2521,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 503
+      "allcount": 504
     }
   ]
 }

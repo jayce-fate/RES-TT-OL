@@ -6,7 +6,7 @@
       "path": "dragontiger/res/"
     }, 
     {
-      "md5": "ffd8786629ec9af948b3ab9c34710965", 
+      "md5": "25641241b93b3a9fb3255ac672c9003d", 
       "name": "OverLayer.csb", 
       "path": "dragontiger/res/"
     }, 
@@ -41,6 +41,26 @@
       "path": "dragontiger/res/fonts/"
     }, 
     {
+      "md5": "8fd52467613444ca4f3492285e5a622b", 
+      "name": "longhudou_winner_add.fnt", 
+      "path": "dragontiger/res/fonts/"
+    }, 
+    {
+      "md5": "0abb35e0c232987c6b3f379fd77be6a4", 
+      "name": "longhudou_winner_add_0.png", 
+      "path": "dragontiger/res/fonts/"
+    }, 
+    {
+      "md5": "e7658a5109c248d29fbddfc7fa98c338", 
+      "name": "rewards.fnt", 
+      "path": "dragontiger/res/fonts/"
+    }, 
+    {
+      "md5": "86decab97f694e8d4db4a00fc8554a02", 
+      "name": "rewards_0.png", 
+      "path": "dragontiger/res/fonts/"
+    }, 
+    {
       "md5": "b3667e9f9cbf80f4f2383bd3aea1a189", 
       "name": "round_body.ttf", 
       "path": "dragontiger/res/fonts/"
@@ -68,6 +88,71 @@
     {
       "md5": "0f14d69617e561cb59a9702a07d2c2ac", 
       "name": "fh.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "0da63cb8b2dbdb81a0ec8ba49795b951", 
+      "name": "h3card_btn_hundred.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "9169c5f1c3bbb20e434fef9a12916672", 
+      "name": "h3card_img_bg.jpg", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "611182aee5628e888aaac97cb68b9c6a", 
+      "name": "h3card_img_black.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "73acac867f10acd9108c9284e591302b", 
+      "name": "h3card_img_danzhanggray.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "d0560d42538ac3e9885571e042131cb2", 
+      "name": "h3card_img_he.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "9146a6cc552af6b0eaa44c5fc9407b09", 
+      "name": "h3card_img_hongvshei.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "d776497d28fea8626f93ced3c81e5471", 
+      "name": "h3card_img_ludan.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "252a3e3c6f87e9269d6ecd5d619edea0", 
+      "name": "h3card_img_red.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "f80b62cbb9bf888cc1fb59faf258ff19", 
+      "name": "h3card_img_roundrect.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "1fec8a8df1b2a6a22a6adeced8c1dcae", 
+      "name": "h3card_img_shadow.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "a3884667ef44c35bb94fc2994300328a", 
+      "name": "h3card_item_danzhang.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "9a7e1411635c1928badd65005b99d324", 
+      "name": "h3card_item_duizi.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "0f8fe4d3130c932141c311ffe1c7056b", 
+      "name": "h3card_notice_raise.png", 
       "path": "dragontiger/res/img/"
     }, 
     {
@@ -236,7 +321,7 @@
       "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "6dd330bb837c83dbed9485c16d9203d8", 
+      "md5": "4a1913618a57b9717c4a379265c87a37", 
       "name": "zhezhao.png", 
       "path": "dragontiger/res/img/"
     }, 
@@ -621,12 +706,12 @@
       "path": "dragontiger/src/views/"
     }, 
     {
-      "md5": "c7ff352e4f4632347b79484c1a397681", 
+      "md5": "7231c93b485a46e1a0c23739c958e382", 
       "name": "GameCardLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "3b169c739861f0d905669cead368a0e5", 
+      "md5": "437e273c527a1beb0d7c242cc7b84ee3", 
       "name": "GameViewLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
@@ -666,7 +751,7 @@
       "path": "dragontiger/src/views/layer/userlist/"
     }, 
     {
-      "md5": "3c7e05ea0755bcfbb15a6655571b34e6", 
+      "md5": "51d524f9e2ed558abeba1c8f8a5dd74f", 
       "name": "UserHead.luac", 
       "path": "dragontiger/src/views/layer/userlist/"
     }, 
@@ -681,7 +766,7 @@
       "path": "dragontiger/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 136
+      "allcount": 153
     }
   ]
 }
