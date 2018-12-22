@@ -711,7 +711,7 @@
       "path": "client/res/login/"
     }, 
     {
-      "md5": "213e4df2982a3ada844bde37e4e5b15f", 
+      "md5": "37bc4588a0bf75d13b41614a80ed2fc7", 
       "name": "logo.png", 
       "path": "client/res/login/"
     }, 
@@ -861,12 +861,12 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "ab63b9a20a1c19aa957b0d897c1a4521", 
+      "md5": "41abaaf8af6c0002145f919917148e3c", 
       "name": "plazz.plist", 
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "36933c8c2aa061c93ad8cd47b95a0a97", 
+      "md5": "28185fc0d085608a60b71ebd36874199", 
       "name": "plazz.png", 
       "path": "client/res/plazz/"
     }, 
@@ -1226,7 +1226,7 @@
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "ea72380abbc5f75a6a3428eea4fb5603", 
+      "md5": "1c77d688c5202a68a91683bc258917de", 
       "name": "ComplaintsProxy.csb", 
       "path": "client/res/recharge/"
     }, 
@@ -1261,12 +1261,12 @@
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "32e28219ef9f0ddf62058ae8891b0cea", 
+      "md5": "6adec139891cbbd2c3b602defaf00529", 
       "name": "ContactProxyLayer.csb", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "60e2fd013468d35d787ef237abca00fd", 
+      "md5": "6724b7e17fb8c270b5e009d3a1e124f6", 
       "name": "Recharge.csb", 
       "path": "client/res/recharge/"
     }, 
@@ -1346,8 +1346,38 @@
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "e0d15576c4a7b5d3f64bdc55c2446fd2", 
+      "md5": "4305499eff34c1334cdd87734202edbe", 
+      "name": "recharge_menu_alipay.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "3a79278bb5f8011f7c387e9adb96e0ce", 
+      "name": "recharge_menu_d.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "edfdcc990ba2f67a99aef3b3914ab759", 
+      "name": "recharge_menu_n.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "b243b5f24edc2155f7ecb03af0d49e86", 
+      "name": "recharge_menu_vip.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "c8b9088dbaf77822c32c16965965f500", 
+      "name": "recharge_menu_wechat.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "70285b14c1c1bba96701f0e6fd557b9a", 
       "name": "RechargeItemNode.csb", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "1d18ae10fbd299dffd01c91ac887a4cc", 
+      "name": "RechargeMenuNode.csb", 
       "path": "client/res/recharge/"
     }, 
     {
@@ -2001,7 +2031,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "bf4d1bbf797f8730b44a3170833c4e4e", 
+      "md5": "761ed0c42f586aaeb67a3a6903ceb123", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2271,7 +2301,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "11a53d5ff12378bdaae1802bd0781247", 
+      "md5": "b4938085d5983cc8dcee085b1dd73a5c", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2481,7 +2511,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 496
+      "allcount": 502
     }
   ]
 }
