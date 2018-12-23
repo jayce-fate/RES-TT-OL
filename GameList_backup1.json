@@ -23,10 +23,10 @@
 				"KindMark":"3"
 			},
 			{
-				"KindID":"89",
-				"KindName":"红黑大战",
+				"KindID":"25",
+				"KindName":"港式五张",
 				"TypeID":"0",
-				"ModuleName":"yule.h3card",
+				"ModuleName":"yule.hkfivecardnew",
 				"ClientVersion":"101122049",
 				"ResVersion":"57",
 				"SortID":"8",
