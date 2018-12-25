@@ -1,198 +1,68 @@
 {
   "listdata": [
     {
-      "md5": "ec97966c60db4017f859aa181dce0c19", 
-      "name": "118_gameLayer.csb", 
-      "path": "sicbobattle/res/"
+      "md5": "3a494ed025f9305ac7503cb4a9615f2e", 
+      "name": "dian1.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
     }, 
     {
-      "md5": "8041fc9ba83f4cdf8cccb1509041c96e", 
-      "name": "118_bank.plist", 
-      "path": "sicbobattle/res/bank/"
+      "md5": "6a2a53deb06bf182b5bc9e069210f515", 
+      "name": "dian2.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
     }, 
     {
-      "md5": "d7f3fbd1016ad17f01f48eebb02c723c", 
-      "name": "118_bank.png", 
-      "path": "sicbobattle/res/bank/"
+      "md5": "d0676cf77b407b0bcdf485cfd8d5b64e", 
+      "name": "dian3.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
     }, 
     {
-      "md5": "c2166ce3f487e01452ec938a90a8ca77", 
-      "name": "118_BankLayer.csb", 
-      "path": "sicbobattle/res/bank/"
+      "md5": "2b53c7c0a54278599a0f31ab9b91c6e9", 
+      "name": "dian4.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
     }, 
     {
-      "md5": "4afe4350b706563da2dce201af60762d", 
-      "name": "118_bankNumber.png", 
-      "path": "sicbobattle/res/bank/"
+      "md5": "1b358fad5858c0d0dae6fc2a1c7116e5", 
+      "name": "dian5.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
     }, 
     {
-      "md5": "c770d9190835fd87dbaeff2726c30b69", 
-      "name": "118_applyList.csb", 
+      "md5": "2f18b3a811b9675df23db596b9c56f2c", 
+      "name": "dian6.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "159cf37cd8658a9027b02ffd2885a8d6", 
+      "name": "shaizi_spine.atlas", 
+      "path": "sicbobattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "eee026b90ad3a0e6982383c3fd1b0972", 
+      "name": "shaizi_spine.json", 
+      "path": "sicbobattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "8de1c858988eef957a206b59e3f17a58", 
+      "name": "shaizi_spine.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "02f15b3d0193f16552c5a799e0a49297", 
+      "name": "GameLayer.csb", 
       "path": "sicbobattle/res/game/"
     }, 
     {
-      "md5": "4792e7236638bca27858f102a3a5fba3", 
-      "name": "118_applyList.plist", 
+      "md5": "41578c387f40e316895d455e53c6c2df", 
+      "name": "player.csb", 
       "path": "sicbobattle/res/game/"
     }, 
     {
-      "md5": "820fb50fe390afd695f9659d7a027d81", 
-      "name": "118_applyList.png", 
+      "md5": "da77d05615d6796f32866918748a3c80", 
+      "name": "UserItem.csb", 
       "path": "sicbobattle/res/game/"
     }, 
     {
-      "md5": "10c38aff76907b9babad72003894999b", 
-      "name": "118_background.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "1d10aadbfc71820f8522795844c981ae", 
-      "name": "118_btnList.csb", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "918e14c3f60462685516b1f92b2ff004", 
-      "name": "118_clock_num.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "471815183c08a71eb909933e41e8a734", 
-      "name": "118_diceAni.plist", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "dfc119349a5fad7e5f106d5b7edfe927", 
-      "name": "118_diceAni.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "8ff33841d85daf3cef14d2b4fea2f956", 
-      "name": "118_gameLayer.plist", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "21aacf161bddd122f1e8aecac7582fa5", 
-      "name": "118_gameLayer.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "23754c9601a375cf04edba4e3f789f60", 
-      "name": "118_resultBg.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "a6f12aae3b96eb77d91f07e0bae5aa5e", 
-      "name": "118_userItem.csb", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "aa134d289245e75d5ad825ff8176bcce", 
-      "name": "118_userList.csb", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "d3f7fd0e8023e44f1f07fb543c733278", 
-      "name": "118_userList.plist", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "9a1951bcd7b754b8b4b490d8340a4537", 
-      "name": "118_userList.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "078a087472a37a233d37ce68eb6ba85e", 
-      "name": "bjl_game_chip_0_0.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "7937837f0e2f3a585bb7141ca9be0b93", 
-      "name": "bjl_game_chip_0_1.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "1cd3d834d67f0dd1c1ba713ab813ff0c", 
-      "name": "bjl_game_chip_0_2.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "16a847f7233489a487ba7772791315d3", 
-      "name": "bjl_game_chip_1_0.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "618c2b0bc4cd83932bb73257e3a62438", 
-      "name": "bjl_game_chip_1_1.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "88c33e95486e773d6408999df3837424", 
-      "name": "bjl_game_chip_1_2.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "f89ff06e4bf9cddce9dd37c64da9d5cf", 
-      "name": "bjl_game_chip_2_0.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "a5c948a7da0c1cf97527acacb16583f9", 
-      "name": "bjl_game_chip_2_1.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "815dd640c915c2cf24c1ec4fc1e33f8b", 
-      "name": "bjl_game_chip_2_2.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "6682c2389582e7882559fe4edebc9d1a", 
-      "name": "bjl_game_chip_3_0.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "0ca906f753255f9363bd90358bc7587f", 
-      "name": "bjl_game_chip_3_1.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "0acf586ccdb77d120ee41430f4c9d1fe", 
-      "name": "bjl_game_chip_3_2.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "66101eb4d46ec1974df75ab7838c8cb3", 
-      "name": "bjl_game_chip_4_0.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "6008b496ec583e492ce01c47c5347b69", 
-      "name": "bjl_game_chip_4_1.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "3525031c01e5317f884b463c9ce9d7df", 
-      "name": "bjl_game_chip_4_2.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "93a931e5f60d221a40c9d65cc455f43f", 
-      "name": "bjl_game_chip_5_0.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "89ccfebc79d284fd0e7007f3dd8ec4f8", 
-      "name": "bjl_game_chip_5_1.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "f238d79b4e16f881c3ce8aae1d7b2f34", 
-      "name": "bjl_game_chip_5_2.png", 
-      "path": "sicbobattle/res/game/"
-    }, 
-    {
-      "md5": "6fbc007e57ab5f3e889bae1a138988e0", 
-      "name": "recordNode.csb", 
+      "md5": "61c11050384a5da5eab870ba7ac9178e", 
+      "name": "UserListLayer.csb", 
       "path": "sicbobattle/res/game/"
     }, 
     {
@@ -221,19 +91,94 @@
       "path": "sicbobattle/res/roomlist/"
     }, 
     {
-      "md5": "344fd3b9c329992bc094bfad4924e319", 
-      "name": "118_setLayer.csb", 
-      "path": "sicbobattle/res/set/"
+      "md5": "02a8161779ba1b478991ef5ee9fd2106", 
+      "name": "bg.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
     }, 
     {
-      "md5": "470b93d0c71d32b2b5ac22fcd8e5d037", 
-      "name": "118_setLayer.plist", 
-      "path": "sicbobattle/res/set/"
+      "md5": "160d170820efd253107ca30b32e19a70", 
+      "name": "big.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
     }, 
     {
-      "md5": "19b43c3c68cf6cbb3758b80abc82c8fe", 
-      "name": "118_setLayer.png", 
-      "path": "sicbobattle/res/set/"
+      "md5": "1c50335522172a9105cbfa45ccfb670d", 
+      "name": "bright_12.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "ff94d4a4f421fc9a1825812a13fb1cb1", 
+      "name": "bright_13.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "c98d65c4c1506c0da102a1226455efab", 
+      "name": "di.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "114b5d0ff008c7219277c5a3f09d4b83", 
+      "name": "dianshu_bg.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "a26872d061c226e3a78e013de2c69f2b", 
+      "name": "fnt1.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "788c949a56bf27532cb20c9fcd4b931b", 
+      "name": "fnt2.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "d2f7f4a13c3091870a1026f7313915ab", 
+      "name": "heidi.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "b84dc247e3ec206c42484801c3e62f39", 
+      "name": "jiesuan_bg.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "0205fb2df8a66a9e1a553aa0a1c22a0d", 
+      "name": "jiesuan_bt.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "5a5f759579501c695f8432d3d5ebdddf", 
+      "name": "js.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "c97aa2b3e834d5113824a0e279a48f1e", 
+      "name": "record_bg.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "1212882600439f6efdbe77eac9196998", 
+      "name": "sicbo_h.plist", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "790d37272436e47d887dcbf662ef873a", 
+      "name": "sicbo_h.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "adbd139c7d8617c377fcaf9d4ce3f093", 
+      "name": "smo.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "2f7b47dd690cba388afcc094e3aa11e8", 
+      "name": "xzjs.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "f4f3f316812b8ea3d93a8873708a047e", 
+      "name": "xzks.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
     }, 
     {
       "md5": "7b9a592e78878b45d7dc292d3bc1c321", 
@@ -306,7 +251,7 @@
       "path": "sicbobattle/src/models/"
     }, 
     {
-      "md5": "a4be46834377c6bb34bbbcebfa3e7c20", 
+      "md5": "35eb89b756adec59ee09c3ad43e6b792", 
       "name": "CMD_Game.luac", 
       "path": "sicbobattle/src/models/"
     }, 
@@ -316,12 +261,12 @@
       "path": "sicbobattle/src/models/"
     }, 
     {
-      "md5": "025f3701831ed9154da8f4a4430a0b80", 
+      "md5": "bab1ec188ffc849ba519a6f96d34a8aa", 
       "name": "GameLogic.luac", 
       "path": "sicbobattle/src/models/"
     }, 
     {
-      "md5": "ce56af959afe63b49476f1d8cec13887", 
+      "md5": "b1fad97030a257dd1631b2dba7243e7a", 
       "name": "GameLayer.luac", 
       "path": "sicbobattle/src/views/"
     }, 
@@ -336,18 +281,8 @@
       "path": "sicbobattle/src/views/"
     }, 
     {
-      "md5": "d795fbc8f65d1fb6368dc71f3e8c1163", 
-      "name": "BtnListLayer.luac", 
-      "path": "sicbobattle/src/views/layer/"
-    }, 
-    {
-      "md5": "cdbae86f4de405a159934af50ceb194f", 
+      "md5": "39fe479b696c79fd1072f5bb4953e584", 
       "name": "GameViewLayer.luac", 
-      "path": "sicbobattle/src/views/layer/"
-    }, 
-    {
-      "md5": "b5d0255d52d96fd99de956f5845f6ea8", 
-      "name": "SetLayer.luac", 
       "path": "sicbobattle/src/views/layer/"
     }, 
     {
@@ -356,17 +291,17 @@
       "path": "sicbobattle/src/views/layer/userlist/"
     }, 
     {
-      "md5": "09ab3dabad60d0e5431585b20eed6d01", 
+      "md5": "911c6f69bb6b8bb48e2ce6e360001bd0", 
       "name": "UserItem.luac", 
       "path": "sicbobattle/src/views/layer/userlist/"
     }, 
     {
-      "md5": "a85d180ff91f59e0d4a2ca03ba857f4a", 
+      "md5": "e536cf7d5fc599ceeb7bc507b3988eb1", 
       "name": "UserListLayer.luac", 
       "path": "sicbobattle/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 73
+      "allcount": 60
     }
   ]
 }
