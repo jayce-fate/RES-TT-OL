@@ -41,7 +41,7 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "01c9c097ee903fdf5489071029fc3c96", 
+      "md5": "377ef4bb5a6ff712493e287303a22950", 
       "name": "GameLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -151,6 +151,11 @@
       "path": "baccaratnew/res/new_bjl/"
     }, 
     {
+      "md5": "788bc88d9bb15112f6dbb99eff2c3d8d", 
+      "name": "jia.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
       "md5": "b49faf56a9e8d8c7d6fd1c62f4134e97", 
       "name": "ksxz.png", 
       "path": "baccaratnew/res/new_bjl/"
@@ -188,6 +193,11 @@
     {
       "md5": "77dc1a933b41b5f57fd6b42fc17b9f82", 
       "name": "room_chipbg.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "ac0dff86434f0f7a95c088f4539e57cc", 
+      "name": "sicbo_new_res_xz.png", 
       "path": "baccaratnew/res/new_bjl/"
     }, 
     {
@@ -456,7 +466,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "2c6cbf5add76e0afd2e5eb6d78e57bdc", 
+      "md5": "cc6a9c9797d8bdc1febd8113ab29d397", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -476,12 +486,12 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "979a3c2be6b50b82a120c7237d58fb95", 
+      "md5": "581ba4cf87f845c5b21be559b451288e", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "247afb04419cc986ea24301fbe7015d7", 
+      "md5": "3c6dc676304e09486a0e4b89fe11f254", 
       "name": "WallBillLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -511,7 +521,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 102
+      "allcount": 104
     }
   ]
 }

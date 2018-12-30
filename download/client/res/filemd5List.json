@@ -381,7 +381,7 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "3ab1371d3eb54edfd6c57d950f245eba", 
+      "md5": "384e2dcff9740ec5a7e7bb3e5fe0e1bf", 
       "name": "lobby_game_118.png", 
       "path": "client/res/GameList/"
     }, 
@@ -2311,7 +2311,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "40076e1ccf558f0ce201de285db3bd4f", 
+      "md5": "12a1c868205f96bb0402ecee82b7dff4", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 

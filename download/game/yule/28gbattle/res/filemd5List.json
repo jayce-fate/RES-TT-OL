@@ -131,7 +131,7 @@
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "f152e5a7bb0344106d6233910fd85cbf", 
+      "md5": "b3ba8080e18a5be8989c9f5255f9ab8a", 
       "name": "GameLayer.csb", 
       "path": "28gbattle/res/game/"
     }, 
@@ -206,6 +206,11 @@
       "path": "28gbattle/res/new_28gang/"
     }, 
     {
+      "md5": "788bc88d9bb15112f6dbb99eff2c3d8d", 
+      "name": "jia.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
       "md5": "f06d38fe09f8d8a595c2c92e97f65a74", 
       "name": "js.png", 
       "path": "28gbattle/res/new_28gang/"
@@ -248,6 +253,11 @@
     {
       "md5": "9c36c6362645aff75c90f89d6038ac22", 
       "name": "sb.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "ac0dff86434f0f7a95c088f4539e57cc", 
+      "name": "sicbo_new_res_xz.png", 
       "path": "28gbattle/res/new_28gang/"
     }, 
     {
@@ -531,7 +541,7 @@
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "b7ee696540300c0d48da6a893aae9622", 
+      "md5": "3bead018bd3240d32e3f5db5662e363f", 
       "name": "GameViewLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
@@ -551,7 +561,7 @@
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "allcount": 110
+      "allcount": 112
     }
   ]
 }
